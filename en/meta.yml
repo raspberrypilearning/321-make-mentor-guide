@@ -5,7 +5,7 @@ version: 4
 listed: false
 copyedit: false
 last_tested: "2022-05-09"
-steps:
+steps: 
   - title: Introduction
   - title: Why 321 Make! ?
   - title: What is a path?

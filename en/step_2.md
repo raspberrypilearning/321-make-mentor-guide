@@ -13,7 +13,7 @@ You should see...
 ![starter project](images/starter_project.png)
 
 --- /task ---
-
+ 
 --- task ---
 
 Step content...
