@@ -5,7 +5,7 @@ This guide is for facilitators using the Raspberry Pi Foundation's [321 Make! pa
 **Terminology:** In this guide we refer to the adult club leaders, educators and mentors as **facilitators** and the young people they are supporting as **creators**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Our global community of awesome young <span style="color: #0faeb0">**creators**</span> have been growing their skills by making projects in clubs and at home for over a decade. Through sharing their creations they have inspired their peers
+Our global community of awesome young <span style="color: #0faeb0">**creators**</span> have been growing their skills by making projects in clubs and at home for over a decade. Through sharing their creations they have inspired their peers around the world. 
 </p>
 
 [Three screenshots of our projects placed in a fan layout.](images/project-fan.png)
@@ -13,7 +13,7 @@ Our global community of awesome young <span style="color: #0faeb0">**creators**<
 Each path is made up of three different types of project in a 3-2-1 structure:
 
 + **3** Explore projects to introduce creators to a set of skills, and provide step-by-step instructions to help them develop initial confidence.
-+ **2** Design projects allow creators to practise the skills they learned in the previous Explore projects, and to express themselves creatively.
++ **2** Design projects to allow creators to practise the skills they learned in the previous Explore projects, and to express themselves creatively whilst growing independence.
 + **1** Invent project where creators meet a project brief for a particular audience using their skills.
 + **Make!** resources allow creators to turn their own ideas into projects.
 
