@@ -5,7 +5,7 @@ This guide is for facilitators using the Raspberry Pi Foundation's [321 Make! pa
 **Terminology:** In this guide we refer to the adult club leaders, educators and mentors as **facilitators** and the young people they are supporting as **creators**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Our global community of awesome young <span style="color: #0faeb0">**creators**</span> have been making projects in clubs and at home for over a decade. Through sharing their creations they have celebrated and inspired 
+Our global community of awesome young <span style="color: #0faeb0">**creators**</span> have been growing their skills by making projects in clubs and at home for over a decade. Through sharing their creations they have inspired their peers
 </p>
 
 [Three screenshots of our projects placed in a fan layout.](images/project-fan.png)
