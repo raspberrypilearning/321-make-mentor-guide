@@ -1,59 +1,25 @@
 ## Introduction
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+This guide is for facilitators using the Raspberry Pi Foundation's [321 Make! paths of projects](https://projects.raspberrypi.org/en/paths){:target="_blank"} in clubs and events. Parents and more experienced creators may also find this guide useful. 
 
-### What you will make
+**Terminology:** In this guide we refer to the adult club leaders, educators and mentors as **facilitators** and the young people they are supporting as **creators**.
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+Our global community of awesome young <span style="color: #0faeb0">**creators**</span> have been making projects in clubs and at home for over a decade. Through sharing their creations they have celebrated and inspired 
+</p>
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+[Three screenshots of our projects placed in a fan layout.](images/project-fan.png)
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+Each path is made up of three different types of project in a 3-2-1 structure:
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
++ **3** Explore projects to introduce creators to a set of skills, and provide step-by-step instructions to help them develop initial confidence.
++ **2** Design projects allow creators to practise the skills they learned in the previous Explore projects, and to express themselves creatively.
++ **1** Invent project where creators meet a project brief for a particular audience using their skills.
++ **Make!** resources allow creators to turn their own ideas into projects.
 
-+ A computer or tablet capable of running Scratch 3
+We will cover:
++ The motivation behind creating 321 Make! and the new paths of projects
++ The different kinds of project in 321 Make!
++ Tips for using the paths in engaging sessions
 
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+We would love to hear your thoughts about 321 Make!, the paths and projects. As you work through this guide you will notice a 'Send feedback' button at the bottom of each step. This button appears on all our projects for you and your young creators to send feedback at any time. 
