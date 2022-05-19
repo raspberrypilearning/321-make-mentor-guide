@@ -56,4 +56,6 @@ The '[Introduction to the Raspberry Pi Pico](https://projects.raspberrypi.org/en
 
 ### Reflection
 
-The [reflection](https://projects.raspberrypi.org/en/projects/sensory-gadget/3){:target="_blank"} step for **invent** is a time for your creators to think about the skills that they have used and to check if they have met the project brief. 
+The [reflection](https://projects.raspberrypi.org/en/projects/sensory-gadget/3){:target="_blank"} step for **invent** projects is a time for your creators to think about the skills that they have used and to check if they have met the project brief. 
+
+They should go through each one and use the check list provided to 'check off' what they have done. By completing this step, creators are given
