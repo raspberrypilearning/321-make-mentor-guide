@@ -1,77 +1,110 @@
-## 1 Invent project
+## 2 Design projects  
 
-In **invent** projects, creators focus on completing a project to meet a **project brief** for a particular audience. The project brief is written so that they can meet it using the **skills** they’ve learned by following the path up to this point. Creators are provided with reference material, but are free to decide which skills to use. They need to plan their project and decide on the order to carry out tasks.
+In **design** projects, creators are guided through the development process. They take more responsibility for deciding exactly what to make and which computing concepts to use. The outputs of design projects are much more varied than the output of explore projects. 
+
+At the end of each design project, creators are encouraged to share what they have made with others. 
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">**Design**</span> means making decisions about the functioning or appearance of a project. It includes software engineering, visual design, usability and accessibility.  
+</p>
+
+**Tip:** Our creators have a wide range of previous experience levels and will progress at different speeds.Design projects are structured so that they build up gradually. Creators who don't complete all steps will still have something to be proud of. Projects don't need to be finished to be valuable. If your group are enjoying a project and need more time then you could continue for another session.
 
 ### Introduction
 
-The introduction gives creators **one** initial project to explore with some guided questions for them to think about. They are then introduced to the project brief which provides guidance on what the creators should be working towards. 
+The Introduction step gives creators several examples to get inspiration from. They are encouraged to try the example projects and explore their code. 
 
-Here is the project brief that is given to creators in the 'Introduction to the Rasberry Pi Pico' path:
+![Examples of projects.](images/surprise-example.png)
 
-<div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
+The examples show creators what they will be able to make by the end of the project. 
 
-### PROJECT BRIEF: Sensory gadget
-<hr style="border-top: 2px solid black;">
+Questions in the **Try it:** tasks are designed to get creators to pay attention to what is **similar** across the projects and what is **different**. The similarities should also be in their completed projects. The differences are where they get the opportunity to add their own creative ideas. 
 
-Brief explanation of the aims of the project. 
+**Tip:** If you are limited for time or have creators who need more support then they can start from one of the examples and remix it instead of completely creating their own project. 
 
-Your sensory gadget should:
-+ Have multiple different kinds of input
-+ Have multiple different outputs
-+ Be appealing to the user and robust enough to be used
+**Tip** If you have time it's a good idea to show creators the example design projects the session before, or encourage them to try them at home, so that they have time to think about their own ideas. 
 
-Your sensory gadget could:
-+ Take ergonomics like user comfort into consideration
-+ Reset on user input or after a set amount of time 
-+ Connect to a specific theme
+## Choose your theme
 
-</div>
+Design projects usually have a step where learners are encouraged to think about the theme for their project. 
 
-Creators are then given **at least three** more examples of invent projects that provide a wide range of ideas to support them with their own designs. They are encouraged to explore them and look at the code to see how other creators have approached the same brief in different ways. 
+In the Scratch [Surprise Animation](https://projects.raspberrypi.org/en/projects/surprise-animation/) Design project, creators make a surprise animation with four steps. They need to make decision about the sprites and animations that are used. 
 
-### Your idea
+They are asked the following questions:
++ Where do you want your animation to take place?
++ Where do you want your sprites to start? How big do you want them to be? How do you want them to look?
 
-Most invent projects have a **Your idea** step where the creators think about the purpose and audience for their projects. They also begin to make the design decisions for their projects. 
+**Tip:** It's a good idea to have some paper and pencils available for creators who prefer to sketch their ideas. Access to a document editor is useful for those who prefer to make digital notes. 
 
-Here is an example question that is asked in the 'Introduction to the Raspberry Pi Pico' path:
+This step is an opportunity to:
 
---- task ---
++ Make the project culturally or locally relevant. You could make an example project to show them have the project can be made with a theme that you know will be relevant to your young creators. 
++ Make the project personally relevant. It is important that young people see that computing and digital making addresses topics that are meaningful to them. Explain that the knowledge they have from their hobbies and interests is really valuable when making computing projects. 
 
-Think about the purpose of your sensory gadget. 
+**Tip:** Some young people who are technically very capable struggle to think of their own ideas. They could try and recreate one of the examples without looking at the code. 
 
-It could be:
-+ For a younger sibling to learn about sights and sounds
-+ A way of relieving tension through pressing buttons and hearing sounds
-+ A communication tool to help people express their needs 
+## Creation steps 
 
---- /task ---
+The main steps in a Design project guide creators throught the stages of making the project. Design projects include tasks that require learners 
 
-The **Your idea** step also includes any starter files that creators might need to get started with their projects. This often includes helpful code, images and files to make it easier for them to get going with their ideas.
+Design projects model the decomposition of a project into manageable steps. At the end of each step, creators will have a part or feature of their project working. 
 
-### Build and test
+Design projects include **Choose** steps where creators are offered a choice. These include content decision such as graphics, colours and text. These decisions will influence the functionality of their project. For example, the selection of a character could influence the way they move. A leopard would move quickly while a snail would move slowly. 
 
-The **Build and test** stage can sometimes go over two steps, depending on the length of the project. This stage gives creators **info cards** for every single skill that is covered in the earlier projects. The cards are catagorised to aid creators in finding the ones that they need for the part of the problem they are trying to solve. 
+Design projects include all the code snippets that creators will need. These are provided in **info cards**. The concepts in the provided code will be familiar from the preceding Explore projects. Creators will need to modify the code snippets for their project. 
 
-The '[Introduction to the Raspberry Pi Pico](https://projects.raspberrypi.org/en/projects/sensory-gadget/2){:target="_blank"}' path lists over 50 info cards to support your creators with their projects. 
+Where possible we provide code that can be reused via the Scratch backpack or through copy and paste. 
 
-### Reflection
+**Tip:** Professional software developers often reuse code, it's not cheating! It's much more important that creators understand what a unit of code does than that they remember how to reproduce it line by line. 
 
-The [reflection](https://projects.raspberrypi.org/en/projects/sensory-gadget/3){:target="_blank"} step for **invent** projects is a time for your creators to think about the skills that they have used and to check if they have met the project brief. 
+Creation steps also include regular **Test:** steps. This encourages creators to get into the habit of testing code when ever they have made a change with a visible outcome. The **Test:** steps are less specific than in Explore projects as each project will be different but we give kinds on the kinds of behaviour to test for. 
 
-They should go through each one and use the check list provided to 'check off' what they have done. After completing this step, creators are awarded with their project badge. 
+Design projects include **Debug:** steps with advice on how to spot and fix the specific kinds of bug that they are likely to encounter at this point in the project. 
 
-### Upgrade 
+**Tip:** When a creator asks for help in a Design project, encourage them to check the **Debug:** steps and see if they can help. This encourages independence and accurately identifying the problem. 
 
-If your creators have time and they want to take their project further then they are encouraged to do this in the upgrade step. They can revisit the projects on the introduction page to get more inspiration for expanding on what they have achieved. 
+If you find bug that we haven't covered then please let us know in the Feedback link. 
 
-### Share 
+## Reflection
 
-The Raspberry Pi foundation has a strong community of digital makers. It is really important to ask your creators to share their projects in the showcase with us. This allows other makers in the community to see their ideas and gain inspiration from their peers. 
+Like Explore project, Design project have three multiple choice questions. These questions generally fall into two categories:
 
-In this step, creators will be guided through sharing their project. This could also include in-person sharing. 
++ Technical questions outside a specific context. Where the questions in Explore projects are usually in the context of the specific project that has been made, technical questions in an Explore project use less familiar examples. 
++ Design questions. These questions could ask about best practices (such as giving variables informative names) or could be related to the relevance of computing (such as why it makes sense to use code to solve a problem.)
+
+As with Explore projects, the reflection questions are not intended as an formal assessment, instead they give provide an opportunity to revisit and embed important concepts so that creators will be prepared for future projects. 
+
+## Upgrade your project
+
+As with Explore projects, this step allows **differentiation by outcome** and allows creators who have additional time or want to continue at home to take their project further.
+
+This step often includes an inspirational example that we would not expect all creators to be able to achieve. 
+
+**Tip:** It's important to remind young people how long it takes a big team to make a piece of software. They are creating amazing projects in much less time. They are awesome.
+
+## Share
+
+In this step, creators will be guided through sharing their project. This could include in-person sharing as well as online sharing. 
 
 Creators will have the opportunity to share their project with the Raspberry Pi Foundation community by submitting to a Studio or Gallery. 
 
-## Research and software engineering
+### What next step
 
-+ Design thinking
+Design projects end with a **what next** step that has links to the path overview and the next project in the path. 
+
+It's a great idea to introduce your young people to the next project they will be doing so that they can start thinking about what they will make. 
+
+### Research and Software Engineering links
+
++ Offering **choice** increases engagement by making projects more relevant and meaningful to young people. 
++ Each design project comes with four **worked examples** that creators can review to understand how the projects were made. 
++ Starter projects and guided instructions provide a **plan** which helps to break a project done into achievable parts.
++ Allowing creators to become familiar with concepts and skills in Explore projects before asking them to apply those skills creatively manages the **cognitive load** that they experience on the path to becoming independent makers. 
++ Use-Modify-Create and PRIMM advocate gradually transferring ownership of code from the educator to the learner.
++ **Debugging** is often reported as a difficult area for beginners. We are able to give context-specific **Debug:** steps in Design projects.
++ The structured guidance for making personally relevant projects increases chances of success and the development of **self-efficacy**.
++ Professional software developers often use **design patterns** to capture best practices in an area of computing.  
++ Giving creators access to best practice code snippets helps to avoid the **Turing tarpit** where beginners are given environments where they could do anything but it's hard to do cool stuff. 
++ Software developers progress from writing code that has been designed by others to taking more responsibility for design. 
+
+ 
