@@ -52,6 +52,8 @@ The projects are split into pages (steps), each step begins with a description a
 
 This is the step introduction from the 'Exhaust effects' step in our [Rocket launch](https://projects.raspberrypi.org/en/projects/rocket-launch){:target="_blank"} project: 
 
+--- task ---
+
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 
@@ -66,6 +68,8 @@ You can create cool effects by using a `for` loop to draw lots of shapes in each
 
 </div>
 </div>
+
+--- /task ---
 
 ### Project boxouts
 
@@ -97,13 +101,17 @@ In this example from our [Grow a dragonfly](https://projects.raspberrypi.org/en/
 
 --- /task ---
 
---- /task ---
-
 ### Upgrade your project step
 
-Each explore project contains an **upgrade your project** step with ideas and inspiration for creators to develop their project further with the skills they have already. 
+Each explore project contains an **upgrade your project** step with ideas and aspirational projects for creators to develop their project further with the skills they have already. 
+
+Upgrade steps are open ended so are great for a session where creators are working at different paces. They're also a chance to build localisation and personalise projects. 
+
+At the end of a session you could have 'show and tell' where creators share their projects and talk about their creation process. This would be a good time to look at the upgrade options to celebrate how far their new skills can take them.   
 
 The upgrade step also contains an Info card with link to the completed solution. 
+
+--- task ---
 
 Here is an example of an upgrade step from our Beating heart [Beating heart](https://projects.raspberrypi.org/en/projects/beating-heart){:target="_blank"} project.
 
@@ -118,7 +126,6 @@ You can use your portable beating heart as a room decoration. Set it to a slow s
 </div>
 </div>
 
---- task ---
 You could:
 + Create a better papercraft heart. 
 + Add a blue LED to represent de-oxygenated blood entering and leaving the heart. 
@@ -138,12 +145,6 @@ Below is an example from our [Broadcasting spells](https://projects.raspberrypi.
 
 If you are following the [More Scratch](https://projects.raspberrypi.org/en/raspberrypi/more-scratch) path, you can move on to the [Grow a dragonfly](https://projects.raspberrypi.org/en/projects/grow-a-dragonfly) project. In this project, you will make a Dragonfly that eats insects.
 
---- print-only ---
-
-![Dragonfly project](images/dragonfly-project.png)
-
---- /print-only ---
-
 --- no-print ---
 
 <div class="scratch-preview" style="margin-left: 15px;">
@@ -153,3 +154,8 @@ If you are following the [More Scratch](https://projects.raspberrypi.org/en/rasp
 --- /no-print ---
 
 --- /task ---
+
+### Research and software engineering
+
++ Beginning with **direct instruction** introduces new concepts 
++ **Step by step instructions** build early success and give creators the chance to gain familiarity with tools.

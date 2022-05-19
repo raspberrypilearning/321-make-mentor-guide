@@ -6,9 +6,9 @@ A path is a collection of **six** projects that cover a set of skills needed for
 
 Currently, there are three levels of path:
 
-+ 'Introduction to...' these paths are for the creators first introduction to the hardware or software. 
-+ 'More...' these paths follow on directly from the 'Introduction to' paths and build on those skills, whilst introducing new ones.
-+ 'Further...' these paths are currently the most advanced. They build on all of the skills covered in 'Introduction to' and 'More' paths, whilst introducing new skills. 
++ '**Introduction to...**' these paths are for the creators first introduction to the hardware or software. 
++ '**More...**' these paths follow on directly from the 'Introduction to' paths and build on those skills, whilst introducing new ones.
++ '**Further...**' these paths are currently the most advanced. They build on all of the skills covered in 'Introduction to' and 'More' paths, whilst introducing new skills. 
 
 ### Progression within a path
 
@@ -54,6 +54,21 @@ More guides are in development.
 Reflection steps have been built into each project within the path. This could be time to complete a quiz or for creators to check that they have met the project brief.
 
 Reflection time is another opportunity for creators to revisit and remind themselves of the key skills covered in the project. The quizzes should be seen as another opportunity to learn and not an official assessment. 
+
+### Badges
+
+![Three badges taken from the Scratch, Raspberry Pi Pico and Unity paths.](images/badges.png)
+
+At the end of each project, the creators are awarded with a project badge. If your creators have an account then they can collect and view their badges there. 
+
+### Research links
+
++ As creators **progress** through a path, the activities allow for growth whilst reducing frustrations. 
++ Starting with **step by step** activities builds motivation. Moving on to **guided activities** where creators make **design choices** allows for increased independence.
++ Beginning with **direct instruction** and then moving on to **independent** projects increases engagement and motivation.
++ Invent projects allow creators to work on projects that **matter to them**. This means that they are more engaged with the activity and more willing to expand their projects and learn more. 
++ Projects across a path are carefully considered to ensure that they appeal to a wide, global audience. 
+
 
 
 
