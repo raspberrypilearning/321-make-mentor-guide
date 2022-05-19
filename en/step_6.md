@@ -58,4 +58,20 @@ The '[Introduction to the Raspberry Pi Pico](https://projects.raspberrypi.org/en
 
 The [reflection](https://projects.raspberrypi.org/en/projects/sensory-gadget/3){:target="_blank"} step for **invent** projects is a time for your creators to think about the skills that they have used and to check if they have met the project brief. 
 
-They should go through each one and use the check list provided to 'check off' what they have done. By completing this step, creators are given
+They should go through each one and use the check list provided to 'check off' what they have done. After completing this step, creators are awarded with their project badge. 
+
+### Upgrade 
+
+If your creators have time and they want to take their project further then they are encouraged to do this in the upgrade step. They can revisit the projects on the introduction page to get more inspiration for expanding on what they have achieved. 
+
+### Share 
+
+The Raspberry Pi foundation has a strong community of digital makers. It is really important to ask your creators to share their projects in the showcase with us. This allows other makers in the community to see their ideas and gain inspiration from their peers. 
+
+In this step, creators will be guided through sharing their project. This could also include in-person sharing. 
+
+Creators will have the opportunity to share their project with the Raspberry Pi Foundation community by submitting to a Studio or Gallery. 
+
+## Research and software engineering
+
++ Design thinking
