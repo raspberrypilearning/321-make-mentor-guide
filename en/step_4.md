@@ -157,6 +157,7 @@ If you are following the [More Scratch](https://projects.raspberrypi.org/en/rasp
 
 ### Research and software engineering
 
++ Explore projects begin with a **Try it:** step which is similar to the **Use** step in Use-Modify-Create. It is important that creators understand what a project is supposed to do. This provides context for the instructions that they follow. Each step also shows what they will achieve by the end of the step so that they have a clear understanding of the expected outcome. 
 + Beginning with **direct instruction** introduces new concepts in a structured way to ensure that creators are familiar with the skills that they will need to apply later on. 
 + **Step by step instructions** build early success and give creators the chance to gain familiarity with tools.
 + Explore projects **model** the best practices of building a project up step by step with regular testing and debugging. 
