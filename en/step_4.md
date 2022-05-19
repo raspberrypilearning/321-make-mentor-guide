@@ -157,5 +157,7 @@ If you are following the [More Scratch](https://projects.raspberrypi.org/en/rasp
 
 ### Research and software engineering
 
-+ Beginning with **direct instruction** introduces new concepts 
++ Beginning with **direct instruction** introduces new concepts in a structured way to ensure that creators are familiar with the skills that they will need to apply later on. 
 + **Step by step instructions** build early success and give creators the chance to gain familiarity with tools.
++ Explore projects **model** the best practices of building a project up step by step with regular testing and debugging. 
++ Small **choices** are built into the projects allow creators to feel more connected with their projects without making over-ambitious changes that can lead to frustration. 
