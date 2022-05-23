@@ -4,6 +4,8 @@ While designing the new format for our projects, we found that, as well as suppo
 
 321 Make! is informed by research into how young people develop interest and skills in computing as well as the experiences of the Raspberry Pi Foundation, Code Club and CoderDojo. 
 
+![](images/321make.jpg)
+
 Key principles for 321 Make! include:
 
 + Independence (I can make things that matter to me)
