@@ -4,6 +4,8 @@ In **design** projects, creators are guided through the development process. The
 
 At the end of each design project, creators are encouraged to share what they have made with others. 
 
+Design projects have much in common with many CoderDojo projects which offer choice to creators as well as the open challenges at the end of Code Club projects. 
+
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">**Design**</span> means making decisions about the functioning or appearance of a project. It includes software engineering, visual design, usability and accessibility.  
 </p>
@@ -59,7 +61,9 @@ Look at these examples and think about how they have been made from circles, ell
 
 **Tip:** If you are limited for time or have creators who need more support then they can start from one of the examples and remix it instead of completely creating their own project. 
 
-**Tip** If you have time it's a good idea to show creators the example design projects the session before, or encourage them to try them at home, so that they have time to think about their own ideas. 
+**Tip:** If you have time it's a good idea to show creators the example design projects the session before, or encourage them to try them at home, so that they have time to think about their own ideas. 
+
+**Tip:** For our Scratch paths, you can see the remixes other creators have made by visiting the starter project page for each. This example from our [Silly eyes project page](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} contains many inspirational projects you might want to share some with your creators.  
 
 ## Choose your theme
 
@@ -142,7 +146,7 @@ The character could be brave and move closer to check out the object.
 
 **Tip:** Professional software developers often reuse code, it's not cheating! It's much more important that creators understand what a unit of code does than that they remember how to reproduce it line by line. 
 
-Creation steps also include regular **Test:** steps. This encourages creators to get into the habit of testing code when ever they have made a change with a visible outcome and to view their project from a user's perspective. The **Test:** steps are less specific than in Explore projects as each project will be different but we give kinds on the kinds of behaviour to test for. 
+Creation steps also include regular **Test:** tasks. This encourages creators to get into the habit of testing code when ever they have made a change with a visible outcome and to view their project from a user's perspective. The **Test:** tasks are less specific than in Explore projects as each project will be different but we give kinds on the kinds of behaviour to test for. 
 
 This example from our [Don't fall in](https://projects.raspberrypi.org/en/projects/dont-fall-in){:target="_blank"} Design project includes details of what to test and look out for: 
 
@@ -154,12 +158,24 @@ This example from our [Don't fall in](https://projects.raspberrypi.org/en/projec
 
 --- /task ---
 
-Design projects include **Debug:** steps with advice on how to spot and fix the specific kinds of bug that they are likely to encounter at this point in the project. 
+Design projects include **Debug:** tasks with advice on how to spot and fix the specific kinds of bug that they are likely to encounter at this point in the project. 
 
-**Tip:** When a creator asks for help in a Design project, encourage them to check the **Debug:** steps and see if they can help. This encourages independence and accurately identifying the problem. 
+**Tip:** When a creator asks for help in a Design project, encourage them to check the **Debug:** tasks and see if they can help. This encourages independence and accurately identifying the problem. 
 
-If you find bug that we haven't covered then please let us know in the Send Feedback button. 
+This **Debug:** task from our [Mood indicator](https://projects.raspberrypi.org/en/projects/mood-indicator){:target="_blank"} Design project details some common bugs and encourages celebrating any new bugs found. 
 
+--- task ---
+
+**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+
+[[[debug-pico-code]]]
+[[[debug-pico-hardware]]]
+
+If you find a bug that is not listed here. Can you work out how to fix it?
+
+We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page and tell us if you found a different bug in your project.
+
+--- /task ---
 ## Reflection
 
 Like Explore projects, Design projects have three multiple choice questions. These questions generally fall into two categories:
@@ -183,8 +199,48 @@ In this step, creators will be guided through sharing their project. This could 
 
 Creators will have the opportunity to share their project with the Raspberry Pi Foundation community by submitting to a Studio or Gallery. 
 
+In this example from our [Next customer please](https://projects.raspberrypi.org/en/projects/next-customer-please){:target="_blank"} Design project creators 
 
-This example from our [Next customer please](https://projects.raspberrypi.org/en/projects/next-customer-please){:target="_blank"} Design project 
+--- task ---
+
+If you are logged in on Scratch, you can create a studio and add your **Next customer please** project. You can also add your friends' **Next customer please** projects to create a market of different shops and businesses.
+
+--- collapse ---
+
+---
+
+title: Build a shopping market
+
+---
+
+Save your project, then click on your username and select **My Stuff**.
+
+![the pop up menu under your account name in the top right.](images/my-stuff-menu.png)
+
+From your **My Stuff** page, click on the **+ New Studio** button.
+
+![The grey 'New Studio' button on the 'My Stuff' page.](images/create-studio.png)
+
+Give your new studio a name and description. 
+
+![The name box at the top of the studio and the description box on the left of the studio.](images/naming-studio.png)
+
+Click on the **Add projects** button. You can add yor own project by selecting it from the list at the bottom of the page.
+
+![The 'Add Projects' pop up at the bottom of the page with a gallery of project thumbnails. ](images/add-your-projects.png)
+
+You can also add projects your friends have created. Ask them to share their project and give you the link. Type or paste the link into the url box, then click the **Add by url** button. 
+
+--- /collapse ---
+
+Inspire the Raspberry Pi Foundation community with your project!
+
+To submit your project to our ['Intergalactic shopping market'](https://scratch.mit.edu/studios/29662180){:target="_blank"} Scratch studio, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+
+<iframe src="https://scratch.mit.edu/studios/29662180“ allowtransparency=”true“ width=”485“ height=”402“ frameborder=”0“scrolling=”yes" allowfullscreen></iframe>
+
+--- /task ---
+
 
 ### What next step
 
@@ -192,19 +248,28 @@ Design projects end with a **what next** step that has links to the path overvie
 
 It's a great idea to introduce your young people to the next project they will be doing so that they can start thinking about what they will make. 
 
-### Research and Software Engineering links
+--- collapse ---
+
+---
+title: Research and software engineering
+---
 
 + Offering **choice** increases engagement by making projects more relevant and meaningful to young people. 
-+ Each design project comes with four **worked examples** that creators can review to understand how the projects were made. 
-+ Starter projects and guided instructions provide a **plan** which helps to break a project done into achievable parts.
-+ Allowing creators to become familiar with concepts and skills in Explore projects before asking them to apply those skills creatively manages the **cognitive load** that they experience on the path to becoming independent makers. 
-+ Use-Modify-Create and PRIMM advocate gradually transferring ownership of code from the educator to the learner.
++ Each design project comes with four [**worked examples**](https://blog.teachcomputing.org/using-worked-examples-to-support-novice-learners/){:target="_blank"} that creators can review to understand how the projects were made. 
++ Starter projects and guided instructions provide a [**plan** with **subgoals**](https://blog.teachcomputing.org/using-worked-examples-to-support-novice-learners/){:target="_blank"} which helps to break a project down into achievable parts.
++ Allowing creators to become familiar with concepts and skills in Explore projects before asking them to apply those skills creatively manages the [**cognitive load**](https://blog.teachcomputing.org/pedagogy-bytes-quick-reads-for-busy-educators/){:target="_blank"} that they experience on the path to becoming independent makers. 
++ Use-Modify-Create and [PRIMM](https://blog.teachcomputing.org/using-primm-to-structure-programming-lessons/){:target="_blank"} advocate gradually transferring ownership of code from the educator to the learner.
 + **Debugging** is often reported as a difficult area for beginners. We are able to give context-specific **Debug:** steps in Design projects.
-+ The structured guidance for making personally relevant projects increases chances of success and the development of **self-efficacy**.
++ The structured guidance for making personally relevant projects increases chances of success and the development of [**self-efficacy**](https://www.raspberrypi.org/blog/digital-divide-socioeconomic-disadvantage-computing-education/){:target="_blank"}.
 + Professional software developers often use **design patterns** to capture best practices in an area of computing.  
 + Design projects encourage regular **testing** and **debugging** which are important software engineering practices and also support the development of **executive functioning** skills. 
 + Giving creators access to best practice code snippets helps to avoid the **Turing tarpit** where beginners are given environments where they could do anything but it's hard to do cool stuff. 
 + Software developers progress from writing code that has been designed by others to taking more responsibility for design. 
 + Design projects cover **software design skills** such as good modularity and best practices for naming. They also include design for **usability** and **accessibility**.
+
+--- /collapse ---
+
+
+
 
  

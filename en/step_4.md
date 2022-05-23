@@ -4,6 +4,8 @@
 
 We recommend that facilitators complete the projects themselves before running a session with creators. This familiarity with the project helps aniticpate issues and you can make note of discussion points - you may wish to share your version of the project with the group for extra inspiration at the end of the session.  
 
+**Explore** projects have much in common with previous step-by-step projects from Code Club and the Raspberry Pi Foundation. 
+
 ### Tasks 
 
 Creators work through the project tasks, each task has a green background and a grey checkmark box in the top-right corner. Once a creator has completed the task they can check the box, this turns the checkmark into a green filled box and fades the content. 
@@ -28,7 +30,7 @@ The Introduction step in Explore projects has a **Try it** task to be used at th
 
 Investigation questions encourage them to interact with the project. This task can be completed indpendently by the creators or together as an introduction to your session. 
 
-Here is an example of a **Try it** task from our [Space talk](https://projects.raspberrypi.org/en/projects/space-talk){:target="_blank"} project that requires user interaction:
+Here is an example of a **Try it** task from our [Space talk](https://projects.raspberrypi.org/en/projects/space-talk){:target="_blank"} Explore project that requires user interaction:
 
 --- no-print ---
 --- task ---
@@ -50,7 +52,7 @@ What happens if you click on one sprite and then quickly click on another sprite
 
 The projects are split into pages (steps), each step begins with a description and images showing creators what they will have made by the end of the step. 
 
-This is the step introduction from the 'Exhaust effects' step in our [Rocket launch](https://projects.raspberrypi.org/en/projects/rocket-launch){:target="_blank"} project: 
+This is the step introduction from the 'Exhaust effects' step in our [Rocket launch](https://projects.raspberrypi.org/en/projects/rocket-launch){:target="_blank"} Explore project: 
 
 --- task ---
 
@@ -77,7 +79,7 @@ Project boxouts are used to highlight talking points and extra information such 
 
 --- task ---
 
-Here is an example of a boxout from our [Catch the bus](https://projects.raspberrypi.org/en/projects/catch-the-bus){:target="_blank"} project where an animation is made: 
+Here is an example of a boxout from our [Catch the bus](https://projects.raspberrypi.org/en/projects/catch-the-bus){:target="_blank"} Explore project where an animation is made: 
 
 Would you use boxouts independently or as a group?
 
@@ -95,7 +97,7 @@ Info cards in explore projects are used to give extra information. They could ad
 
 Click on the Info card below to expand it. 
 
-In this example from our [Grow a dragonfly](https://projects.raspberrypi.org/en/projects/grow--dragonfly){:target="_blank"} project the Info card is a guide explaining how to use the Scratch backpack feature and will only be expanded by those creators that want to know how to use it:
+In this example from our [Grow a dragonfly](https://projects.raspberrypi.org/en/projects/grow--dragonfly){:target="_blank"} Explore project the Info card is a guide explaining how to use the Scratch backpack feature and will only be expanded by those creators that want to know how to use it:
 
 [[[scratch-backpack]]]
 
@@ -109,11 +111,9 @@ Upgrade steps are open ended so are great for a session where creators are worki
 
 At the end of a session you could have 'show and tell' where creators share their projects and talk about their creation process. This would be a good time to look at the upgrade options to celebrate how far their new skills can take them.   
 
-The upgrade step also contains an Info card with link to the completed solution. 
+The upgrade step also contains an Info card with link to the completed solution. Here is an example of an upgrade step from our Beating heart [Beating heart](https://projects.raspberrypi.org/en/projects/beating-heart){:target="_blank"} Explore project:
 
 --- task ---
-
-Here is an example of an upgrade step from our Beating heart [Beating heart](https://projects.raspberrypi.org/en/projects/beating-heart){:target="_blank"} project.
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
@@ -131,6 +131,7 @@ You could:
 + Add a blue LED to represent de-oxygenated blood entering and leaving the heart. 
 + Add a heartbeat sound using a passive buzzer.
 + Add more LEDs and papercraft hearts and make them pulse at the same time. Choose any colour LED you like.
+
 --- /task ---
 
 ### What next step
@@ -139,11 +140,11 @@ Explore projects end with a **what next** step that has links to the path overvi
 
 You could end your session by looking at this step as a group and building excitment for the next project. 
 
+Below is an example from our [Broadcasting spells](https://projects.raspberrypi.org/en/projects/broadcasting-spells){:target="_blank"} Explore project. How would you use it to motivate creators for next session? 
+
 --- task ---
 
-Below is an example from our [Broadcasting spells](https://projects.raspberrypi.org/en/projects/broadcasting-spells){:target="_blank"} project. How would you use it to motivate creators for next session? 
-
-If you are following the [More Scratch](https://projects.raspberrypi.org/en/raspberrypi/more-scratch) path, you can move on to the [Grow a dragonfly](https://projects.raspberrypi.org/en/projects/grow-a-dragonfly) project. In this project, you will make a Dragonfly that eats insects.
+If you are following the [More Scratch](https://projects.raspberrypi.org/en/raspberrypi/more-scratch) path, you can move on to the [Grow a dragonfly](https://projects.raspberrypi.org/en/projects/grow-a-dragonfly) Explore project. In this project, you will make a Dragonfly that eats insects.
 
 --- no-print ---
 
@@ -155,12 +156,22 @@ If you are following the [More Scratch](https://projects.raspberrypi.org/en/rasp
 
 --- /task ---
 
-### Research and software engineering
+--- collapse ---
+
+---
+title: Research and software engineering
+---
 
 + Explore projects begin with a **Try it:** step which is similar to the **Use** step in Use-Modify-Create. It is important that creators understand what a project is supposed to do. This provides context for the instructions that they follow. Each step also shows what they will achieve by the end of the step so that they have a clear understanding of the expected outcome. 
 + Beginning with **direct instruction** introduces new concepts in a structured way to ensure that creators are familiar with the skills that they will need to apply later on. 
 + **Step by step instructions** build early success and give creators the chance to gain familiarity with tools.
 + Explore projects **model** the best practices of building a project up step by step with regular testing and debugging. Professional software developers often learn new skills from more experienced colleagues. 
++ The projects follow principles from [**Universal Design for Learning**](https://www.raspberrypi.org/blog/universal-design-for-learning-in-computing-hello-world-15/) to support the inclusion of all young people. 
 + Small **choices** are built into the projects allow creators to feel more connected with their projects without making over-ambitious changes that can lead to frustration. 
 + Multiple choice questions at the end of the main project steps provide an opportunity to review and embed knowledge and is a form of **assessment for learning**. They also provide the opportunity to **celebrate** and **reflect** on what has been achieved.
 + Early success leads to an increase in **self-efficacy** which in know to be a factor in increasing future participation in computing.  
+
+--- /collapse ---
+
+
+
