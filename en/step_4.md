@@ -1,6 +1,6 @@
 ## 3 Explore projects 
 
-Explore projects are step-by-step instructions that introduce creators to a set of skills and help them develop initial confidence. Each path begins with 3 Explore projects that between them contain the set of skills and concepts needed for the entire path.
+**Explore** projects are step-by-step instructions that introduce creators to a set of skills and help them develop initial confidence. Each path begins with 3 Explore projects that between them contain the set of skills and concepts needed for the entire path.
 
 We recommend that facilitators complete the projects themselves before running a session with creators. This familiarity with the project helps aniticpate issues and you can make note of discussion points - you may wish to share your version of the project with the group for extra inspiration at the end of the session.  
 
@@ -162,4 +162,5 @@ If you are following the [More Scratch](https://projects.raspberrypi.org/en/rasp
 + **Step by step instructions** build early success and give creators the chance to gain familiarity with tools.
 + Explore projects **model** the best practices of building a project up step by step with regular testing and debugging. Professional software developers often learn new skills from more experienced colleagues. 
 + Small **choices** are built into the projects allow creators to feel more connected with their projects without making over-ambitious changes that can lead to frustration. 
-+ Multiple choice questions at the end of the main project steps provide an opportunity to review and embed knowledge and is a form of **assessment for learning**. They also provide the opportunity to **celebrate** and **reflect** on what has been achieved. 
++ Multiple choice questions at the end of the main project steps provide an opportunity to review and embed knowledge and is a form of **assessment for learning**. They also provide the opportunity to **celebrate** and **reflect** on what has been achieved.
++ Early success leads to an increase in **self-efficacy** which in know to be a factor in increasing future participation in computing.  
