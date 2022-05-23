@@ -4,6 +4,8 @@ In **design** projects, creators are guided through the development process. The
 
 At the end of each design project, creators are encouraged to share what they have made with others. 
 
+Design projects have much in common with many CoderDojo projects which offer choice to creators as well as the open challenges at the end of Code Club projects. 
+
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">**Design**</span> means making decisions about the functioning or appearance of a project. It includes software engineering, visual design, usability and accessibility.  
 </p>
@@ -195,7 +197,6 @@ In this step, creators will be guided through sharing their project. This could 
 
 Creators will have the opportunity to share their project with the Raspberry Pi Foundation community by submitting to a Studio or Gallery. 
 
-
 In this example from our [Next customer please](https://projects.raspberrypi.org/en/projects/next-customer-please){:target="_blank"} Design project creators 
 
 --- task ---
@@ -236,7 +237,7 @@ Inspire the Raspberry Pi Foundation community with your project!
 
 To submit your project to our ['Intergalactic shopping market'](https://scratch.mit.edu/studios/29662180){:target="_blank"} Scratch studio, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
 
-![Example shop projects in the 'Intergalactic shopping market' Scratch studio.](images/studio-example.png)
+<iframe src="https://scratch.mit.edu/studios/29662180“ allowtransparency=”true“ width=”485“ height=”402“ frameborder=”0“scrolling=”yes" allowfullscreen></iframe>
 
 --- /task ---
 
@@ -250,12 +251,12 @@ It's a great idea to introduce your young people to the next project they will b
 ### Research and Software Engineering links
 
 + Offering **choice** increases engagement by making projects more relevant and meaningful to young people. 
-+ Each design project comes with four **worked examples** that creators can review to understand how the projects were made. 
-+ Starter projects and guided instructions provide a **plan** which helps to break a project done into achievable parts.
-+ Allowing creators to become familiar with concepts and skills in Explore projects before asking them to apply those skills creatively manages the **cognitive load** that they experience on the path to becoming independent makers. 
-+ Use-Modify-Create and PRIMM advocate gradually transferring ownership of code from the educator to the learner.
++ Each design project comes with four [**worked examples**](https://blog.teachcomputing.org/using-worked-examples-to-support-novice-learners/){:target="_blank"} that creators can review to understand how the projects were made. 
++ Starter projects and guided instructions provide a [**plan** with **subgoals**](https://blog.teachcomputing.org/using-worked-examples-to-support-novice-learners/){:target="_blank"} which helps to break a project down into achievable parts.
++ Allowing creators to become familiar with concepts and skills in Explore projects before asking them to apply those skills creatively manages the [**cognitive load**](https://blog.teachcomputing.org/pedagogy-bytes-quick-reads-for-busy-educators/){:target="_blank"} that they experience on the path to becoming independent makers. 
++ Use-Modify-Create and [PRIMM](https://blog.teachcomputing.org/using-primm-to-structure-programming-lessons/){:target="_blank"} advocate gradually transferring ownership of code from the educator to the learner.
 + **Debugging** is often reported as a difficult area for beginners. We are able to give context-specific **Debug:** steps in Design projects.
-+ The structured guidance for making personally relevant projects increases chances of success and the development of **self-efficacy**.
++ The structured guidance for making personally relevant projects increases chances of success and the development of [**self-efficacy**](https://www.raspberrypi.org/blog/digital-divide-socioeconomic-disadvantage-computing-education/){:target="_blank"}.
 + Professional software developers often use **design patterns** to capture best practices in an area of computing.  
 + Design projects encourage regular **testing** and **debugging** which are important software engineering practices and also support the development of **executive functioning** skills. 
 + Giving creators access to best practice code snippets helps to avoid the **Turing tarpit** where beginners are given environments where they could do anything but it's hard to do cool stuff. 

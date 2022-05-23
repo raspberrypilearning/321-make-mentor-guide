@@ -1,6 +1,6 @@
 ## Introduction
 
-This guide is for facilitators using the Raspberry Pi Foundation's [321 Make! paths of projects](https://projects.raspberrypi.org/en/paths){:target="_blank"} in clubs and events. Parents and more experienced creators may also find this guide useful. 
+This guide is for facilitators using the Raspberry Pi Foundation's [321 Make! paths of projects](https://projects.raspberrypi.org/en/paths){:target="_blank"} in remote and in person clubs or at events. Parents of home learners and more experienced creators may also find this guide useful. 
 
 **Terminology:** In this guide we refer to the adult club leaders, educators and mentors as **facilitators** and the young people they are supporting as **creators**.
 

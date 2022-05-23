@@ -79,6 +79,8 @@ Creators will have the opportunity to share their project with the Raspberry Pi 
 + A **project brief** provides clear guidance on what is expected and acts as a **rubric**. 
 + **Info cards** provide easy access to reference materials. Being able to work with reference materials is an important skill for software developers. 
 + As with Design projects, the examples act as **worked examples**. 
-+ Creating projects that are personally relevant increases engagement and helps young people to develop their **computing identity**. 
++ Creating projects that are personally relevant increases engagement and helps young people to develop their [**computing identity**](https://www.raspberrypi.org/blog/digital-divide-socioeconomic-disadvantage-computing-education/){:target="_blank"}. 
 + A focus on **sharing** projects and getting **feedback** is an important aspect of **constructionism**. 
 + The **reflection** step in Invent projects encourages creators to reflect on their successes and difficulties. Reflection is known to make an important contribution to learning. 
++ Invent projects provide an opportunity for [**culturally relevant pedagogy**](https://blog.teachcomputing.org/quick-read-culturally-relevant-pedagogy/){:target="_blank"} which values the knowledge and experiences that creators bring to their projects. 
++ Invent projects draw on the ideas of [**project-based learning**](https://blog.teachcomputing.org/project-based-learning/){:target="_blank"}.

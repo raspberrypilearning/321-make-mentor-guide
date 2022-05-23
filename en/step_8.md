@@ -6,18 +6,25 @@ Creators can use the skills they've gained, along with reference materials, to c
 
 ### Make! another invent project
 
-The invent projects have been designed to be flexible when it comes to the context and the skills that creators want to showcase. If your creator needs some scafolding to come up with their own project idea then you can encourage them to make another invent project for a different context or theme. 
+The Invent projects have been designed to be flexible when it comes to the context and the skills that creators want to showcase. If your creator needs some scafolding to come up with their own project idea then you can encourage them to make another Invent project for a different context or theme. 
 
 ### Timescale
 
 Independent making can be carried out over various time periods depending on your constraints. You could run a single session or allocate several weeks to team based projects.  
 
-### Encourage team work
+### Encourage collaboration
 
 + Pair programming
+
+A pair programming approach can support creators to develop programs and problem solve more successfully. Application of this approach is more than simply asking two creators to work together and involves them taking on two different roles: driver and navigator.
+
+A [quick read](https://blog.teachcomputing.org/quick-read-pair-programming-supports-learners/){:target="_blank"} is available if you would like more information on pair programming. 
+
 + Team work
 
+Every creator is an individual who will have different interests and skills. Some might really enjoy creating artwork for characters and backdrops, others might prefer to spend time on perfecting the accuracy of providing scores for a game. Having a wide range of skills in a group can be a real asset to a project. 
 
+When working on Make! projects, encourage your creators to work in teams with people that have different skillsets to them. They can then assign roles and learn how to work together to produce something really cool. 
 
 ### Coolest Projects Guidance
 
@@ -25,7 +32,8 @@ Independent making can be carried out over various time periods depending on you
 
 ### Enter Coolest Projects
 
-If you've made something cool, why not enter in in coolest projects?
+If you've made something you're proud of, why not enter in in the Coolest Projects Global Showcase? Coolest Projects is the cworld’s leading technology showcase for young people. It's a unique opportunity to get creative, have fun, and celebrate ingenuity! Young people from all over the globe submit their creations to a global showcase, which is then shortlisted and judged by a panel of technology and social action experts from around the globe. 
+
 [[[scratch-coolest-projects]]]
 
 [[[python-coolest-projects]]]
@@ -49,6 +57,6 @@ The technology-specific guides provide reference materials. The recently develop
 
 ### When creators are ready to move on
 
-Start a new path
+Creators will often decide for themselves when they wish to move on to some new skills. This might be at the end of the Invent project or it could be after creating several Make! projects. 
 
 

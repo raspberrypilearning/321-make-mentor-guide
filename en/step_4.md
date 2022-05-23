@@ -4,6 +4,8 @@
 
 We recommend that facilitators complete the projects themselves before running a session with creators. This familiarity with the project helps aniticpate issues and you can make note of discussion points - you may wish to share your version of the project with the group for extra inspiration at the end of the session.  
 
+**Explore** projects have much in common with previous step-by-step projects from Code Club and the Raspberry Pi Foundation. 
+
 ### Tasks 
 
 Creators work through the project tasks, each task has a green background and a grey checkmark box in the top-right corner. Once a creator has completed the task they can check the box, this turns the checkmark into a green filled box and fades the content. 
@@ -160,6 +162,7 @@ If you are following the [More Scratch](https://projects.raspberrypi.org/en/rasp
 + Beginning with **direct instruction** introduces new concepts in a structured way to ensure that creators are familiar with the skills that they will need to apply later on. 
 + **Step by step instructions** build early success and give creators the chance to gain familiarity with tools.
 + Explore projects **model** the best practices of building a project up step by step with regular testing and debugging. Professional software developers often learn new skills from more experienced colleagues. 
++ The projects follow principles from [**Universal Design for Learning**](https://www.raspberrypi.org/blog/universal-design-for-learning-in-computing-hello-world-15/) to support the inclusion of all young people. 
 + Small **choices** are built into the projects allow creators to feel more connected with their projects without making over-ambitious changes that can lead to frustration. 
 + Multiple choice questions at the end of the main project steps provide an opportunity to review and embed knowledge and is a form of **assessment for learning**. They also provide the opportunity to **celebrate** and **reflect** on what has been achieved.
 + Early success leads to an increase in **self-efficacy** which in know to be a factor in increasing future participation in computing.  
