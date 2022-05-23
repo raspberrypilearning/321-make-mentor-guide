@@ -4,7 +4,7 @@ While designing the new format for our projects, we found that, as well as suppo
 
 321 Make! is informed by research into how young people develop interest and skills in computing as well as the experiences of the Raspberry Pi Foundation, Code Club and CoderDojo. 
 
-![](images/321make.jpg)
+![An illustration of the four stages on the 321 Make! path. A start here flag is at the beginning, the path then moves along to Explore, then Design, then Invent and then a final flag that says "Make!".](images/321make.png)
 
 Key principles for 321 Make! include:
 

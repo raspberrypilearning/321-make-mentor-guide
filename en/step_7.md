@@ -110,6 +110,8 @@ They should go through each one and use the check list provided to 'check off' w
 
 After completing this step, creators are awarded with their project badge. This example from our [This sprite needs you](https://projects.raspberrypi.org/en/projects/this-sprite-needs-you){:target="_blank"} Invent project encourages celebration as the creators reflect:
 
+--- task ---
+
 **Now you are the creator of a simulation!**
 
 Take a moment to celebrate what you have made.
@@ -117,6 +119,8 @@ Take a moment to celebrate what you have made.
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">Computer simulations</span> can allow us to experience situations that we couldn't in real life. There are computer simulations that allow surgeons to practice operations. There are simulations that allow space engineers to predict what will happen when they launch a rocket, and make changes to the variables to see what happens. And there are game simulations that allow you to take care of a pet, person, family, or job. 
 </p>
+
+--- /task ---
 
 
 ### Upgrade 
