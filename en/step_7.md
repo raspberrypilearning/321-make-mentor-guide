@@ -104,9 +104,20 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 ### Reflection
 
-The [reflection](https://projects.raspberrypi.org/en/projects/sensory-gadget/3){:target="_blank"} step for **invent** projects is a time for your creators to think about the skills that they have used and to check if they have met the project brief. 
+The reflection step for **invent** projects is a time for your creators to think about the skills that they have used and to check if they have met the project brief. 
 
-They should go through each one and use the check list provided to 'check off' what they have done. After completing this step, creators are awarded with their project badge. 
+They should go through each one and use the check list provided to 'check off' what they have done. 
+
+After completing this step, creators are awarded with their project badge. This example from our [This sprite needs you](https://projects.raspberrypi.org/en/projects/this-sprite-needs-you){:target="_blank"} Invent project encourages celebration as the creators reflect:
+
+**Now you are the creator of a simulation!**
+
+Take a moment to celebrate what you have made.
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">Computer simulations</span> can allow us to experience situations that we couldn't in real life. There are computer simulations that allow surgeons to practice operations. There are simulations that allow space engineers to predict what will happen when they launch a rocket, and make changes to the variables to see what happens. And there are game simulations that allow you to take care of a pet, person, family, or job. 
+</p>
+
 
 ### Upgrade 
 
