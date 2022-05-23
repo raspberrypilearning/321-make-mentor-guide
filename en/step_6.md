@@ -76,6 +76,10 @@ Think about the kind of world you want to make:
 
 Think of a name for your world.
 
+What kind of character will the Player be in your world? We have included some animal and car model objects that you can choose from. Alternatively, you can make a character from a 3D GameObject with child objects that move together.
+
+![The rocket mid flight with an exhaust trail.](images/player-examples.png)
+
 --- /task ---
 
 **Tip:** It's a good idea to have some paper and pencils available for creators who prefer to sketch their ideas. Access to a document editor is useful for those who prefer to make digital notes. 
