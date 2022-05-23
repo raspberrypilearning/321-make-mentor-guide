@@ -61,7 +61,9 @@ Look at these examples and think about how they have been made from circles, ell
 
 **Tip:** If you are limited for time or have creators who need more support then they can start from one of the examples and remix it instead of completely creating their own project. 
 
-**Tip** If you have time it's a good idea to show creators the example design projects the session before, or encourage them to try them at home, so that they have time to think about their own ideas. 
+**Tip:** If you have time it's a good idea to show creators the example design projects the session before, or encourage them to try them at home, so that they have time to think about their own ideas. 
+
+**Tip:** For our Scratch paths, you can see the remixes other creators have made by visiting the starter project page for each. This example from our [Silly eyes project page](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} contains many inspirational projects you might want to share some with your creators.  
 
 ## Choose your theme
 
@@ -229,8 +231,6 @@ Click on the **Add projects** button. You can add yor own project by selecting i
 
 You can also add projects your friends have created. Ask them to share their project and give you the link. Type or paste the link into the url box, then click the **Add by url** button. 
 
-![The url box underneath the 'Add projects' button and the 'Add by url' button.](images/path.png)
-
 --- /collapse ---
 
 Inspire the Raspberry Pi Foundation community with your project!
@@ -248,7 +248,11 @@ Design projects end with a **what next** step that has links to the path overvie
 
 It's a great idea to introduce your young people to the next project they will be doing so that they can start thinking about what they will make. 
 
-### Research and Software Engineering links
+--- collapse ---
+
+---
+title: Research and software engineering
+---
 
 + Offering **choice** increases engagement by making projects more relevant and meaningful to young people. 
 + Each design project comes with four [**worked examples**](https://blog.teachcomputing.org/using-worked-examples-to-support-novice-learners/){:target="_blank"} that creators can review to understand how the projects were made. 
@@ -262,5 +266,10 @@ It's a great idea to introduce your young people to the next project they will b
 + Giving creators access to best practice code snippets helps to avoid the **Turing tarpit** where beginners are given environments where they could do anything but it's hard to do cool stuff. 
 + Software developers progress from writing code that has been designed by others to taking more responsibility for design. 
 + Design projects cover **software design skills** such as good modularity and best practices for naming. They also include design for **usability** and **accessibility**.
+
+--- /collapse ---
+
+
+
 
  
