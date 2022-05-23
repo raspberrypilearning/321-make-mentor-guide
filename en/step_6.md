@@ -142,7 +142,7 @@ The character could be brave and move closer to check out the object.
 
 **Tip:** Professional software developers often reuse code, it's not cheating! It's much more important that creators understand what a unit of code does than that they remember how to reproduce it line by line. 
 
-Creation steps also include regular **Test:** steps. This encourages creators to get into the habit of testing code when ever they have made a change with a visible outcome and to view their project from a user's perspective. The **Test:** steps are less specific than in Explore projects as each project will be different but we give kinds on the kinds of behaviour to test for. 
+Creation steps also include regular **Test:** tasks. This encourages creators to get into the habit of testing code when ever they have made a change with a visible outcome and to view their project from a user's perspective. The **Test:** tasks are less specific than in Explore projects as each project will be different but we give kinds on the kinds of behaviour to test for. 
 
 This example from our [Don't fall in](https://projects.raspberrypi.org/en/projects/dont-fall-in){:target="_blank"} Design project includes details of what to test and look out for: 
 
@@ -154,12 +154,24 @@ This example from our [Don't fall in](https://projects.raspberrypi.org/en/projec
 
 --- /task ---
 
-Design projects include **Debug:** steps with advice on how to spot and fix the specific kinds of bug that they are likely to encounter at this point in the project. 
+Design projects include **Debug:** tasks with advice on how to spot and fix the specific kinds of bug that they are likely to encounter at this point in the project. 
 
-**Tip:** When a creator asks for help in a Design project, encourage them to check the **Debug:** steps and see if they can help. This encourages independence and accurately identifying the problem. 
+**Tip:** When a creator asks for help in a Design project, encourage them to check the **Debug:** tasks and see if they can help. This encourages independence and accurately identifying the problem. 
 
-If you find bug that we haven't covered then please let us know in the Send Feedback button. 
+This **Debug:** task from our [Mood indicator](https://projects.raspberrypi.org/en/projects/mood-indicator){:target="_blank"} Design project details some common bugs and encourages celebrating any new bugs found. 
 
+--- task ---
+
+**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+
+[[[debug-pico-code]]]
+[[[debug-pico-hardware]]]
+
+If you find a bug that is not listed here. Can you work out how to fix it?
+
+We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page and tell us if you found a different bug in your project.
+
+--- /task ---
 ## Reflection
 
 Like Explore projects, Design projects have three multiple choice questions. These questions generally fall into two categories:
@@ -184,7 +196,50 @@ In this step, creators will be guided through sharing their project. This could 
 Creators will have the opportunity to share their project with the Raspberry Pi Foundation community by submitting to a Studio or Gallery. 
 
 
-This example from our [Next customer please](https://projects.raspberrypi.org/en/projects/next-customer-please){:target="_blank"} Design project 
+In this example from our [Next customer please](https://projects.raspberrypi.org/en/projects/next-customer-please){:target="_blank"} Design project creators 
+
+--- task ---
+
+If you are logged in on Scratch, you can create a studio and add your **Next customer please** project. You can also add your friends' **Next customer please** projects to create a market of different shops and businesses.
+
+--- collapse ---
+
+---
+
+title: Build a shopping market
+
+---
+
+Save your project, then click on your username and select **My Stuff**.
+
+![the pop up menu under your account name in the top right.](images/my-stuff-menu.png)
+
+From your **My Stuff** page, click on the **+ New Studio** button.
+
+![The grey 'New Studio' button on the 'My Stuff' page.](images/create-studio.png)
+
+Give your new studio a name and description. 
+
+![The name box at the top of the studio and the description box on the left of the studio.](images/naming-studio.png)
+
+Click on the **Add projects** button. You can add yor own project by selecting it from the list at the bottom of the page.
+
+![The 'Add Projects' pop up at the bottom of the page with a gallery of project thumbnails. ](images/add-your-projects.png)
+
+You can also add projects your friends have created. Ask them to share their project and give you the link. Type or paste the link into the url box, then click the **Add by url** button. 
+
+![The url box underneath the 'Add projects' button and the 'Add by url' button.](images/path.png)
+
+--- /collapse ---
+
+Inspire the Raspberry Pi Foundation community with your project!
+
+To submit your project to our ['Intergalactic shopping market'](https://scratch.mit.edu/studios/29662180){:target="_blank"} Scratch studio, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+
+![Example shop projects in the 'Intergalactic shopping market' Scratch studio.](images/studio-example.png)
+
+--- /task ---
+
 
 ### What next step
 
