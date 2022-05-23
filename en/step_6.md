@@ -8,7 +8,7 @@ At the end of each design project, creators are encouraged to share what they ha
 <span style="color: #0faeb0">**Design**</span> means making decisions about the functioning or appearance of a project. It includes software engineering, visual design, usability and accessibility.  
 </p>
 
-**Tips:** Our creators have a wide range of previous experience levels and will progress at different speeds:
+Our creators have a wide range of previous experience levels and will progress at different speeds:
 +  Design projects are structured so that they build up gradually. 
 + Creators who don't complete all steps will still have something to be proud of - projects don't need to be finished to be valuable. 
 + If your group are enjoying a design project and need more time then you could continue for another session.
@@ -36,19 +36,19 @@ Look at these examples and think about how they have been made from circles, ell
 
 **Kawaii fruit**: [See inside](https://trinket.io/python/6bad88800b){:target="_blank"}
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/6bad88800b?outputOnly=true&start=result" width="400" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/python/6bad88800b?outputOnly=true&start=result" width="450" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
 **Stacked faces**: [See inside](https://trinket.io/python/f90794771c){:target="_blank"}
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/f90794771c?outputOnly=true&start=result" width="400" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/python/f90794771c?outputOnly=true&start=result" width="450" height="650" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
 **Tribal mask**: [See inside](https://trinket.io/python/b876d500ab){:target="_blank"}
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/b876d500ab?outputOnly=true&start=result" width="400" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/python/b876d500ab?outputOnly=true&start=result" width="450" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
@@ -65,7 +65,7 @@ Look at these examples and think about how they have been made from circles, ell
 
 Design projects usually have a step where learners are encouraged to think about the theme for their project. 
 
-In the Unity [World builder](https://projects.raspberrypi.org/en/projects/world-builder) Design project, creators start to design their world with this task:
+In this step of the Unity [World builder](https://projects.raspberrypi.org/en/projects/world-builder){:target="_blank"} Design project, creators start to design their world and character:
 
 --- task ---
 
@@ -99,13 +99,60 @@ Design projects model the decomposition of a project into manageable steps. At t
 
 Design projects include **Choose** tasks where creators are offered a choice. These include content decisions such as graphics, colours and text and will influence the functionality of their project. For example, the selection of a character could influence the way they move. A leopard would move quickly while a snail would move slowly. 
 
+This example from our [Silly eyes](https://projects.raspberrypi.org/en/projects/silly-eyes){:target="_blank"} Design project includes 3 different ways a creator could **choose** their sprite:
+
+--- task ---
+
+**Choose:** Choose a sprite **or** create your own simple sprite in the Paint editor.
+
+You don't have to choose a person or animal. You could choose an object, like the donut.
+
+[[[generic-scratch3-sprite-from-library]]]
+
+[[[scratch3-backdrops-and-sprites-using-shapes]]]
+
+--- collapse ---
+---
+title: Get a surprise sprite
+---
+
+Not sure which sprite to choose? Go to the **Choose a Sprite** menu and choose the **Surprise** option to add a surprise sprite to your project.
+
+![The 'Surprise' option in the 'Choose a Sprite' menu.](images/surprise-sprite.png)
+
+--- /collapse ---
+
+**Tip:** If you create your own sprite in the Paint editor, **don't add eyes yet, because they need to be separate sprites.**
+
+--- /task ---
+
 Design projects include all the code snippets that creators will need. These are provided in **info cards**. The concepts in the provided code will be familiar from the preceding Explore projects. Creators will need to modify the code snippets for their project. 
 
-Where possible we provide code that can be reused via the Scratch backpack or through copy and paste. 
+Where possible we provide an example project with code that can be reused via the Scratch backpack or code that can be used through copy and paste. 
+
+This example from our [Surprise! animation](https://projects.raspberrypi.org/en/projects/suprise-animation){:target="_blank"} Design project includes an info card with example for creating a walking animation. 
+
+--- task ---
+
+The character could be brave and move closer to check out the object.
+
+[[[scratch3-animate-movement-costumes]]]
+
+--- /task ---
 
 **Tip:** Professional software developers often reuse code, it's not cheating! It's much more important that creators understand what a unit of code does than that they remember how to reproduce it line by line. 
 
 Creation steps also include regular **Test:** steps. This encourages creators to get into the habit of testing code when ever they have made a change with a visible outcome and to view their project from a user's perspective. The **Test:** steps are less specific than in Explore projects as each project will be different but we give kinds on the kinds of behaviour to test for. 
+
+This example from our [Don't fall in](https://projects.raspberrypi.org/en/projects/dont-fall-in){:target="_blank"} Design project includes details of what to test and look out for: 
+
+--- task ---
+
+**Test:** Click the green flag and then jump your character across the Stage. Make sure you hear the winning sound when you reach the End platform.
+
+**Tip:** It’s really important that you test your project before moving to the next step and adding more code. It’s harder to find and fix bugs when you have added more code.
+
+--- /task ---
 
 Design projects include **Debug:** steps with advice on how to spot and fix the specific kinds of bug that they are likely to encounter at this point in the project. 
 
@@ -135,6 +182,9 @@ This step often includes an inspirational example that we would not expect all c
 In this step, creators will be guided through sharing their project. This could include in-person sharing as well as online sharing. 
 
 Creators will have the opportunity to share their project with the Raspberry Pi Foundation community by submitting to a Studio or Gallery. 
+
+
+This example from our [Next customer please](https://projects.raspberrypi.org/en/projects/next-customer-please){:target="_blank"} Design project 
 
 ### What next step
 
