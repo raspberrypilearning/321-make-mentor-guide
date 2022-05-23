@@ -8,17 +8,54 @@ At the end of each design project, creators are encouraged to share what they ha
 <span style="color: #0faeb0">**Design**</span> means making decisions about the functioning or appearance of a project. It includes software engineering, visual design, usability and accessibility.  
 </p>
 
-**Tip:** Our creators have a wide range of previous experience levels and will progress at different speeds.Design projects are structured so that they build up gradually. Creators who don't complete all steps will still have something to be proud of. Projects don't need to be finished to be valuable. If your group are enjoying a project and need more time then you could continue for another session.
+**Tips:** Our creators have a wide range of previous experience levels and will progress at different speeds:
++  Design projects are structured so that they build up gradually. 
++ Creators who don't complete all steps will still have something to be proud of - projects don't need to be finished to be valuable. 
++ If your group are enjoying a design project and need more time then you could continue for another session.
 
 ### Introduction
 
 The Introduction step gives creators several examples to get inspiration from. They are encouraged to try the example projects and explore their code. 
 
-![Examples of projects.](images/surprise-example.png)
-
 The examples show creators what they will be able to make by the end of the project. 
 
-Questions in the **Try it:** tasks are designed to get creators to pay attention to what is **similar** across the projects and what is **different**. The similarities should also be in their completed projects. The differences are where they get the opportunity to add their own creative ideas. 
+Questions or prompts are designed to get creators to pay attention to what is **similar** across the projects and what is **different**. The similarities should also be in their completed projects. The differences are where they get the opportunity to add their own creative ideas. 
+
+This example from our [Make a face](https://projects.raspberrypi.org/en/projects/make-a-face){:target="_blank"} project encourages creators to think about how they will use geometric shapes to make their faces: 
+
+--- task ---
+
+### Get inspiration 
+
+You are going to make some design decisions about the kind of face you will make and how you will use code to get the effect you want.
+
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 175px; flex-grow: 1">  
+
+Look at these examples and think about how they have been made from circles, ellipses, squares, rectangles, and triangles.
+
+**Kawaii fruit**: [See inside](https://trinket.io/python/6bad88800b){:target="_blank"}
+<div class="trinket">
+  <iframe src="https://trinket.io/embed/python/6bad88800b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  </iframe>
+</div>
+
+**Stacked faces**: [See inside](https://trinket.io/python/f90794771c){:target="_blank"}
+<div class="trinket">
+  <iframe src="https://trinket.io/embed/python/f90794771c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  </iframe>
+</div>
+
+**Tribal mask**: [See inside](https://trinket.io/python/b876d500ab){:target="_blank"}
+<div class="trinket">
+  <iframe src="https://trinket.io/embed/python/b876d500ab?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  </iframe>
+</div>
+
+</div>
+</div>
+
+--- /task ---
 
 **Tip:** If you are limited for time or have creators who need more support then they can start from one of the examples and remix it instead of completely creating their own project. 
 
@@ -28,28 +65,35 @@ Questions in the **Try it:** tasks are designed to get creators to pay attention
 
 Design projects usually have a step where learners are encouraged to think about the theme for their project. 
 
-In the Scratch [Surprise Animation](https://projects.raspberrypi.org/en/projects/surprise-animation/) Design project, creators make a surprise animation with four steps. They need to make decision about the sprites and animations that are used. 
+In the Unity [World builder](https://projects.raspberrypi.org/en/projects/world-builder) Design project, creators start to design their world with this task:
 
-They are asked the following questions:
-+ Where do you want your animation to take place?
-+ Where do you want your sprites to start? How big do you want them to be? How do you want them to look?
+--- task ---
+
+Think about the kind of world you want to make:
+
++ What kind of biome, habitat, geography, or weather system will it have?
++ Will it be based on somewhere in the real world, an imagined planet, or based on a book or movie you enjoy?
+
+Think of a name for your world.
+
+--- /task ---
 
 **Tip:** It's a good idea to have some paper and pencils available for creators who prefer to sketch their ideas. Access to a document editor is useful for those who prefer to make digital notes. 
 
-This step is an opportunity to:
+This step is an opportunity for creators to:
 
-+ Make the project culturally or locally relevant. You could make an example project to show them have the project can be made with a theme that you know will be relevant to your young creators. 
-+ Make the project personally relevant. It is important that young people see that computing and digital making addresses topics that are meaningful to them. Explain that the knowledge they have from their hobbies and interests is really valuable when making computing projects. 
++ Make the project culturally or locally relevant. **Tip:** You could make an example project to show them how the project can be made with a theme that you know will be relevant to your young creators. 
++ Make the project personally relevant. It is important that young people see that computing and digital making addresses topics that are meaningful to them. **Tip:** Explain that the knowledge they have from their hobbies and interests is really valuable when making computing projects. 
 
 **Tip:** Some young people who are technically very capable struggle to think of their own ideas. They could try and recreate one of the examples without looking at the code. 
 
 ## Creation steps 
 
-The main steps in a Design project guide creators throught the stages of making the project. Design projects include tasks that require learners 
+The main steps in a Design project have tasks that guide creators throught the stages of making the project. 
 
 Design projects model the decomposition of a project into manageable steps. At the end of each step, creators will have a part or feature of their project working. 
 
-Design projects include **Choose** steps where creators are offered a choice. These include content decision such as graphics, colours and text. These decisions will influence the functionality of their project. For example, the selection of a character could influence the way they move. A leopard would move quickly while a snail would move slowly. 
+Design projects include **Choose** tasks where creators are offered a choice. These include content decisions such as graphics, colours and text and will influence the functionality of their project. For example, the selection of a character could influence the way they move. A leopard would move quickly while a snail would move slowly. 
 
 Design projects include all the code snippets that creators will need. These are provided in **info cards**. The concepts in the provided code will be familiar from the preceding Explore projects. Creators will need to modify the code snippets for their project. 
 
@@ -57,17 +101,17 @@ Where possible we provide code that can be reused via the Scratch backpack or th
 
 **Tip:** Professional software developers often reuse code, it's not cheating! It's much more important that creators understand what a unit of code does than that they remember how to reproduce it line by line. 
 
-Creation steps also include regular **Test:** steps. This encourages creators to get into the habit of testing code when ever they have made a change with a visible outcome. The **Test:** steps are less specific than in Explore projects as each project will be different but we give kinds on the kinds of behaviour to test for. 
+Creation steps also include regular **Test:** steps. This encourages creators to get into the habit of testing code when ever they have made a change with a visible outcome and to view their project from a user's perspective. The **Test:** steps are less specific than in Explore projects as each project will be different but we give kinds on the kinds of behaviour to test for. 
 
 Design projects include **Debug:** steps with advice on how to spot and fix the specific kinds of bug that they are likely to encounter at this point in the project. 
 
 **Tip:** When a creator asks for help in a Design project, encourage them to check the **Debug:** steps and see if they can help. This encourages independence and accurately identifying the problem. 
 
-If you find bug that we haven't covered then please let us know in the Feedback link. 
+If you find bug that we haven't covered then please let us know in the Send Feedback button. 
 
 ## Reflection
 
-Like Explore project, Design project have three multiple choice questions. These questions generally fall into two categories:
+Like Explore projects, Design projects have three multiple choice questions. These questions generally fall into two categories:
 
 + Technical questions outside a specific context. Where the questions in Explore projects are usually in the context of the specific project that has been made, technical questions in an Explore project use less familiar examples. 
 + Design questions. These questions could ask about best practices (such as giving variables informative names) or could be related to the relevance of computing (such as why it makes sense to use code to solve a problem.)
@@ -104,7 +148,9 @@ It's a great idea to introduce your young people to the next project they will b
 + **Debugging** is often reported as a difficult area for beginners. We are able to give context-specific **Debug:** steps in Design projects.
 + The structured guidance for making personally relevant projects increases chances of success and the development of **self-efficacy**.
 + Professional software developers often use **design patterns** to capture best practices in an area of computing.  
++ Design projects encourage regular **testing** and **debugging** which are important software engineering practices and also support the development of **executive functioning** skills. 
 + Giving creators access to best practice code snippets helps to avoid the **Turing tarpit** where beginners are given environments where they could do anything but it's hard to do cool stuff. 
 + Software developers progress from writing code that has been designed by others to taking more responsibility for design. 
++ Design projects cover **software design skills** such as good modularity and best practices for naming. They also include design for **usability** and **accessibility**.
 
  

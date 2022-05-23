@@ -74,4 +74,11 @@ Creators will have the opportunity to share their project with the Raspberry Pi 
 
 ## Research and software engineering
 
-+ Design thinking
++ **Design thinking** is a human-centered approach to going from an identified need to a working solution. It includes empathising with potential users and creating prototypes and reacting to feedback.
++ In industry developers often have to work to a **project brief**.
++ A **project brief** provides clear guidance on what is expected and acts as a **rubric**. 
++ **Info cards** provide easy access to reference materials. Being able to work with reference materials is an important skill for software developers. 
++ As with Design projects, the examples act as **worked examples**. 
++ Creating projects that are personally relevant increases engagement and helps young people to develop their **computing identity**. 
++ A focus on **sharing** projects and getting **feedback** is an important aspect of **constructionism**. 
++ The **reflection** step in Invent projects encourages creators to reflect on their successes and difficulties. Reflection is known to make an important contribution to learning. 
