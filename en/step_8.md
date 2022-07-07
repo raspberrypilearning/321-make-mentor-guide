@@ -35,6 +35,8 @@ If you're working with a group of young people who are making things with techno
 + A printable [Mentor Guide](http://rpf.io/cpmentorplan) to support you when leading your sessions.
 + Accompanying [slide decks](https://online.coolestprojects.org/guidance#:~:text=DOWNLOAD%20THE%20WORKBOOK-,SESSION%20PLANS,-These%20slides%20are) with prompts and discussion points for you to use when leading sessions, broken into four stages of the design and prototyping process.
 
+![Three screenshots of coolest projects guidance in a fan layout.](images/make-fan.png)
+
 
 ### Enter Coolest Projects
 
