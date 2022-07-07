@@ -1,6 +1,6 @@
 ## Why 321 Make! ?
 
-While designing the new format for our projects, we found that, as well as support and opportunities to practise while acquiring new skills and knowledge, creators need a learning journey that lets them gradually develop and demonstrate increasing independence. 
+While designing the new format for our projects, we found that, as well as support and opportunities to practise while acquiring new **skills** and **knowledge**, creators need a learning journey that lets them gradually develop and demonstrate increasing independence. 
 
 321 Make! is informed by research into how young people develop interest and skills in computing as well as the experiences of the Raspberry Pi Foundation, Code Club and CoderDojo. 
 
@@ -93,6 +93,13 @@ Projects are written for an audience that is global and has a wide variety of co
 
 --- /collapse ---
 
+Each 321 Make! path is made up of three different types of project in a 3-2-1 structure:
+
++ **3 Explore** projects to introduce creators to a set of skills, and provide step-by-step instructions to help them develop initial confidence.
++ **2 Design** projects to allow creators to practise the skills they learned in the previous Explore projects, and to express themselves creatively whilst growing independence.
++ **1 Invent** project where creators meet a project brief for a particular audience using their skills.
+
+We also provide resources for independent creators to **Make** projects from their own ideas using the skills they have acquired.
 
 
 

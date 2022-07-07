@@ -10,14 +10,6 @@ Our global community of awesome young <span style="color: #0faeb0">**creators**<
 
 ![Three screenshots of our projects placed in a fan layout.](images/project-fan.png)
 
-Each path is made up of three different types of project in a 3-2-1 structure:
-
-+ **3 Explore** projects to introduce creators to a set of skills, and provide step-by-step instructions to help them develop initial confidence.
-+ **2 Design** projects to allow creators to practise the skills they learned in the previous Explore projects, and to express themselves creatively whilst growing independence.
-+ **1 Invent** project where creators meet a project brief for a particular audience using their skills.
-
-We also provide resources for independent creators to **Make** projects from their own ideas using the skills they have acquired.
-
 We will cover:
 + The motivation behind creating 321 Make! and the new paths of projects
 + The different kinds of project in 321 Make!

@@ -4,8 +4,6 @@ In **invent** projects, creators focus on completing a project to meet a **proje
 
 Creators are provided with reference material, but are free to decide which skills to use. They need to plan their project and decide on the order to carry out tasks.
 
-Invent projects have much in common with Sushi cards from CoderDojo as well as specific challenges and missions from the Raspberry Pi Foundation and Code Club. 
-
 ### Introduction
 
 The introduction gives creators **one** initial project to explore with some guided questions for them to think about. They are then introduced to the project brief which provides guidance on what the creators should be working towards. 

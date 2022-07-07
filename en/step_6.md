@@ -1,29 +1,21 @@
 ## 2 Design projects  
 
-In **Design** projects, creators are guided through the development process. They take more responsibility for deciding exactly what to make and which computing concepts to use. The outputs of Design projects are much more varied than the output of Explore projects. 
-
-At the end of each Design project, creators are encouraged to share what they have made with others. 
-
-Design projects have much in common with many CoderDojo projects which offer choice to creators as well as the open challenges at the end of Code Club projects. 
-
-**Tip:** You may wish to work through the Design project to create your own example project and share it with the group for extra inspiration.
-
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">**Design**</span> means making decisions about the functioning or appearance of a project. It includes software engineering, visual design, usability and accessibility.  
 </p>
 
-Our creators have a wide range of previous experience levels and will progress at different speeds:
-+  Design projects are structured so that they build up gradually. 
-+ Creators who don't complete all steps will still have something to be proud of - projects don't need to be finished to be valuable. 
-+ If your group are enjoying a design project and need more time then you could continue for another session.
+In **Design** projects, creators take more responsibility for deciding exactly what to make and which computing concepts to use. The outputs of Design projects are much more varied than the output of Explore projects. 
 
-### Introduction
+Creators have a wide range of experience and will progress at different speeds. We supporto this by:
++ Structuring Design projects so that they build up gradually. 
++ Acknowledging all steps don't need to be completed for creators to have something to be proud of.
++ Not specifying a time limit. If your group are enjoying a Design project and need more time then you could continue for another session.
 
-The Introduction step gives creators several examples to get inspiration from. They are encouraged to try the example projects and explore their code. 
+### Introduction Step
 
-The examples show creators what they will be able to make by the end of the project. 
+The Introduction step gives creators several inspirational examples of what they could create. They are encouraged to try the example projects and explore their code. 
 
-Questions or prompts are designed to get creators to pay attention to what is **similar** across the projects and what is **different**. The similarities should also be in their completed projects. The differences are where they get the opportunity to add their own creative ideas. 
+Prompts are provided to get creators to pay attention to what is **similar** across the projects and what is **different**. Creators will use this knowledge as input into their designs. 
 
 This example from our [Make a face](https://projects.raspberrypi.org/en/projects/make-a-face){:target="_blank"} project encourages creators to think about how they will use geometric shapes to make their faces: 
 
@@ -31,12 +23,12 @@ This example from our [Make a face](https://projects.raspberrypi.org/en/projects
 
 ### Get inspiration 
 
-You are going to make some design decisions about the kind of face you will make and how you will use code to get the effect you want.
+You are going to make some design decisions about the kind of face you will make.
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
 
-Look at these examples and think about how they have been made from circles, ellipses, squares, rectangles, and triangles.
+Look at these examples and think about how they have both been made from shapes. How have circles, ellipses, squares, rectangles, and triangles been used to create different faces?
 
 **Kawaii fruit**: [See inside](https://trinket.io/python/6bad88800b){:target="_blank"}
 <div class="trinket">
@@ -61,7 +53,7 @@ Look at these examples and think about how they have been made from circles, ell
 
 **Tip:** For our Scratch paths, you can see the remixes other creators have made by visiting the starter project page for each. This example from our [Silly eyes project page](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} contains many inspirational projects you might want to share some with your creators.  
 
-### Choose your theme
+### Choose your theme Step
 
 Design projects usually have a step where learners are encouraged to think about the theme for their project. 
 
@@ -168,7 +160,7 @@ If you find a bug that is not listed here. Can you work out how to fix it?
 We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page and tell us if you found a different bug in your project.
 
 --- /task ---
-### Reflection
+### Reflection Step
 
 Like Explore projects, Design projects have three multiple choice questions. These questions generally fall into two categories:
 
@@ -177,7 +169,7 @@ Like Explore projects, Design projects have three multiple choice questions. The
 
 As with Explore projects, the reflection questions are not intended as an formal assessment, instead they give provide an opportunity to revisit and embed important concepts so that creators will be prepared for future projects. 
 
-### Upgrade your project
+### Upgrade your project Step
 
 As with Explore projects, this step allows **differentiation by outcome** and allows creators who have additional time or want to continue at home to take their project further.
 
@@ -185,7 +177,7 @@ This step often includes an inspirational example that we would not expect all c
 
 **Tip:** It's important to remind young people how long it takes a big team to make a piece of software. They are creating amazing projects in much less time. They are awesome.
 
-### Share
+### Share Step
 
 In this step, creators will be guided through sharing their project. This could include in-person sharing as well as online sharing. 
 
