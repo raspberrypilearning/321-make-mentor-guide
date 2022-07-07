@@ -44,12 +44,6 @@ Look at these examples and think about how they have been made from circles, ell
   </iframe>
 </div>
 
-**Stacked faces**: [See inside](https://trinket.io/python/f90794771c){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/f90794771c?outputOnly=true&start=result" width="450" height="650" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
-
 **Tribal mask**: [See inside](https://trinket.io/python/b876d500ab){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/b876d500ab?outputOnly=true&start=result" width="450" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -79,8 +73,6 @@ Think about the kind of world you want to make:
 
 + What kind of biome, habitat, geography, or weather system will it have?
 + Will it be based on somewhere in the real world, an imagined planet, or based on a book or movie you enjoy?
-
-Think of a name for your world.
 
 What kind of character will the Player be in your world? We have included some animal and car model objects that you can choose from. Alternatively, you can make a character from a 3D GameObject with child objects that move together.
 
@@ -128,11 +120,9 @@ Not sure which sprite to choose? Go to the **Choose a Sprite** menu and choose t
 
 --- /collapse ---
 
-**Tip:** If you create your own sprite in the Paint editor, **don't add eyes yet, because they need to be separate sprites.**
-
 --- /task ---
 
-Design projects include all the code snippets that creators will need. These are provided in **info cards**. The concepts in the provided code will be familiar from the preceding Explore projects. Creators will need to modify the code snippets for their project. 
+Design projects include all the code snippets that creators will need. These are provided in **Info cards**. The concepts in the provided code will be familiar from the preceding Explore projects. Creators will need to modify the code snippets for their project. 
 
 Where possible we provide an example project with code that can be reused via the Scratch backpack or code that can be used through copy and paste. 
 
@@ -201,7 +191,7 @@ In this step, creators will be guided through sharing their project. This could 
 
 Creators will have the opportunity to share their project with the Raspberry Pi Foundation community by submitting to a Studio or Gallery. 
 
-In this example from our [Next customer please](https://projects.raspberrypi.org/en/projects/next-customer-please){:target="_blank"} Design project creators 
+In this example from our [Next customer please](https://projects.raspberrypi.org/en/projects/next-customer-please){:target="_blank"} there are several ideas given for how to share projects. 
 
 --- task ---
 

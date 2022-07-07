@@ -6,13 +6,17 @@ While designing the new format for our projects, we found that, as well as suppo
 
 ![An illustration of the four stages on the 321 Make! path. A start here flag is at the beginning, the path then moves along to Explore, then Design, then Invent and then a final flag that says "Make!".](images/321make.png)
 
-Key principles for 321 Make! include:
+### Developing an identity
 
-+ Independence (I can make things that matter to me)
-+ Computing identity (I am a maker)
-+ Lifelong learning (I can find things out that I need to know)
-+ Relevance (I believe that computing and digital making is important to me)
-+ Inclusion (I belong to a maker community)
+When creators work through the projects in a 321 Make! path, we want them to be able to say:
+
++ I can make things that matter to me
++ I can find things out that I need to know
++ I believe that computing and digital making is important to be
++ I belong to a maker community
++ I am a maker
+
+### Key principles of 321 Make!
 
 The 321 Make! [framework](https://www.raspberrypi.org/blog/free-coding-resources-children-young-people-digital-making-independence/){:target="_blank"}: 
 
