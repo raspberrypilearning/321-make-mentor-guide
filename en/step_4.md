@@ -6,8 +6,6 @@
 
 Each path begins with **3** Explore projects that between them contain the set of skills and concepts needed for the entire path.
 
-**Explore** projects have much in common with previous step-by-step projects from Code Club and the Raspberry Pi Foundation. 
-
 **Tip:** We recommend that facilitators complete the Explore projects themselves before running a session with creators. This familiarity with the project helps aniticpate issues and you can make note of discussion points.  
 
 ### Tasks 
@@ -111,7 +109,7 @@ Click on the **Info card** below to expand it and again to close it:
 
 --- /task ---
 
-### Upgrade your project step
+### The Upgrade your project step
 
 Each Explore project contains an **upgrade your project** step with ideas and aspirational projects for creators to develop their project further with the skills they have already. 
 
@@ -142,7 +140,7 @@ You could:
 
 The upgrade step also contains an Info card with link to the completed solution. 
 
-## What next step
+## The What next step
 
 Explore projects end with a **what next** step that has links to the path overview and the next project in the path. 
 
