@@ -1,12 +1,12 @@
 ## 2 Design projects  
 
-In **design** projects, creators are guided through the development process. They take more responsibility for deciding exactly what to make and which computing concepts to use. The outputs of design projects are much more varied than the output of explore projects. 
+In **Design** projects, creators are guided through the development process. They take more responsibility for deciding exactly what to make and which computing concepts to use. The outputs of Design projects are much more varied than the output of Explore projects. 
 
-At the end of each design project, creators are encouraged to share what they have made with others. 
+At the end of each Design project, creators are encouraged to share what they have made with others. 
 
 Design projects have much in common with many CoderDojo projects which offer choice to creators as well as the open challenges at the end of Code Club projects. 
 
- - you may wish to share your version of the project with the group for extra inspiration at the end of the sessio
+**Tip:** You may wish to create your own version of the design projects and share it with the group for extra inspiration.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">**Design**</span> means making decisions about the functioning or appearance of a project. It includes software engineering, visual design, usability and accessibility.  

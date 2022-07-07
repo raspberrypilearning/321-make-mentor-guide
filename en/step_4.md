@@ -3,6 +3,7 @@
 **Explore** projects are step-by-step instructions that:
 + introduce creators to a set of skills
 + help them develop initial confidence. 
+
 Each path begins with **3** Explore projects that between them contain the set of skills and concepts needed for the entire path.
 
 **Explore** projects have much in common with previous step-by-step projects from Code Club and the Raspberry Pi Foundation. 
@@ -100,9 +101,9 @@ Here is an example of a boxout from our [Catch the bus](https://projects.raspber
 
 **Info cards** in Explore projects are used to give extra information. They could add more detail about a skill, provide an alternative choice, or help debug a common problem. 
 
---- task ---
-
 In this example from our [Grow a dragonfly](https://projects.raspberrypi.org/en/projects/grow--dragonfly){:target="_blank"} Explore project the Info card is a guide explaining how to use the Scratch backpack feature and will only be expanded by those creators that want to know how to use it.
+
+--- task ---
 
 Click on the **Info card** below to expand it and again to close it:
 
@@ -118,7 +119,7 @@ Each Explore project contains an **upgrade your project** step with ideas and as
 
 **Tip:** At the end of a session you could have 'show and tell' where creators share their projects and talk about their creation process. This would be a good time to look at the upgrade options to celebrate how far their new skills can take them.   
 
-The upgrade step also contains an Info card with link to the completed solution. Here is an example of an upgrade step from our Beating heart [Beating heart](https://projects.raspberrypi.org/en/projects/beating-heart){:target="_blank"} Explore project:
+Here is an example of an upgrade step from our Beating heart [Beating heart](https://projects.raspberrypi.org/en/projects/beating-heart){:target="_blank"} Explore project:
 
 --- task ---
 
@@ -138,9 +139,13 @@ You could:
 
 --- /task ---
 
+The upgrade step also contains an Info card with link to the completed solution. 
+
 ### What next step
 
 Explore projects end with a **what next** step that has links to the path overview and the next project in the path. 
+
+There is also an embedded version of the next project in that path that creators can interact with.
 
 **Tip:** You could end your session by looking at this step as a group and building excitment for the next project. 
 
