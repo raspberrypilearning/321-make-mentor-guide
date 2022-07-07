@@ -1,10 +1,12 @@
 ## 2 Design projects  
 
-In **design** projects, creators are guided through the development process. They take more responsibility for deciding exactly what to make and which computing concepts to use. The outputs of design projects are much more varied than the output of explore projects. 
+In **Design** projects, creators are guided through the development process. They take more responsibility for deciding exactly what to make and which computing concepts to use. The outputs of Design projects are much more varied than the output of Explore projects. 
 
-At the end of each design project, creators are encouraged to share what they have made with others. 
+At the end of each Design project, creators are encouraged to share what they have made with others. 
 
 Design projects have much in common with many CoderDojo projects which offer choice to creators as well as the open challenges at the end of Code Club projects. 
+
+**Tip:** You may wish to work through the Design project to create your own example project and share it with the group for extra inspiration.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">**Design**</span> means making decisions about the functioning or appearance of a project. It includes software engineering, visual design, usability and accessibility.  
@@ -42,12 +44,6 @@ Look at these examples and think about how they have been made from circles, ell
   </iframe>
 </div>
 
-**Stacked faces**: [See inside](https://trinket.io/python/f90794771c){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/f90794771c?outputOnly=true&start=result" width="450" height="650" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
-
 **Tribal mask**: [See inside](https://trinket.io/python/b876d500ab){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/b876d500ab?outputOnly=true&start=result" width="450" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -65,7 +61,7 @@ Look at these examples and think about how they have been made from circles, ell
 
 **Tip:** For our Scratch paths, you can see the remixes other creators have made by visiting the starter project page for each. This example from our [Silly eyes project page](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} contains many inspirational projects you might want to share some with your creators.  
 
-## Choose your theme
+### Choose your theme
 
 Design projects usually have a step where learners are encouraged to think about the theme for their project. 
 
@@ -78,20 +74,18 @@ Think about the kind of world you want to make:
 + What kind of biome, habitat, geography, or weather system will it have?
 + Will it be based on somewhere in the real world, an imagined planet, or based on a book or movie you enjoy?
 
-Think of a name for your world.
+What kind of character will the Player be in your world? Will you use a model or make a character from 3D shapes.
 
-What kind of character will the Player be in your world? We have included some animal and car model objects that you can choose from. Alternatively, you can make a character from a 3D GameObject with child objects that move together.
-
-![The rocket mid flight with an exhaust trail.](images/player-examples.png)
+![A strip of examples of very different looking players made from models or created with 3D shapes.](images/player-examples.png)
 
 --- /task ---
 
 **Tip:** It's a good idea to have some paper and pencils available for creators who prefer to sketch their ideas. Access to a document editor is useful for those who prefer to make digital notes. 
 
-This step is an opportunity for creators to:
+It is important that young people see that computing and digital making addresses topics that are meaningful to them. This step is an opportunity for creators to:
 
-+ Make the project culturally or locally relevant. **Tip:** You could make an example project to show them how the project can be made with a theme that you know will be relevant to your young creators. 
-+ Make the project personally relevant. It is important that young people see that computing and digital making addresses topics that are meaningful to them. **Tip:** Explain that the knowledge they have from their hobbies and interests is really valuable when making computing projects. 
++ **Make the project culturally or locally relevant** You could make an example project to show them how the project can be made with a theme that you know will be relevant to your young creators. 
++ **Make the project personally relevant**. Explain that the knowledge they have from their hobbies and interests is really valuable when making computing projects. 
 
 **Tip:** Some young people who are technically very capable struggle to think of their own ideas. They could try and recreate one of the examples without looking at the code. 
 
@@ -126,11 +120,9 @@ Not sure which sprite to choose? Go to the **Choose a Sprite** menu and choose t
 
 --- /collapse ---
 
-**Tip:** If you create your own sprite in the Paint editor, **don't add eyes yet, because they need to be separate sprites.**
-
 --- /task ---
 
-Design projects include all the code snippets that creators will need. These are provided in **info cards**. The concepts in the provided code will be familiar from the preceding Explore projects. Creators will need to modify the code snippets for their project. 
+Design projects include all the code snippets that creators will need. These are provided in **Info cards**. The concepts in the provided code will be familiar from the preceding Explore projects. Creators will need to modify the code snippets for their project. 
 
 Where possible we provide an example project with code that can be reused via the Scratch backpack or code that can be used through copy and paste. 
 
@@ -176,16 +168,16 @@ If you find a bug that is not listed here. Can you work out how to fix it?
 We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page and tell us if you found a different bug in your project.
 
 --- /task ---
-## Reflection
+### Reflection
 
 Like Explore projects, Design projects have three multiple choice questions. These questions generally fall into two categories:
 
-+ Technical questions outside a specific context. Where the questions in Explore projects are usually in the context of the specific project that has been made, technical questions in an Explore project use less familiar examples. 
-+ Design questions. These questions could ask about best practices (such as giving variables informative names) or could be related to the relevance of computing (such as why it makes sense to use code to solve a problem.)
++ **Technical questions** outside a specific context. Where the questions in Explore projects are usually in the context of the specific project that has been made, technical questions in an Explore project use less familiar examples. 
++ **Design questions**. These questions could ask about best practices (such as giving variables informative names) or could be related to the relevance of computing (such as why it makes sense to use code to solve a problem.)
 
 As with Explore projects, the reflection questions are not intended as an formal assessment, instead they give provide an opportunity to revisit and embed important concepts so that creators will be prepared for future projects. 
 
-## Upgrade your project
+### Upgrade your project
 
 As with Explore projects, this step allows **differentiation by outcome** and allows creators who have additional time or want to continue at home to take their project further.
 
@@ -193,13 +185,13 @@ This step often includes an inspirational example that we would not expect all c
 
 **Tip:** It's important to remind young people how long it takes a big team to make a piece of software. They are creating amazing projects in much less time. They are awesome.
 
-## Share
+### Share
 
 In this step, creators will be guided through sharing their project. This could include in-person sharing as well as online sharing. 
 
 Creators will have the opportunity to share their project with the Raspberry Pi Foundation community by submitting to a Studio or Gallery. 
 
-In this example from our [Next customer please](https://projects.raspberrypi.org/en/projects/next-customer-please){:target="_blank"} Design project creators 
+In this example from our [Next customer please](https://projects.raspberrypi.org/en/projects/next-customer-please){:target="_blank"} there are several ideas given for how to share projects. 
 
 --- task ---
 
@@ -237,8 +229,6 @@ Inspire the Raspberry Pi Foundation community with your project!
 
 To submit your project to our ['Intergalactic shopping market'](https://scratch.mit.edu/studios/29662180){:target="_blank"} Scratch studio, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
 
-<iframe src="https://scratch.mit.edu/studios/29662180“ allowtransparency=”true“ width=”485“ height=”402“ frameborder=”0“scrolling=”yes" allowfullscreen></iframe>
-
 --- /task ---
 
 
@@ -247,6 +237,8 @@ To submit your project to our ['Intergalactic shopping market'](https://scratch.
 Design projects end with a **what next** step that has links to the path overview and the next project in the path. 
 
 It's a great idea to introduce your young people to the next project they will be doing so that they can start thinking about what they will make. 
+
+### Further reading:
 
 --- collapse ---
 

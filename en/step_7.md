@@ -1,6 +1,8 @@
 ## 1 Invent project
 
-In **invent** projects, creators focus on completing a project to meet a **project brief** for a particular audience. The project brief is written so that they can meet it using the **skills** they’ve learned by following the path up to this point. Creators are provided with reference material, but are free to decide which skills to use. They need to plan their project and decide on the order to carry out tasks.
+In **invent** projects, creators focus on completing a project to meet a **project brief** for a particular audience. The project brief is written so that they can meet it using the **skills** they’ve learned by following the path up to this point. 
+
+Creators are provided with reference material, but are free to decide which skills to use. They need to plan their project and decide on the order to carry out tasks.
 
 Invent projects have much in common with Sushi cards from CoderDojo as well as specific challenges and missions from the Raspberry Pi Foundation and Code Club. 
 
@@ -66,7 +68,7 @@ Here is an example from our [Powerful patterns](https://projects.raspberrypi.org
 
 --- task ---
 
-You have built up some really useful skills. Here is a reminder to help you make your motif:
+You have built up some really useful skills. Here is a reminder to help you make the shapes for your motif:
 
 ### Shapes and images
 
@@ -78,28 +80,6 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 [[[processing-add-image]]]
 
-### Colours and effects
-
-[[[generic-theory-simple-colours]]]
-
-[[[processing-opacity]]]
-
-[[[processing-stroke]]]
-
-[[[processing-tint]]]
-
-### Position and transform
-
-[[[processing-matrix]]]
-
-[[[processing-translation]]]
-
-[[[processing-rotation]]]
-
-[[[python-operators]]]
-
-[[[generic-python-for-loop-repeat]]]
-
 --- /task ---
 
 ### Reflection
@@ -110,6 +90,8 @@ They should go through each one and use the check list provided to 'check off' w
 
 After completing this step, creators are awarded with their project badge. This example from our [This sprite needs you](https://projects.raspberrypi.org/en/projects/this-sprite-needs-you){:target="_blank"} Invent project encourages celebration as the creators reflect:
 
+--- task ---
+
 **Now you are the creator of a simulation!**
 
 Take a moment to celebrate what you have made.
@@ -118,6 +100,8 @@ Take a moment to celebrate what you have made.
 <span style="color: #0faeb0">Computer simulations</span> can allow us to experience situations that we couldn't in real life. There are computer simulations that allow surgeons to practice operations. There are simulations that allow space engineers to predict what will happen when they launch a rocket, and make changes to the variables to see what happens. And there are game simulations that allow you to take care of a pet, person, family, or job. 
 </p>
 
+--- /task ---
+
 
 ### Upgrade 
 
@@ -125,11 +109,11 @@ If your creators have time and they want to take their project further then they
 
 ### Share 
 
-The Raspberry Pi foundation has a strong community of digital makers. It is really important to ask your creators to share their projects in the showcase with us. This allows other makers in the community to see their ideas and gain inspiration from their peers. 
-
 In this step, creators will be guided through sharing their project. This could also include in-person sharing. 
 
-Creators will have the opportunity to share their project with the Raspberry Pi Foundation community by submitting to a Studio or Gallery. 
+Creators will have the opportunity to share their project with the Raspberry Pi Foundation community by submitting to a Studio or Gallery.  This is an important step as it allows other makers in the community to see their ideas and gain inspiration from their peers. 
+
+### Further reading:
 
 --- collapse ---
 
