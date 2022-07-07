@@ -125,6 +125,7 @@ Here is an example of an upgrade step from our Beating heart [Beating heart](htt
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
+
 ### Upgrade your beating heart
 
 You could: 
@@ -141,7 +142,7 @@ You could:
 
 The upgrade step also contains an Info card with link to the completed solution. 
 
-### What next step
+## What next step
 
 Explore projects end with a **what next** step that has links to the path overview and the next project in the path. 
 
