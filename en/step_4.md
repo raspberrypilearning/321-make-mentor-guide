@@ -124,9 +124,12 @@ The upgrade step also contains an Info card with link to the completed solution.
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-If you have time, you can upgrade your beating heart project. 
+### Upgrade your beating heart
 
-You could set it to a slow speed to help you relax. Or, adjust the beat to match the music you are listening to. 
+You could: 
++ Set it to a slow speed to help you relax 
++ Adjust the beat to match the music you are listening to
++ Add a blue LED to represent de-oxygenated blood entering and leaving the heart 
 </div>
 <div>
 ![Animated gif showing a papercraft heart with a red and a blue LED pulsing in time to the heartbeat.](images/two-beats.gif){:width="300px"}
@@ -139,23 +142,9 @@ You could set it to a slow speed to help you relax. Or, adjust the beat to match
 
 Explore projects end with a **what next** step that has links to the path overview and the next project in the path. 
 
-You could end your session by looking at this step as a group and building excitment for the next project. 
+**Tip:** You could end your session by looking at this step as a group and building excitment for the next project. 
 
-Below is an example from our [Broadcasting spells](https://projects.raspberrypi.org/en/projects/broadcasting-spells){:target="_blank"} Explore project. How would you use it to motivate creators for next session? 
-
---- task ---
-
-If you are following the [More Scratch](https://projects.raspberrypi.org/en/raspberrypi/more-scratch) path, you can move on to the [Grow a dragonfly](https://projects.raspberrypi.org/en/projects/grow-a-dragonfly) Explore project. In this project, you will make a Dragonfly that eats insects.
-
---- no-print ---
-
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/521688740/?autostart=false" frameborder="0"></iframe>
-</div>
-
---- /no-print ---
-
---- /task ---
+### Further reading:
 
 --- collapse ---
 
