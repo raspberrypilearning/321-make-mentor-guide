@@ -6,6 +6,8 @@ At the end of each design project, creators are encouraged to share what they ha
 
 Design projects have much in common with many CoderDojo projects which offer choice to creators as well as the open challenges at the end of Code Club projects. 
 
+ - you may wish to share your version of the project with the group for extra inspiration at the end of the sessio
+
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">**Design**</span> means making decisions about the functioning or appearance of a project. It includes software engineering, visual design, usability and accessibility.  
 </p>
