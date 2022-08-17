@@ -13,7 +13,7 @@ Creators have a wide range of experience and will progress at different speeds. 
 
 ### Introduction Step
 
-The Introduction step gives creators several inspirational examples of what they could create. They are encouraged to try the example projects and explore their code. 
+The Introduction step gives creators several inspirational examples of what they could create. They are encouraged to have fun trying the example projects and explore their code. 
 
 Prompts are provided to get creators to pay attention to what is **similar** across the projects and what is **different**. Creators will use this knowledge as input into their designs. 
 
@@ -55,7 +55,7 @@ Look at these examples and think about how they have both been made from shapes.
 
 ### Choose your theme Step
 
-Design projects usually have a step where learners are encouraged to think about the theme for their project. 
+Design projects usually have a step where creators are encouraged to think about the theme for their project. 
 
 In this step of the Unity [World builder](https://projects.raspberrypi.org/en/projects/world-builder){:target="_blank"} Design project, creators start to design their world and character:
 
@@ -83,7 +83,7 @@ It is important that young people see that computing and digital making addresse
 
 ## Creation steps 
 
-The main steps in a Design project have tasks that guide creators throught the stages of making the project. 
+The main steps in a Design project have tasks that guide creators through the stages of making the project. 
 
 Design projects model the decomposition of a project into manageable steps. At the end of each step, creators will have a part or feature of their project working. 
 

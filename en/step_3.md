@@ -12,7 +12,7 @@ Currently, there are three levels of path:
 
 ### Progression within a path
 
-All new skills are introduced in the first three explore projects. Skills are revisited regularly to allow creators to use and experience them in different contexts. This helps to embed and deepen their understanding of how to apply those skills. 
+All new skills are introduced in the first three fun explore projects. Skills are revisited regularly to allow creators to use and experience them in different contexts. This helps to embed and deepen their understanding of how to apply those skills. 
 
 As creators progress through the path, scafolding is gently removed to help increase their independence. 
 
@@ -43,9 +43,10 @@ There is a lot of flexibility in path choice. Creators should explore the paths 
 
 Guides are available for some of the areas covered in our new paths. These are really useful tools for you and your creators to dip in and out of and find additional support. The current available guides are:
 
-+ [Getting started with Scratch](https://projects.raspberrypi.org/en/projects/getting-started-scratch)
-+ [A guide to Unity](https://projects.raspberrypi.org/en/projects/unity-guide)
-+ [Introduction to the Raspberry Pi Pico](https://projects.raspberrypi.org/en/projects/introduction-to-the-pico/0)
++ [Getting started with Scratch](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_blank"}
++ [A guide to Unity](https://projects.raspberrypi.org/en/projects/unity-guide){:target="_blank"}
++ [Introduction to the Raspberry Pi Pico](https://projects.raspberrypi.org/en/projects/introduction-to-the-pico/0){:target="_blank"}
++ [Introduction to web development](https://projects.raspberrypi.org/en/projects/getting-started-web-dev/0){:target="_blank"}
 
 More guides are in development.
 
