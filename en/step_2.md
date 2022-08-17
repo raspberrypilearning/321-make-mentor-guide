@@ -1,8 +1,10 @@
 ## Why 321 Make! ?
 
-While designing the new format for our projects, we found that, as well as support and opportunities to practise while acquiring new **skills** and **knowledge**, creators need a learning journey that lets them gradually develop and demonstrate increasing independence. 
+321 Make! is informed by research into how young people develop **interest** and **skills** in computing as well as the experiences of the Raspberry Pi Foundation, Code Club and CoderDojo communities. 
 
-321 Make! is informed by research into how young people develop interest and skills in computing as well as the experiences of the Raspberry Pi Foundation, Code Club and CoderDojo. 
+We want our creators to **have fun** and **feel motivated** to continue their journey through a path. This is why we mix step-by-step projects with projects that encourage design choices and projects that invite young creators to **make things that matter to them.** 
+
+The path is designed to slowly remove scaffolding so that creators can become more independent and able to use their **knowledge** and **skills** to make their own projects.
 
 ![An illustration of the four stages on the 321 Make! path. A start here flag is at the beginning, the path then moves along to Explore, then Design, then Invent and then a final flag that says "Make!".](images/321make.png)
 
@@ -33,6 +35,8 @@ The 321 Make! [framework](https://www.raspberrypi.org/blog/free-coding-resources
 + Introduces role models
 + Provides reflection time
 + Is designed for all 
+
+Click to expand the below 'Further reading' info card for a more detailed look at the key principles. 
 
 --- collapse ---
 ---

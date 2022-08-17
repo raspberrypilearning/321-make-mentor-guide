@@ -2,7 +2,8 @@
 
 **Explore** projects are step-by-step instructions that:
 + introduce creators to a set of skills
-+ help them develop initial confidence. 
++ help them develop initial confidence
++ build their interest and engagement  
 
 Each path begins with **3** Explore projects that between them contain the set of skills and concepts needed for the entire path.
 
@@ -99,7 +100,7 @@ Here is an example of a boxout from our [Catch the bus](https://projects.raspber
 
 **Info cards** in Explore projects are used to give extra information. They could add more detail about a skill, provide an alternative choice, or help debug a common problem. 
 
-In this example from our [Grow a dragonfly](https://projects.raspberrypi.org/en/projects/grow--dragonfly){:target="_blank"} Explore project the Info card is a guide explaining how to use the Scratch backpack feature and will only be expanded by those creators that want to know how to use it.
+In this example from our [Grow a dragonfly](https://projects.raspberrypi.org/en/projects/grow-a-dragonfly){:target="_blank"} Explore project the Info card is a guide explaining how to use the Scratch backpack feature and will only be expanded by those creators that want to know how to use it.
 
 --- task ---
 
@@ -160,7 +161,7 @@ title: Research and software engineering
 + Beginning with **direct instruction** introduces new concepts in a structured way to ensure that creators are familiar with the skills that they will need to apply later on. 
 + **Step by step instructions** build early success and give creators the chance to gain familiarity with tools.
 + Explore projects **model** the best practices of building a project up step by step with regular testing and debugging. Professional software developers often learn new skills from more experienced colleagues. 
-+ The projects follow principles from [**Universal Design for Learning**](https://www.raspberrypi.org/blog/universal-design-for-learning-in-computing-hello-world-15/) to support the inclusion of all young people. 
++ The projects follow principles from [**Universal Design for Learning**](https://www.raspberrypi.org/blog/universal-design-for-learning-in-computing-hello-world-15/){:target="_blank"} to support the inclusion of all young people. 
 + Small **choices** are built into the projects allow creators to feel more connected with their projects without making over-ambitious changes that can lead to frustration. 
 + Multiple choice questions at the end of the main project steps provide an opportunity to review and embed knowledge and is a form of **assessment for learning**. They also provide the opportunity to **celebrate** and **reflect** on what has been achieved.
 + Early success leads to an increase in **self-efficacy** which in know to be a factor in increasing future participation in computing.  
