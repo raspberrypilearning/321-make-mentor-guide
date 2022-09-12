@@ -55,7 +55,7 @@ What happens if you click on one sprite and then quickly click on another sprite
 
 ### Step introductions
 
-The projects are split into pages (steps), each step begins with a description and image to show creators what they will have made by the end of the step. 
+The projects are split into pages (steps), each step begins with a description and an image to show creators what they will have made by the end of the step. 
 
 This is the **step introduction** from the 'Exhaust effects' step in our [Rocket launch](https://projects.raspberrypi.org/en/projects/rocket-launch){:target="_blank"} Explore project: 
 
@@ -112,7 +112,7 @@ Click on the **info card** to expand it and again to close it:
 
 ### Steps to upgrade a project
 
-Each Explore project contains a step for creators to upgrade the project with ideas and aspirational projects for creators to develop their project further with the skills they have already. 
+Each Explore project contains a step for creators to upgrade the project. This step includes ideas and aspirational projects for creators to develop their project further with the skills they have already. 
 
 **Tip:** Upgrade steps are open ended so are great for a session where creators are working at different paces. They're also a chance to build localisation and personalise projects. 
 
@@ -157,7 +157,7 @@ There is also an embedded version of the next project in that path that creators
 title: Research and software engineering
 ---
 
-+ Explore projects begin with a **Try it:** step which is similar to the **Use** step in Use-Modify-Create. It is important that creators understand what a project is supposed to do. This provides context for the instructions that they follow. Each step also shows what they will achieve by the end of the step so that they have a clear understanding of the expected outcome. 
++ Explore projects begin with a **Try it** step which is similar to the **Use** step in Use-Modify-Create. It is important that creators understand what a project is supposed to do. This provides context for the instructions that they follow. Each step also shows what they will achieve by the end of the step so that they have a clear understanding of the expected outcome. 
 + Beginning with **direct instruction** introduces new concepts in a structured way to ensure that creators are familiar with the skills that they need to apply later on. 
 + **Step-by-step instructions** build early success and give creators the chance to gain familiarity with tools.
 + Explore projects **model** the best practices of building a project up step by step with regular testing and debugging. Professional software developers often learn new skills from more experienced colleagues. 
