@@ -4,7 +4,7 @@
 legend: Question 2 of 3
 ---
 
-In which step would creators find ideas and aspirational projects to further develop the projects with their current skills.
+In which step would creators find ideas and aspirational projects to further develop the projects with their current skills? 
 
 --- choices ---
 
@@ -12,7 +12,7 @@ In which step would creators find ideas and aspirational projects to further dev
 
  --- feedback ---
 
-Not quite, the **Reflection** step is a chance to celebrate the skills creators have gained through the project. This is a reflection step. 
+Not quite, the **Reflection** step is a chance to celebrate the skills creators have gained through the project. This quiz is a reflection step. 
 
  --- /feedback ---
 
@@ -36,7 +36,7 @@ Note quite, the **What next** step shows creators what they will make in the nex
 
  --- feedback ---
 
-Not quite, Explore projects don't usually have a specific **Share** step. Sharing creators' projects via a club 'show and tell' session is a fabulous way to celebrate their creations. 
+Not quite, Explore projects don't usually have a specific **Share** step. But sharing creators' projects via a club 'show and tell' session is a fabulous way to celebrate their creations. 
 
  --- /feedback ---
 
