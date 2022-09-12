@@ -2,21 +2,21 @@
 
 A path is a collection of **six** projects that cover a set of skills needed for a particular piece of hardware or software alongside design and engineering skills. As a result of working through a path, creators are empowered to build their own ideas and create solutions to situations they or their communities face, with increased independence. 
 
-![A screenshot of the introduction to scratch path page.](images/path.png)
+![The 'Introduction to Scratch' path page.](images/path.png)
 
 Currently, there are three levels of path:
 
 + '**Introduction to...**' these paths are for the creators first introduction to the hardware or software. 
-+ '**More...**' these paths follow on directly from the 'Introduction to' paths and build on those skills, whilst introducing new ones.
-+ '**Further...**' these paths are currently the most advanced. They build on all of the skills covered in 'Introduction to' and 'More' paths, whilst introducing new skills. 
++ '**More...**' these paths follow on directly from the 'Introduction to' paths and build on those skills, while introducing new ones.
++ '**Further...**' these paths are currently the most advanced. They build on all of the skills covered in 'Introduction to' and 'More' paths, while introducing new skills. 
 
 ### Progression within a path
 
 All new skills are introduced in the first three fun explore projects. Skills are revisited regularly to allow creators to use and experience them in different contexts. This helps to embed and deepen their understanding of how to apply those skills. 
 
-As creators progress through the path, scafolding is gently removed to help increase their independence. 
+As creators progress through the path, scaffolding is gently removed to help increase their independence. 
 
-The path structure is designed to be flexible. If creators are already confident with the skills covered in the explore projects then they can go straight to the design projects. If they aren't ready to start a design project from scratch then they could remix one of the example projects and adapt it with their own ideas. 
+The path structure is designed to be flexible. If creators are already confident with the skills covered in the Explore projects, then they can go straight to the Design projects. If they aren't ready to start a Design project from scratch, then they could remix one of the example projects and adapt it with their own ideas. 
 
 ### Time needed for a path
 
@@ -26,8 +26,8 @@ Each project in a path should take about an hour to complete. There are addition
 
 Our programmes have age guidelines:
 
-+ Code club - ages 9-13
-+ CoderDojo - ages 7-17
++ Code Club - ages 9 to 13
++ CoderDojo - ages 7 to 17
 
 ![The logos for Code Club and CoderDojo.](images/code-dojo-logos.png)
 
@@ -58,16 +58,16 @@ Reflection time is another opportunity for creators to revisit and remind themse
 
 ### Badges
 
-![Three badges taken from the Scratch, Raspberry Pi Pico and Unity paths.](images/badges.png)
+![Three badges taken from the Scratch, Raspberry Pi Pico, and Unity paths.](images/badges.png)
 
-At the end of each project, the creators are awarded with a project badge. If your creators have an account then they can collect and view their badges there. 
+At the end of each project, the creators are awarded with a project badge. If your creators have an account, then they can collect and view their badges there. 
 
 ### Research links
 
-+ As creators **progress** through a path, the activities allow for growth whilst reducing frustrations. 
-+ Starting with **step by step** activities builds motivation. Moving on to **guided activities** where creators make **design choices** allows for increased independence.
-+ Beginning with **direct instruction** and then moving on to **independent** projects increases engagement and motivation.
-+ Invent projects allow creators to work on projects that **matter to them**. This means that they are more engaged with the activity and more willing to expand their projects and learn more. 
++ As creators **progress** through a path, the activities allow for growth while reducing frustrations. 
++ Starting with **step-by-step** activities builds motivation. Moving on to **guided activities** where creators make **design choices** allows for increased independence.
++ Beginning with **direct instruction** and then moving on to **independent** projects increases creators' engagement and motivation.
++ Invent projects allow creators to work on projects that **matter to them**. This means that they are more engaged with the activity, which makes them willing to expand their projects and learn more. 
 + Projects across a path are carefully considered to ensure that they appeal to a wide, global audience. 
 
 
