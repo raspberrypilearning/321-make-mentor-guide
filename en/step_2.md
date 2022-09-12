@@ -6,7 +6,7 @@ We want our creators to **have fun** and **feel motivated** to continue their jo
 
 The path is designed to slowly remove scaffolding so that creators can become more independent and able to use their **knowledge** and **skills** to make their own projects.
 
-![The four stages on the 321 Make! path. A 'start here' flag is at the beginning, the path then moves along to Explore, then Design, then Invent and then a final flag that says 'Make!'.](images/321make.png)
+![The four stages on the 321 Make! path. A 'start here' flag is at the beginning, the path then moves along to Explore, then Design, then Invent, and then a final flag that says 'Make!'.](images/321make.png)
 
 ### Developing an identity
 
