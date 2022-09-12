@@ -32,7 +32,7 @@ Not quite, these are all found at the core of our '321 Make!' framework but are 
 
  --- feedback ---
 
-Not quite, there are the three levels of paths that lead creators from beginners through to advanced skills. 
+Not quite, these are the three levels of paths that lead creators from beginners through to gain advanced skills. 
 
  --- /feedback ---
 
