@@ -12,7 +12,7 @@ Our global community of awesome young <span style="color: #0faeb0">**creators**<
 
 We will cover:
 + The motivation behind creating 321 Make! and the new paths of projects
-+ The different kinds of project in 321 Make!
++ The different kinds of projects in 321 Make!
 + Tips for using the paths in engaging sessions
 
-We would love to hear your thoughts about 321 Make!, the paths and projects. As you work through this guide you will notice a 'Send feedback' button at the bottom of each step. This button appears on all our projects for you and your young creators to send feedback at any time. 
+We would love to hear your thoughts about 321 Make!, the paths, and projects. As you work through this guide you will notice a 'Send feedback' button at the bottom of each step. This button appears on all our projects for you and your young creators to send feedback at any time. 
