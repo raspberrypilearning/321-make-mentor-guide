@@ -6,9 +6,9 @@ A path is a collection of **six** projects that cover a set of skills needed for
 
 Currently, there are three levels of path:
 
-+ '**Introduction to...**' these paths are for the creators first introduction to the hardware or software. 
-+ '**More...**' these paths follow on directly from the 'Introduction to' paths and build on those skills, while introducing new ones.
-+ '**Further...**' these paths are currently the most advanced. They build on all of the skills covered in 'Introduction to' and 'More' paths, while introducing new skills. 
++ '**Introduction to...**' these paths are for the creators' first introduction to the hardware or software. 
++ '**More...**' these paths follow on from the 'Introduction to' paths and build on those skills, while introducing new ones.
++ '**Further...**' these paths are currently the most advanced. They build on all of the skills covered in 'Introduction to' and 'More' paths, while also introducing new skills. 
 
 ### Progression within a path
 
