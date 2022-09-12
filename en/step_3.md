@@ -33,9 +33,9 @@ Our programmes have age guidelines:
 
 There are paths available for all creators in those age categories. Facilitators and parents should guide creators to the paths that are most suited to them. 
 
-'Introduction to Scratch' has projects that are aimed at our younger audience.
++ 'Introduction to Scratch' has projects that are aimed at our younger audience.
 
-'More Python' and 'Introduction to Unity' are aimed at our older audience. 
++ 'More Python' and 'Introduction to Unity' are aimed at our older audience. 
 
 There is a lot of flexibility in path choice. Creators should explore the paths and choose the ones that interest them the most. However, it is important that they start at the 'Introduction' level if they are unfamiliar with the software or hardware being covered. 
 
@@ -45,8 +45,8 @@ Guides are available for some of the areas covered in our new paths. These are r
 
 + [Getting started with Scratch](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_blank"}
 + [A guide to Unity](https://projects.raspberrypi.org/en/projects/unity-guide){:target="_blank"}
-+ [Introduction to the Raspberry Pi Pico](https://projects.raspberrypi.org/en/projects/introduction-to-the-pico/0){:target="_blank"}
-+ [Introduction to web development](https://projects.raspberrypi.org/en/projects/getting-started-web-dev/0){:target="_blank"}
++ [Introduction to Raspberry Pi Pico](https://projects.raspberrypi.org/en/projects/introduction-to-the-pico/0){:target="_blank"}
++ [Getting started with web development](https://projects.raspberrypi.org/en/projects/getting-started-web-dev/0){:target="_blank"}
 
 More guides are in development.
 
