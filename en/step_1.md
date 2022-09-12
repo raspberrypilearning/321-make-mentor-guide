@@ -8,7 +8,7 @@ This guide is for facilitators using the Raspberry Pi Foundation's [321 Make! pa
 Our global community of awesome young <span style="color: #0faeb0">**creators**</span> have been growing their skills by making projects in clubs and at home for over a decade. Through sharing their creations they have inspired their peers around the world. 
 </p>
 
-![Three screenshots of our projects placed in a fan layout.](images/project-fan.png)
+![Three of our projects placed in a fan layout.](images/project-fan.png)
 
 We will cover:
 + The motivation behind creating 321 Make! and the new paths of projects
