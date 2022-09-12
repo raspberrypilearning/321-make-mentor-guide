@@ -2,8 +2,8 @@
 
 **Explore** projects are step-by-step instructions that:
 + Introduce creators to a set of skills
-+ Help them develop initial confidence
-+ Build their interest and engagement  
++ Help creators develop initial confidence
++ Build creators' interest and engagement  
 
 Each path begins with **3** Explore projects that between them contain the set of skills and concepts needed for the entire path.
 
