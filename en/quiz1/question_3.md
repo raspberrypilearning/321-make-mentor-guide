@@ -36,7 +36,7 @@ Not quite. There are three Explore projects in the path which will take a total 
 
  --- feedback ---
 
-Not quite, the path is a little shorter than this. However, creators can spend a total of 9 hours on a path if they are really enjoying some projects and would like extra time on it. 
+Not quite, the path is a little shorter than this. However, creators can spend a total of 9 hours on a path if they are really enjoying some projects and would like to spend extra time on it. 
 
  --- /feedback ---
 
