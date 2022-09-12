@@ -1,37 +1,37 @@
-## 3 Explore projects 
+## Three Explore projects 
 
 **Explore** projects are step-by-step instructions that:
-+ introduce creators to a set of skills
-+ help them develop initial confidence
-+ build their interest and engagement  
++ Introduce creators to a set of skills
++ Help them develop initial confidence
++ Build their interest and engagement  
 
 Each path begins with **3** Explore projects that between them contain the set of skills and concepts needed for the entire path.
 
-**Tip:** We recommend that facilitators complete the Explore projects themselves before running a session with creators. This familiarity with the project helps aniticpate issues and you can make note of discussion points.  
+**Tip:** We recommend that facilitators complete the Explore projects themselves before they run a session with creators. This familiarity with the project helps aniticpate issues and you can make note of discussion points.  
 
 ### Tasks 
 
-Creators work through the project tasks, each task has a green background and a grey checkmark box in the top-right corner. Once a creator has completed the task they can check the box, this turns the checkmark into a green filled box and fades the content. 
+Creators work through the project tasks. Each task has a green background and a grey checkmark box in the top-right corner. Once a creator has completed the task, they can check the box. This turns the checkmark into a green-filled box and fades the content. 
 
 --- task ---
  
 Click on the checkmark box for this task to see what happens. 
 
-Using the checkmark helps creators follow which tasks they have completed. It also helps facilitators when helping the creators to debug their projects. 
+The checkmarks help creators to see which tasks they have completed and help facilitators when they support creators to debug their projects. 
 
 --- /task ---
 
 Thare are several types of task including: 
-+ **Choose:** - creators are encouraged to add personalisation to their projects. We view choice as important even in step-by-step Explore projects and offer choice throughout projects.  
-+ **Test:** - creators run their project to see the outcome. Creators are encouraged to test regularly as they develop their project a bit at a time.
-+ **Save:** - a reminder to save their projects where applicable. These tasks include guidance on how to save as well as acting as a reminder to save.
-+ **Debug:** - contains hints, tips, and instructions to help creators solve common problems they find. Creators are also encouraged to celebrate bugs not listed by sharing them via the 'Send feedback' button 
++ **Choose:** &mdash; creators are encouraged to add personalisation to their projects. We view choice as important even in step-by-step Explore projects and offer choice throughout projects.  
++ **Test:** &mdash; creators run their project to see the outcome. Creators are encouraged to test regularly as they develop their project a bit at a time.
++ **Save:** &mdash; a reminder to creators to save their projects where applicable. These tasks include guidance on how to save as well as acting as a reminder to save.
++ **Debug:** &mdash; contains hints, tips, and instructions to help creators solve common problems they find. Creators are also encouraged to celebrate bugs not listed by sharing them via the 'Send feedback' button. 
 
-### Try it Tasks
+### 'Try it' tasks
 
 The Introduction step in Explore projects has a **Try it** task to be used at the beginning of your session. Investigation questions encourage creators to interact with the project. 
 
-This sets the scene for your creators by encouraging them to play with the finished example of the project they will be creating. 
+This sets the scene for creators as it encourages them to play with the finished example of the project they create. 
 
 **Tip:** This type of task can be completed indpendently by the creators or together as an introduction to your session. 
 
@@ -55,7 +55,7 @@ What happens if you click on one sprite and then quickly click on another sprite
 
 ### Step introductions
 
-The projects are split into pages (steps), each step begins with a description and image showing creators what they will have made by the end of the step. 
+The projects are split into pages (steps), each step begins with a description and image to show creators what they will have made by the end of the step. 
 
 This is the **step introduction** from the 'Exhaust effects' step in our [Rocket launch](https://projects.raspberrypi.org/en/projects/rocket-launch){:target="_blank"} Explore project: 
 
@@ -100,7 +100,7 @@ Here is an example of a boxout from our [Catch the bus](https://projects.raspber
 
 **Info cards** in Explore projects are used to give extra information. They could add more detail about a skill, provide an alternative choice, or help debug a common problem. 
 
-In this example from our [Grow a dragonfly](https://projects.raspberrypi.org/en/projects/grow-a-dragonfly){:target="_blank"} Explore project the Info card is a guide explaining how to use the Scratch backpack feature and will only be expanded by those creators that want to know how to use it.
+In this example from our [Grow a dragonfly](https://projects.raspberrypi.org/en/projects/grow-a-dragonfly){:target="_blank"} Explore project, the Info card is a guide explaining how to use the Scratch backpack feature and will only be expanded by those creators that want to know how to use it.
 
 --- task ---
 
@@ -110,7 +110,7 @@ Click on the **Info card** below to expand it and again to close it:
 
 --- /task ---
 
-### The Upgrade your project step
+### The 'Upgrade your project' step
 
 Each Explore project contains an **upgrade your project** step with ideas and aspirational projects for creators to develop their project further with the skills they have already. 
 
@@ -118,7 +118,7 @@ Each Explore project contains an **upgrade your project** step with ideas and as
 
 **Tip:** At the end of a session you could have 'show and tell' where creators share their projects and talk about their creation process. This would be a good time to look at the upgrade options to celebrate how far their new skills can take them.   
 
-Here is an example of an upgrade step from our Beating heart [Beating heart](https://projects.raspberrypi.org/en/projects/beating-heart){:target="_blank"} Explore project:
+Here is an example of an upgrade step from our [Beating heart](https://projects.raspberrypi.org/en/projects/beating-heart){:target="_blank"} Explore project:
 
 --- task ---
 
@@ -139,11 +139,11 @@ You could:
 
 --- /task ---
 
-The upgrade step also contains an Info card with link to the completed solution. 
+The upgrade step also contains an info card with link to the completed solution. 
 
-## The What next step
+## The 'What next' step
 
-Explore projects end with a **what next** step that has links to the path overview and the next project in the path. 
+Explore projects end with a **'What next'** step that has links to the path overview and the next project in the path. 
 
 There is also an embedded version of the next project in that path that creators can interact with.
 
