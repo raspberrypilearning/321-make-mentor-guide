@@ -1,12 +1,12 @@
 ## Why 321 Make! ?
 
-321 Make! is informed by research into how young people develop **interest** and **skills** in computing as well as the experiences of the Raspberry Pi Foundation, Code Club and CoderDojo communities. 
+321 Make! is informed by research into how young people develop **interest** and **skills** in computing as well as the experiences of the Raspberry Pi Foundation, Code Club, and CoderDojo communities. 
 
 We want our creators to **have fun** and **feel motivated** to continue their journey through a path. This is why we mix step-by-step projects with projects that encourage design choices and projects that invite young creators to **make things that matter to them.** 
 
 The path is designed to slowly remove scaffolding so that creators can become more independent and able to use their **knowledge** and **skills** to make their own projects.
 
-![An illustration of the four stages on the 321 Make! path. A start here flag is at the beginning, the path then moves along to Explore, then Design, then Invent and then a final flag that says "Make!".](images/321make.png)
+![The four stages on the 321 Make! path. A 'start here' flag is at the beginning, the path then moves along to Explore, then Design, then Invent and then a final flag that says 'Make!'.](images/321make.png)
 
 ### Developing an identity
 
@@ -28,7 +28,7 @@ The 321 Make! [framework](https://www.raspberrypi.org/blog/free-coding-resources
 + Builds independence
 + Prepares for success
 + Encourages personalisation
-+ Incorporates professional practises
++ Incorporates professional practices
 + Includes physical computing
 + Supports sharing 
 + Encourages reusing and remixing
@@ -45,11 +45,11 @@ title: Further reading
 
 + **Prioritises fun and engagement**
 
-Engagement provides better opportunities for self-motivated learning and gives young people the desire to return to continue participating in educational activities themed around their interests. We look at what young people are making and tailor our projects around our findings.
+Engagement provides better opportunities for self-motivated learning and gives young people the desire to return to continue to participate in educational activities themed around their interests. We look at what young people make and tailor our projects around our findings.
 
 + **Links to the modern world**
 
-Computing technology is shaped by the people who make it. Relating projects to the modern world enables young people to discover how the technology around them works and how it was created. We explain what technology professionals do and encourage users to make connections between what they are learning and the technology around them. 
+Computing technology is shaped by the people who make it. Relating projects to the modern world enables young people to discover how the technology around them works and how it was created. We explain what technology professionals do and encourage users to make connections between what they learn and the technology around them. 
 
 + **Leads with outcomes**
 
@@ -57,31 +57,31 @@ Young people need to be excited about what they are about to do in order to buil
 
 + **Builds independence**
 
-Learners need to develop independence so they can make projects that are unique to them and have never been made before. We build independence gradually. Explore projects include step-by-step instructions for new skills and concepts to develop familiarity and competence with using tools. Design projects show learners how to solve problems themselves and develop the skills to keep learning new technologies. Invent projects allow learners to meet a project brief using their creativity, design thinking and technical skills. 
+Learners need to develop independence so they can make projects that are unique to them and have never been made before. We build independence gradually. Explore projects include step-by-step instructions for new skills and concepts to develop familiarity and competence with using tools. Design projects show learners how to solve problems themselves and develop the skills to keep learning new technologies. Invent projects allow learners to meet a project brief using their creativity, design thinking, and technical skills. 
 
 + **Prepares for success**
 
-In order to develop independence, learners need to develop a set of skills and knowledge to design and invent their own projects. The skills and knowledge covered in the explore projects are carefully considered to provide learners with the ability to quickly make interesting projects. 
+In order to develop independence, learners need to develop a set of skills and knowledge to design and invent their own projects. The skills and knowledge covered in the Explore projects are carefully considered to provide learners with the ability to quickly make interesting projects. 
 
 + **Encourages personalisation**
 
-When learners are making things that matter to them they will be motivated to keep going because the context is meaningful to them. We design projects that are open enough to be adapted to young people's life experiences and culture. 
+When learners make things that matter to them, they are motivated to keep going because the context is meaningful to them. We design projects that are open enough to be adapted to young people's life experiences and culture. 
 
-+ **Incorporates professional practises**
++ **Incorporates professional practices**
 
-Making with technology requires practises such as debugging, testing and creative thinking and the ability to consider user needs. It also involves using tools such as code editors. Explore projects model and narrate best practices. Design projects guide learners through the development process and Invent projects enable learners to demonstrate their skills independently in a context where they can succeed. 
+Making with technology requires practices such as debugging, testing, and creative thinking; and the ability to consider user needs. It also involves using tools such as code editors. The Explore projects model and narrate best practices. The Design projects guide learners through the development process and the Invent projects enable learners to demonstrate their skills independently in a context where they can succeed. 
 
 + **Includes physical computing**
 
-Physical computing gives tactile and sensory experiences to enhance learning. Combining electronics and programming with arts and crafts provides learners with a creative, engaging context to explore and apply computing concepts. Making devices that provide practical solutions to physical problems can be motivating.
+Physical computing gives tactile and sensory experiences to enhance learning. When electronics and programming is combined with arts and crafts, it provides learners with a creative, engaging context to explore and apply computing concepts. Making devices that provide practical solutions to physical problems can be motivating for learners.
 
 + **Supports sharing**
 
-Sharing fosters a sense of community, mutual support and positivity.  Opportunities to share online or in-person are built into the structure of the projects. Creators are encouraged to ask for feedback on their work.  
+Sharing fosters a sense of community, mutual support, and positivity.  Opportunities to share online or in-person are built into the structure of the projects. Creators are encouraged to ask for feedback on their work.  
 
 + **Encourages reusing and remixing**
 
-Professional software developers reuse code and look things up all the time. Programmers don't remember everything (and nobody asks a mechanic to make the engine parts they use when building an engine - the skill is knowing how to put them together!).
+Professional software developers reuse code and look things up all the time. Programmers don't remember everything (and nobody asks a mechanic to make the engine parts they use when building an engine &mdash; the skill is knowing how to put them together!).
 
 + **Introduces role models**
 
@@ -89,7 +89,7 @@ It's very important that young people see themselves represented in computing as
 
 + **Provides reflection time**
 
-Reflection is built into each project and  is another opportunity to cover the key skills and knowledge that young people have discovered in their projects. It helps to embed the skills for when they need them later on.
+Reflection is built into each project and is another opportunity to cover the key skills and knowledge that young people have discovered in their projects. It helps to embed the skills for when they need them later on.
 
 + **Is designed for all**
 
@@ -99,9 +99,9 @@ Projects are written for an audience that is global and has a wide variety of co
 
 Each 321 Make! path is made up of three different types of project in a 3-2-1 structure:
 
-+ **3 Explore** projects to introduce creators to a set of skills, and provide step-by-step instructions to help them develop initial confidence.
-+ **2 Design** projects to allow creators to practise the skills they learned in the previous Explore projects, and to express themselves creatively whilst growing independence.
-+ **1 Invent** project where creators meet a project brief for a particular audience using their skills.
++ **Three Explore** projects to introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence
++ **Two Design** projects to allow creators to practise the skills they learned in the previous Explore projects, and to express themselves creatively while they grow in independence
++ **One Invent** project where creators use their skills to meet a project brief for a particular audience
 
 We also provide resources for independent creators to **Make** projects from their own ideas using the skills they have acquired.
 
