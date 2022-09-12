@@ -7,7 +7,7 @@
 
 Each path begins with **3** Explore projects that between them contain the set of skills and concepts needed for the entire path.
 
-**Tip:** We recommend that facilitators complete the Explore projects themselves before they run a session with creators. This familiarity with the project helps aniticpate issues and you can make note of discussion points.  
+**Tip:** We recommend that facilitators complete the Explore projects themselves before they run a session with creators. This familiarity with the project helps anticipate issues and you can make note of discussion points.  
 
 ### Tasks 
 
@@ -21,7 +21,7 @@ The checkmarks help creators to see which tasks they have completed and help fac
 
 --- /task ---
 
-Thare are several types of task including: 
+There are several types of task including: 
 + **Choose:** &mdash; creators are encouraged to add personalisation to their projects. We view choice as important even in step-by-step Explore projects and offer choice throughout projects.  
 + **Test:** &mdash; creators run their project to see the outcome. Creators are encouraged to test regularly as they develop their project a bit at a time.
 + **Save:** &mdash; a reminder to creators to save their projects where applicable. These tasks include guidance on how to save as well as acting as a reminder to save.
@@ -33,7 +33,7 @@ The Introduction step in Explore projects has a **Try it** task to be used at th
 
 This sets the scene for creators as it encourages them to play with the finished example of the project they create. 
 
-**Tip:** This type of task can be completed indpendently by the creators or together as an introduction to your session. 
+**Tip:** This type of task can be completed independently by the creators or together as an introduction to your session. 
 
 Here is an example of a **Try it** task:
 
@@ -73,7 +73,7 @@ You can create cool effects by using a `for` loop to draw lots of shapes in each
 </div>
 <div>
 
-![The rocket mid flight with an exhaust trail.](images/flying_rocket.gif){:width="300px"}
+![The rocket mid-flight with an exhaust trail.](images/flying_rocket.gif){:width="300px"}
 
 </div>
 </div>
@@ -98,7 +98,7 @@ Here is an example of a boxout from our [Catch the bus](https://projects.raspber
 
 ### Info cards
 
-**Info cards** in Explore projects are used to give extra information. They could add more detail about a skill, provide an alternative choice, or help debug a common problem. 
+**Info cards** in the Explore projects are used to give extra information. They could add more detail about a skill, provide an alternative choice, or help debug a common problem. 
 
 In this example from our [Grow a dragonfly](https://projects.raspberrypi.org/en/projects/grow-a-dragonfly){:target="_blank"} Explore project, the Info card is a guide explaining how to use the Scratch backpack feature and will only be expanded by those creators that want to know how to use it.
 
@@ -130,7 +130,7 @@ Here is an example of an upgrade step from our [Beating heart](https://projects.
 You could: 
 + Set it to a slow speed to help you relax 
 + Adjust the beat to match the music you are listening to
-+ Add a blue LED to represent de-oxygenated blood entering and leaving the heart 
++ Add a blue LED to represent deoxygenated blood entering and leaving the heart 
 </div>
 <div>
 ![Animated gif showing a papercraft heart with a red and a blue LED pulsing in time to the heartbeat.](images/two-beats.gif){:width="300px"}
@@ -139,7 +139,7 @@ You could:
 
 --- /task ---
 
-The upgrade step also contains an info card with link to the completed solution. 
+The upgrade step also contains an info card with a link to the completed solution. 
 
 ## The 'What next' step
 
@@ -147,7 +147,7 @@ Explore projects end with a **'What next'** step that has links to the path over
 
 There is also an embedded version of the next project in that path that creators can interact with.
 
-**Tip:** You could end your session by looking at this step as a group and building excitment for the next project. 
+**Tip:** You could end your session by looking at this step as a group and building excitement for the next project. 
 
 ### Further reading:
 
@@ -162,9 +162,9 @@ title: Research and software engineering
 + **Step by step instructions** build early success and give creators the chance to gain familiarity with tools.
 + Explore projects **model** the best practices of building a project up step by step with regular testing and debugging. Professional software developers often learn new skills from more experienced colleagues. 
 + The projects follow principles from [**Universal Design for Learning**](https://www.raspberrypi.org/blog/universal-design-for-learning-in-computing-hello-world-15/){:target="_blank"} to support the inclusion of all young people. 
-+ Small **choices** are built into the projects allow creators to feel more connected with their projects without making over-ambitious changes that can lead to frustration. 
++ Small **choices** are built into the projects to allow creators to feel more connected with their projects without making over-ambitious changes that can lead to frustration. 
 + Multiple choice questions at the end of the main project steps provide an opportunity to review and embed knowledge and is a form of **assessment for learning**. They also provide the opportunity to **celebrate** and **reflect** on what has been achieved.
-+ Early success leads to an increase in **self-efficacy** which in know to be a factor in increasing future participation in computing.  
++ Early success leads to an increase in **self-efficacy** which is know to be a factor in increasing future participation in computing.  
 
 --- /collapse ---
 
