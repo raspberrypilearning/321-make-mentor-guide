@@ -12,7 +12,7 @@ Currently, there are three levels of path:
 
 ### Progression within a path
 
-All new skills are introduced in the first three fun explore projects. Skills are revisited regularly to allow creators to use and experience them in different contexts. This helps to embed and deepen their understanding of how to apply those skills. 
+All new skills are introduced in the first three fun Explore projects. Skills are revisited regularly to allow creators to use and experience them in different contexts. This helps to embed and deepen creators' understanding of how to apply those skills. 
 
 As creators progress through the path, scaffolding is gently removed to help increase their independence. 
 
