@@ -4,7 +4,7 @@
 <span style="color: #0faeb0">**Design**</span> means making decisions about the function or appearance of a project. Design includes software engineering, visual design, usability, and accessibility.  
 </p>
 
-In **Design** projects, creators take more responsibility for deciding exactly what to make and which computing concepts to use. The outputs of Design projects are much more varied than the output of Explore projects. 
+In **Design** projects, creators take more responsibility for deciding exactly what to make and which computing concepts to use. The outputs of Design projects are much more varied than the outputs of Explore projects. 
 
 Creators have a wide range of experiences and progress at different speeds. To support this, we:
 + Structure Design projects so that they build up gradually. 
