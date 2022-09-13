@@ -8,7 +8,7 @@ In **Design** projects, creators take more responsibility for deciding exactly w
 
 Creators have a wide range of experiences and progress at different speeds. To support this, we:
 + Structure Design projects so that they build up gradually. 
-+ Acknowledge all steps don't need to be completed for creators to have something to be proud of.
++ Acknowledge that all steps don't need to be completed for creators to have something to be proud of.
 + Do not specify a time limit. If your group enjoys making a Design project and needs more time, then you could continue for another session.
 
 ### Introduction step
