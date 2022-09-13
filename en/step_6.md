@@ -13,7 +13,7 @@ Creators have a wide range of experiences and progress at different speeds. To s
 
 ### Introduction step
 
-The Introduction step gives creators several inspirational examples of what they could create. They are encouraged to have fun trying the example projects and explore their code. 
+The Introduction step gives creators several inspirational examples of what they could create. They are encouraged to have fun trying the example projects and exploring their code. 
 
 Prompts are provided to get creators to pay attention to what is **similar** across the projects and what is **different**. Creators use this knowledge as input into their designs. 
 
