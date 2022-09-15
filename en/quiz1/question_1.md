@@ -41,7 +41,7 @@ Not quite. These are the three levels of paths that lead creators from beginners
  --- feedback ---
 
 That's right! 
-+ Explore projects introduce new skills
++ In Explore projects creators are introduced to new skills
 + In Design projects creators practise skills and bring their own interests to their projects
 + In Invent projects creators use all their skills to meet a project brief
 
