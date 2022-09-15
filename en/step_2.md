@@ -1,16 +1,16 @@
-## Why 321 Make! ?
+## Why 3...2...1...Make! ?
 
-321 Make! is informed by research into how young people develop **interest** and **skills** in computing as well as the experiences of the Raspberry Pi Foundation, Code Club, and CoderDojo communities. 
+3...2...1...Make! is informed by research into how young people develop **interest** and **skills** in computing as well as the experiences of the Raspberry Pi Foundation, Code Club, and CoderDojo communities. 
 
 We want our creators to **have fun** and **feel motivated** to continue their journey through a path. This is why we mix step-by-step projects with projects that encourage design choices and projects that invite young creators to **make things that matter to them.** 
 
 The path is designed to slowly remove scaffolding so that creators can become more independent and able to use their **knowledge** and **skills** to make their own projects.
 
-![The four stages on the 321 Make! path. A 'start here' flag is at the beginning, the path then moves along to Explore, then Design, then Invent, and then a final flag that says 'Make!'.](images/321make.png)
+![The four stages on the 3...2...1...Make! path. A 'start here' flag is at the beginning, the path then moves along to Explore, then Design, then Invent, and then a final flag that says 'Make!'.](images/321make.png)
 
 ### Developing an identity
 
-When creators work through the projects in a 321 Make! path, we want them to be able to say:
+When creators work through the projects in a 3...2...1...Make! path, we want them to be able to say:
 
 + I can make things that matter to me
 + I can find things out that I need to know
@@ -18,9 +18,9 @@ When creators work through the projects in a 321 Make! path, we want them to be 
 + I belong to a maker community
 + I am a maker
 
-### Key principles of 321 Make!
+### Key principles of 3...2...1...Make!
 
-The 321 Make! [framework](https://www.raspberrypi.org/blog/free-coding-resources-children-young-people-digital-making-independence/){:target="_blank"}: 
+The 3...2...1...Make! [framework](https://www.raspberrypi.org/blog/free-coding-resources-children-young-people-digital-making-independence/){:target="_blank"}: 
 
 + Prioritises fun and engagement
 + Links to the modern world
@@ -97,7 +97,7 @@ Projects are written for an audience that is global and has a wide variety of co
 
 --- /collapse ---
 
-Each 321 Make! path is made up of three different types of project in a 3-2-1 structure:
+Each 3...2...1...Make! path is made up of three different types of project in a 3-2-1 structure:
 
 + **Three Explore** projects to introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence
 + **Two Design** projects to allow creators to practise the skills they learned in the previous Explore projects, and to express themselves creatively while they grow in independence
