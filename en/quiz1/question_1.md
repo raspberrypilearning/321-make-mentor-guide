@@ -16,7 +16,7 @@ Try this quiz out for yourself. Have fun!
 legend: Question 1 of 3
 ---
 
-What are the three types of 321 Make! projects called?
+What are the three types of 3...2...1...Make! projects called?
 
 --- choices ---
 
@@ -24,7 +24,7 @@ What are the three types of 321 Make! projects called?
 
  --- feedback ---
 
-Not quite, these are all found at the core of our '321 Make!' framework but are not the names for types of projects.
+Not quite, these are all found at the core of our 3...2...1...Make! framework, but are not the names for types of projects.
 
  --- /feedback ---
 
