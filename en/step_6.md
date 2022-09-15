@@ -49,7 +49,7 @@ Look at these examples and think about how they have both been made from shapes.
 
 **Tip:** If you are limited for time or have creators who need more support, then they can start from one of the examples and remix it instead of completely creating their own project. 
 
-**Tip:** If you have time, it's a good idea to show creators the example design projects the session before, or encourage them to try them at home, so that they have time to think about their own ideas. 
+**Tip:** If you have time, it's a good idea to show creators the example Design projects the session before, or encourage them to try them at home, so that they have time to think about their own ideas. 
 
 **Tip:** For our Scratch paths, you can see the remixes other creators have made by visiting the starter project page for each project. This example from our [Silly eyes](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} project page contains many inspirational projects that you might want to share with your creators.  
 
@@ -76,7 +76,7 @@ What kind of character will the Player be in your world? Will you use a model or
 
 It is important that young people see that computing and digital making addresses topics that are meaningful to them. This step is an opportunity for creators to:
 
-+ **Make the project culturally or locally relevant**: You could make an example project to show them how the project can be made with a theme that you know will be relevant to your young creators. 
++ **Make the project culturally or locally relevant**: You could make an example project to show them how the project can be made with a theme that you know will be relevant to your creators. 
 + **Make the project personally relevant**: Explain that the knowledge they have from their hobbies and interests is really valuable when making computing projects. 
 
 **Tip:** Some young people who are technically very capable struggle to think of their own ideas. They could try and recreate one of the examples without looking at the code. 
@@ -239,7 +239,7 @@ title: Research and software engineering
 ---
 
 + Offering **choice** increases engagement because it makes projects more relevant and meaningful to creators. 
-+ Each design project comes with four [**worked examples**](https://blog.teachcomputing.org/using-worked-examples-to-support-novice-learners/){:target="_blank"} that creators can review to understand how the projects were made. 
++ Each Design project comes with four [**worked examples**](https://blog.teachcomputing.org/using-worked-examples-to-support-novice-learners/){:target="_blank"} that creators can review to understand how the projects were made. 
 + Starter projects and guided instructions provide a [**plan** with **subgoals**](https://blog.teachcomputing.org/using-worked-examples-to-support-novice-learners/){:target="_blank"} that helps to break a project down into achievable parts.
 + Allowing creators to become familiar with concepts and skills in Explore projects before asking them to apply those skills creatively manages the [**cognitive load**](https://blog.teachcomputing.org/pedagogy-bytes-quick-reads-for-busy-educators/){:target="_blank"} that they experience on the path to becoming independent makers. 
 + Use-Modify-Create and [PRIMM](https://blog.teachcomputing.org/using-primm-to-structure-programming-lessons/){:target="_blank"} advocate gradually transferring ownership of code from the educator to the learner.
