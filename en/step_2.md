@@ -57,31 +57,31 @@ Young people need to be excited about what they are about to do in order to buil
 
 + **Builds independence**
 
-Learners need to develop independence so they can make projects that are unique to them and have never been made before. We build independence gradually. Explore projects include step-by-step instructions for new skills and concepts to develop familiarity and competence with using tools. Design projects show learners how to solve problems themselves and develop the skills to keep learning new technologies. Invent projects allow learners to meet a project brief using their creativity, design thinking, and technical skills. 
+Young people need to develop independence so they can make projects that are unique to them and have never been made before. Through our projects, we build independence gradually. Explore projects include step-by-step instructions for new skills and concepts to develop creators' familiarity and competence with using tools. Design projects show creators how to solve problems themselves and develop the skills to keep learning new technologies. Invent projects allow creators to meet a project brief using their creativity, design thinking, and technical skills. 
 
 + **Prepares for success**
 
-In order to develop independence, learners need to develop a set of skills and knowledge to design and invent their own projects. The skills and knowledge covered in the Explore projects are carefully considered to provide learners with the ability to quickly make interesting projects. 
+In order to develop independence, young people need to develop a set of skills and knowledge to design and invent their own projects. The skills and knowledge covered in the Explore projects are carefully considered to provide creators with the ability to quickly make interesting projects. 
 
 + **Encourages personalisation**
 
-When learners make things that matter to them, they are motivated to keep going because the context is meaningful to them. We design projects that are open enough to be adapted to young people's life experiences and culture. 
+When young people make things that matter to them, they are motivated to keep going because the context is meaningful to them. We design projects that are open enough to be adapted to young people's life experiences and cultures. 
 
 + **Incorporates professional practices**
 
-Making with technology requires practices such as debugging, testing, and creative thinking; and the ability to consider user needs. It also involves using tools such as code editors. The Explore projects model and narrate best practices. The Design projects guide learners through the development process and the Invent projects enable learners to demonstrate their skills independently in a context where they can succeed. 
+Making with technology requires practices such as debugging, testing, and creative thinking; and the ability to consider user needs. It also involves using tools such as code editors. The Explore projects model and narrate best practices. The Design projects guide creators through the development process and the Invent projects enable creators to demonstrate their skills independently in a context where they can succeed. 
 
 + **Includes physical computing**
 
-Physical computing gives tactile and sensory experiences to enhance learning. When electronics and programming is combined with arts and crafts, it provides learners with a creative, engaging context to explore and apply computing concepts. Making devices that provide practical solutions to physical problems can be motivating for learners.
+Physical computing gives tactile and sensory experiences to enhance learning. When electronics and programming are combined with arts and crafts, it provides young people with a creative, engaging context to explore and apply computing concepts. Making devices that provide practical solutions to physical problems can be motivating for creators.
 
 + **Supports sharing**
 
-Sharing fosters a sense of community, mutual support, and positivity.  Opportunities to share online or in-person are built into the structure of the projects. Creators are encouraged to ask for feedback on their work.  
+Sharing fosters a sense of community, mutual support, and positivity. Opportunities to share online or in-person are built into the structure of the projects. Creators are encouraged to ask for feedback on their work.  
 
 + **Encourages reusing and remixing**
 
-Professional software developers reuse code and look things up all the time. Programmers don't remember everything (and nobody asks a mechanic to make the engine parts they use when building an engine &mdash; the skill is knowing how to put them together!).
+Professional software developers reuse code and look things up all the time. Programmers don't remember everything and nobody asks a mechanic to make the engine parts they use when they build an engine &mdash; the skill is knowing how to put them together!
 
 + **Introduces role models**
 
