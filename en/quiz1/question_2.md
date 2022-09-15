@@ -12,7 +12,7 @@ In which step would creators find ideas and aspirational projects to further dev
 
  --- feedback ---
 
-Not quite. The **Reflection** step is a chance to celebrate the skills creators have gained through the project. This quiz is a reflection step. 
+Not quite. The **Reflection** step is a chance to celebrate the skills creators have gained through the project. This quiz is a **Reflection** step. 
 
  --- /feedback ---
 
