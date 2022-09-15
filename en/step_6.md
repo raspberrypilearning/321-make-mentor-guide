@@ -116,7 +116,7 @@ Not sure which sprite to choose? Go to the **Choose a Sprite** menu and choose t
 
 Design projects include all the code snippets that creators need. These are provided in the info cards. The concepts in the provided code will be familiar from the preceding Explore projects. Creators need to modify the code snippets for their project. 
 
-Where possible we provide an example project with code that can be reused via the Scratch backpack or code that can be used through copy and paste. 
+Where possible, we provide an example project with code that can be reused via the Scratch Backpack or code that can be used through copy and paste. 
 
 This example from our ['Surprise!' animation](https://projects.raspberrypi.org/en/projects/suprise-animation){:target="_blank"} Design project includes an info card with an example of how to create a walking animation. 
 
@@ -146,7 +146,7 @@ Design projects include **Debug:** tasks with advice on how to spot and fix the 
 
 **Tip:** When a creator asks for help in a Design project, encourage them to check the **Debug:** tasks and see if they can help. This encourages independence and accuracy in identifying the problem. 
 
-This **Debug:** task from our [Mood indicator](https://projects.raspberrypi.org/en/projects/mood-indicator){:target="_blank"} Design project details some common bugs and encourages celebrating any new bugs found. 
+This **Debug:** task from our [Mood indicator](https://projects.raspberrypi.org/en/projects/mood-indicator){:target="_blank"} Design project details some common bugs and encourages creators to celebrate any new bugs that are found. 
 
 --- task ---
 
@@ -173,15 +173,15 @@ As with Explore projects, the reflection questions are not intended as a formal 
 
 As with Explore projects, this step allows **differentiation by outcome** and allows creators who have additional time or want to continue at home to take their project further.
 
-This **Upgrade** step often includes an inspirational example that we would not expect all creators to be able to achieve. 
+This upgrade step often includes an inspirational example that we would not expect all creators to be able to achieve. 
 
-**Tip:** It's important to remind creators of how long it takes a big team to make a piece of software and that they are creating amazing projects in much less time, which makes these creators especially awesome.
+**Tip:** It's important to remind creators of how long it takes a big team to make a piece of software and that they have created amazing projects in much less time, which makes them especially awesome.
 
 ### Share step
 
-In this step, creators are guided through sharing their project. This could include in-person sharing as well as online sharing. 
+In this step, creators are guided through how to share their projects. This could include in-person sharing as well as online sharing. 
 
-Creators have the opportunity to share their project with the Raspberry Pi Foundation community by submitting to a Studio or Gallery. 
+Creators have the opportunity to share their projects with the Raspberry Pi Foundation community by submitting to a Studio or Gallery. 
 
 In this example from our [Next customer please](https://projects.raspberrypi.org/en/projects/next-customer-please){:target="_blank"} project, there are several ideas given for how to share projects. 
 
