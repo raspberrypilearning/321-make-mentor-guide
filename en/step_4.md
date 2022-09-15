@@ -157,14 +157,14 @@ There is also an embedded version of the next project in that path that creators
 title: Research and software engineering
 ---
 
-+ Explore projects begin with a **Try it** step which is similar to the **Use** step in Use-Modify-Create. It is important that creators understand what a project is supposed to do. This provides context for the instructions that they follow. Each step also shows what they will achieve by the end of the step so that they have a clear understanding of the expected outcome. 
++ Explore projects begin with a **Try it** step which is similar to the **Use** step in Use-Modify-Create. It is important that creators understand what a project is supposed to do. This provides context for the instructions that they follow. Each step also shows what creators will achieve by the end of the step so that they have a clear understanding of the expected outcome. 
 + Beginning with **direct instruction** introduces new concepts in a structured way to ensure that creators are familiar with the skills that they need to apply later on. 
 + **Step-by-step instructions** build early success and give creators the chance to gain familiarity with tools.
-+ Explore projects **model** the best practices of building a project up step by step with regular testing and debugging. Professional software developers often learn new skills from more experienced colleagues. 
-+ The projects follow principles from [**Universal Design for Learning**](https://www.raspberrypi.org/blog/universal-design-for-learning-in-computing-hello-world-15/){:target="_blank"} to support the inclusion of all young people. 
++ Explore projects **model** the best practices of building a project up step by step, with regular testing and debugging. Professional software developers often learn new skills from more experienced colleagues. 
++ The projects follow principles from the [**Universal Design for Learning**](https://www.raspberrypi.org/blog/universal-design-for-learning-in-computing-hello-world-15/){:target="_blank"} framework to support the inclusion of all young people. 
 + Small **choices** are built into the projects to allow creators to feel more connected with their projects without making over-ambitious changes that can lead to frustration. 
-+ Multiple choice questions at the end of the main project steps provide an opportunity to review and embed knowledge and is a form of **assessment for learning**. They also provide the opportunity to **celebrate** and **reflect** on what has been achieved.
-+ Early success leads to an increase in **self-efficacy** which is known to be a factor in increasing future participation in computing.  
++ Multiple choice questions at the end of the main project steps provide an opportunity to review and embed knowledge and is a form of **assessment for learning**. The questions also provide the opportunity for creators to **celebrate** and **reflect** on what has been achieved.
++ Early success leads to an increase in **self-efficacy** which is known to be a factor in increasing young people's future participation in computing.  
 
 --- /collapse ---
 
