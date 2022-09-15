@@ -116,7 +116,7 @@ Each Explore project contains a step for creators to upgrade their project. This
 
 **Tip:** Upgrade steps are open-ended and so are great for a session where creators work at different paces. They're also a chance to build localisation and personalise projects. 
 
-**Tip:** At the end of a session you could have show-and-tell activity where creators share their projects and talk about their creation process. This would be a good time to look at the options to upgrade a project and to celebrate how far creators' new skills can take them.   
+**Tip:** At the end of a session you could have a show-and-tell activity where creators share their projects and talk about their creation process. This would be a good time to look at the options to upgrade a project and to celebrate how far creators' new skills can take them.   
 
 Here is an example of an upgrade step from our [Beating heart](https://projects.raspberrypi.org/en/projects/beating-heart){:target="_blank"} Explore project:
 
