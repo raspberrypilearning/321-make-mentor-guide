@@ -69,7 +69,7 @@ When young people make things that matter to them, they are motivated to keep go
 
 + **Incorporates professional practices**
 
-Making with technology requires practices such as debugging, testing, and creative thinking; and the ability to consider user needs. It also involves using tools such as code editors. The Explore projects model and narrate best practices. The Design projects guide creators through the development process and the Invent projects enable creators to demonstrate their skills independently in a context where they can succeed. 
+Making with technology requires practices such as debugging, testing, and creative thinking; and the ability to consider user needs. It also involves using tools such as code editors. The Explore projects model and narrate best practices. The Design projects guide creators through the development process. The Invent projects enable creators to demonstrate their skills independently in a context where they can succeed. 
 
 + **Includes physical computing**
 
@@ -81,7 +81,7 @@ Sharing fosters a sense of community, mutual support, and positivity. Opportunit
 
 + **Encourages reusing and remixing**
 
-Professional software developers reuse code and look things up all the time. Programmers don't remember everything and nobody asks a mechanic to make the engine parts they use when they build an engine &mdash; the skill is knowing how to put them together!
+Professional software developers reuse code and look things up all the time. Programmers don't remember everything. Nobody asks a mechanic to make the engine parts they use when they build an engine &mdash; the skill is knowing how to put them together!
 
 + **Introduces role models**
 
