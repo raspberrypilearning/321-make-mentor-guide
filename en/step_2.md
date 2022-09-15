@@ -1,10 +1,10 @@
 ## Why 3...2...1...Make! ?
 
-3...2...1...Make! is informed by research into how young people develop **interest** and **skills** in computing as well as the experiences of the Raspberry Pi Foundation, Code Club, and CoderDojo communities. 
+3...2...1...Make! is informed by research into how young people develop an **interest** and their **skills** in computing as well as the experiences of the Raspberry Pi Foundation, Code Club, and CoderDojo communities. 
 
-We want our creators to **have fun** and **feel motivated** to continue their journey through a path. This is why we mix step-by-step projects with projects that encourage design choices and projects that invite young creators to **make things that matter to them.** 
+We want our creators to **have fun** and **feel motivated** to continue their journey through a path. This is why we mix step-by-step projects with projects that encourage design choices and projects that invite creators to **make things that matter to them.** 
 
-The path is designed to slowly remove scaffolding so that creators can become more independent and able to use their **knowledge** and **skills** to make their own projects.
+The path is designed to slowly remove scaffolding so that creators can become more independent and are able to use their **knowledge** and **skills** to make their own projects.
 
 ![The four stages on the 3...2...1...Make! path. A 'start here' flag is at the beginning, the path then moves along to Explore, then Design, then Invent, and then a final flag that says 'Make!'.](images/321make.png)
 
