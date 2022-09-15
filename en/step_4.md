@@ -55,7 +55,7 @@ What happens if you click on one sprite and then quickly click on another sprite
 
 ### Step introductions
 
-The projects are split into pages (steps), each step begins with a description and an image to show creators what they will have made by the end of the step. 
+The projects are split into pages (steps). Each step begins with a description and an image to show creators what they will have made by the end of the step. 
 
 This is the step introduction from the 'Exhaust effects' step in our [Rocket launch](https://projects.raspberrypi.org/en/projects/rocket-launch){:target="_blank"} Explore project: 
 
@@ -100,7 +100,7 @@ Here is an example of a boxout from our [Catch the bus](https://projects.raspber
 
 Info cards in the Explore projects are used to give extra information. They could add more detail about a skill, provide an alternative choice, or help debug a common problem. 
 
-In this example from our [Grow a dragonfly](https://projects.raspberrypi.org/en/projects/grow-a-dragonfly){:target="_blank"} Explore project, the info card is a guide explaining how to use the Scratch backpack feature and will only be expanded by those creators that want to know how to use it.
+In this example from our [Grow a dragonfly](https://projects.raspberrypi.org/en/projects/grow-a-dragonfly){:target="_blank"} Explore project, the info card is a guide to explain how to use the Scratch Backpack feature. Creators who want to know how to use this feature can choose to expand the info card. 
 
 --- task ---
 
@@ -110,7 +110,7 @@ Click on the info card to expand it and again to close it:
 
 --- /task ---
 
-### Steps to upgrade a project
+### Upgrade a project
 
 Each Explore project contains a step for creators to upgrade their project. This step includes ideas and aspirational projects for creators to develop their project further with the skills they have already. 
 
@@ -118,7 +118,7 @@ Each Explore project contains a step for creators to upgrade their project. This
 
 **Tip:** At the end of a session you could have 'show and tell' where creators share their projects and talk about their creation process. This would be a good time to look at the options to upgrade a project and to celebrate how far their new skills can take them.   
 
-Here is an example of an **Upgrade** step from our [Beating heart](https://projects.raspberrypi.org/en/projects/beating-heart){:target="_blank"} Explore project:
+Here is an example of an upgrade step from our [Beating heart](https://projects.raspberrypi.org/en/projects/beating-heart){:target="_blank"} Explore project:
 
 --- task ---
 
