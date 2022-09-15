@@ -24,7 +24,7 @@ What are the three types of 3...2...1...Make! projects called?
 
  --- feedback ---
 
-Not quite, these are all found at the core of our 3...2...1...Make! framework, but are not the names for types of projects.
+Not quite. These are all found at the core of our 3...2...1...Make! framework, but are not the names for types of projects.
 
  --- /feedback ---
 
@@ -32,7 +32,7 @@ Not quite, these are all found at the core of our 3...2...1...Make! framework, b
 
  --- feedback ---
 
-Not quite, these are the three levels of paths that lead creators from beginners through to gain advanced skills. 
+Not quite. These are the three levels of paths that lead creators from beginners through to gain advanced skills. 
 
  --- /feedback ---
 
@@ -42,7 +42,7 @@ Not quite, these are the three levels of paths that lead creators from beginners
 
 That's right! 
 + Explore projects introduce new skills
-+ In Design projects, creators practise skills and bring their own interests
++ In Design projects creators practise skills and bring their own interests to their projects
 + In Invent projects creators use all their skills to meet a project brief
 
  --- /feedback ---
@@ -51,7 +51,7 @@ That's right!
 
  --- feedback ---
 
-Not quite, 'Learn' was one of our original options for the step-by-step projects, but a panel of creators from our community firmly told us they preferred a different name. 🤣
+Not quite. 'Learn' was one of our original options for the step-by-step projects, but a panel of creators from our community firmly told us they would prefer a different name. 🤣
 
  --- /feedback ---
 
