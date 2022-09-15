@@ -7,7 +7,7 @@
 
 Each path begins with **3** Explore projects that between them contain the set of skills and concepts needed for the entire path.
 
-**Tip:** We recommend that facilitators complete the Explore projects themselves before they run a session with creators. This familiarity with the project helps anticipate issues and you can make note of discussion points.  
+**Tip:** We recommend that facilitators complete the Explore projects themselves before they run a session with creators. This familiarity with the projects helps you to anticipate issues and you can make note of discussion points.  
 
 ### Tasks 
 
@@ -29,7 +29,7 @@ There are several types of task including:
 
 ### Try it tasks
 
-The introduction step in Explore projects has a **Try it** task to be used at the beginning of your session. Investigation questions encourage creators to interact with the project. 
+In Explore projects, the introduction step has a **Try it** task to be used at the beginning of your session. Investigation questions encourage creators to interact with the project. 
 
 This sets the scene for creators as it encourages them to play with the finished example of the project they create. 
 
