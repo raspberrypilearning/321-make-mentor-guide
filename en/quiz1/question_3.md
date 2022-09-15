@@ -12,7 +12,7 @@ A path contains six projects. How much time is it expected to take to complete a
 
  --- feedback ---
 
-That's right. Each project in the path should take an hour to complete. There is no rule though, if creators are really enjoying one project and want to spend more time on it, that's fine. 
+That's right. Each project in the path should take an hour to complete. However, this is not a rule. If creators are really enjoying one project and want to spend more time on it, that's fine. 
 
  --- /feedback ---
 
@@ -28,7 +28,7 @@ Not quite. Each project should take about an hour to create, but there are six p
 
  --- feedback ---
 
-Not quite. There are three Explore projects in the path which will take a total of around three hours to complete, however the path also has two Design projects and one Invent project.
+Not quite. There are three Explore projects in the path which will take a total of around three hours to complete. However, the path also has two Design projects and one Invent project.
 
  --- /feedback ---
 
@@ -36,7 +36,7 @@ Not quite. There are three Explore projects in the path which will take a total 
 
  --- feedback ---
 
-Not quite, the path is a little shorter than this. However, creators can spend a total of 9 hours on a path if they are really enjoying some projects and would like to spend extra time on it. 
+Not quite. The path is a little shorter than this. However, creators can spend a total of 9 hours on a path if they are really enjoying some projects and would like to spend extra time on them. 
 
  --- /feedback ---
 
