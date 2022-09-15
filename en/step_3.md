@@ -4,7 +4,7 @@ A path is a collection of **six** projects that cover a set of skills needed for
 
 ![The 'Introduction to Scratch' path page.](images/path.png)
 
-Currently, there are three levels of path:
+Currently, there are three path levels:
 
 + '**Introduction to...**' these paths are for the creators' first introduction to the hardware or software. 
 + '**More...**' these paths follow on from the 'Introduction to' paths and build on those skills, while introducing new ones.
@@ -20,7 +20,7 @@ The path structure is designed to be flexible. If creators are already confident
 
 ### Time needed for a path
 
-Each project in a path should take about an hour to complete. There are additional upgrade steps in every project that can be used for creators who want to spend more time on their project.
+Each project in a path should take about an hour to complete. In every project, there are suggestions to upgrade the project that can be used for creators who want to spend more time on their creation.
 
 ### Age ranges for paths
 
