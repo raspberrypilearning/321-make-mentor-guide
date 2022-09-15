@@ -28,7 +28,7 @@ Not quite. Each project should take about an hour to create, but there are six p
 
  --- feedback ---
 
-Not quite. There are three Explore projects in the path which will take a total of around three hours to complete. However, the path also has two Design projects and one Invent project.
+Not quite. There are three Explore projects in the path which takes a total of around three hours to complete. However, the path also has two Design projects and one Invent project.
 
  --- /feedback ---
 
@@ -36,7 +36,7 @@ Not quite. There are three Explore projects in the path which will take a total 
 
  --- feedback ---
 
-Not quite. The path is a little shorter than this. However, creators can spend a total of 9 hours on a path if they are really enjoying some projects and would like to spend extra time on them. 
+Not quite. The path is a little shorter than this. However, creators can spend a total of 9 hours on a path if they are really enjoying the projects and would like to spend extra time on them. 
 
  --- /feedback ---
 
