@@ -114,9 +114,9 @@ Click on the info card to expand it and again to close it:
 
 Each Explore project contains a step for creators to upgrade their project. This step includes ideas and aspirational projects for creators to develop their project further with the skills they have already. 
 
-**Tip:** Upgrade steps are open ended so are great for a session where creators are working at different paces. They're also a chance to build localisation and personalise projects. 
+**Tip:** Upgrade steps are open-ended and so are great for a session where creators work at different paces. They're also a chance to build localisation and personalise projects. 
 
-**Tip:** At the end of a session you could have 'show and tell' where creators share their projects and talk about their creation process. This would be a good time to look at the options to upgrade a project and to celebrate how far their new skills can take them.   
+**Tip:** At the end of a session you could have show-and-tell activity where creators share their projects and talk about their creation process. This would be a good time to look at the options to upgrade a project and to celebrate how far creators' new skills can take them.   
 
 Here is an example of an upgrade step from our [Beating heart](https://projects.raspberrypi.org/en/projects/beating-heart){:target="_blank"} Explore project:
 
@@ -147,7 +147,7 @@ Explore projects end with a **What next** step that has links to the path overvi
 
 There is also an embedded version of the next project in that path that creators can interact with.
 
-**Tip:** You could end your session by looking at this step as a group and building excitement for the next project. 
+**Tip:** You could end your session by looking at this step as a group to build excitement for the next project. 
 
 ### Further reading
 
