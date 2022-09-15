@@ -51,7 +51,7 @@ Look at these examples and think about how they have both been made from shapes.
 
 **Tip:** If you have time, it's a good idea to show creators the example Design projects the session before, or encourage them to try them at home, so that they have time to think about their own ideas. 
 
-**Tip:** For our Scratch paths, you can see the remixes other creators have made by visiting the starter project page for each project. This example from our [Silly eyes](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} project page contains many inspirational projects that you might want to share with your creators.  
+**Tip:** For our Scratch paths, you can see the remixes other creators have made by visiting the starter project page for each project. This example from our [Silly eyes project page](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} contains many inspirational projects that you might want to share with your creators.  
 
 ### Choose your theme step
 
