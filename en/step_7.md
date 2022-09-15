@@ -60,7 +60,7 @@ The **Your idea** step also includes any starter files that creators might need 
 
 ### Build and test
 
-The **Build and test** stage can sometimes go over two steps, depending on the length of the project. This stage gives creators **info cards** for every single skill that is covered in the earlier projects. The cards are categorised to help creators find the ones that they need for the part of the problem they are trying to solve. 
+The **Build and test** stage can sometimes go over two steps, depending on the length of the project. This stage gives creators info cards for every single skill that is covered in the earlier projects. The cards are categorised to help creators find the ones that they need for the part of the problem they are trying to solve. 
 
 Here is an example from our [Powerful patterns](https://projects.raspberrypi.org/en/projects/powerful-patterns){:target="_blank"} Invent project from the 'Introduction to Python' path:
 
@@ -103,7 +103,7 @@ Take a moment to celebrate what you have made.
 
 ### Upgrade 
 
-If your creators have time and they want to take their project further, then they are encouraged to do this in the upgrade step. They can revisit the projects on the introduction page to get more inspiration for expanding on what they have achieved. 
+If your creators have time and they want to take their project further, then they are encouraged to do this in the **Upgrade** step. They can revisit the projects on the introduction page to get more inspiration for expanding on what they have achieved. 
 
 ### Share 
 
@@ -111,7 +111,7 @@ In this step, creators are guided through how to share their project. This could
 
 Creators have the opportunity to share their project with the Raspberry Pi Foundation community by submitting to a Studio or Gallery. This is an important step as it allows other makers in the community to see their ideas and gain inspiration from their peers. 
 
-### Further reading:
+### Further reading
 
 --- collapse ---
 
