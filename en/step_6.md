@@ -79,7 +79,7 @@ It is important that young people see that computing and digital making addresse
 + **Make the project culturally or locally relevant**: You could make an example project to show creators how the project can be made with a theme that you know will be relevant to them. 
 + **Make the project personally relevant**: Explain that the knowledge creators have from their hobbies and interests is really valuable when they make computing projects. 
 
-**Tip:** Some young people who are technically very capable struggle to think of their own ideas. They could try and recreate one of the examples without looking at the code. 
+**Tip:** Some young people who are technically very capable may struggle to think of their own ideas. They could try and recreate one of the examples without looking at the code. 
 
 ## Creation steps 
 
@@ -87,7 +87,7 @@ The main steps in a Design project have tasks that guide creators through the st
 
 Design projects model the decomposition of a project into manageable steps. At the end of each step, creators have a part or feature of their project working. 
 
-Design projects include **Choose:** tasks where creators are offered a choice. These include content decisions such as graphics, colours, and text, and will influence the functionality of their project. For example, the selection of a character could influence the way they move. A leopard would move quickly while a snail would move slowly. 
+Design projects include **Choose:** tasks where creators are offered a choice. These include making content decisions about graphics, colours, and text that will influence the functionality of creators' projects. For example, the selection of a character could influence the way they move. A leopard would move quickly while a snail would move slowly. 
 
 This example from our [Silly eyes](https://projects.raspberrypi.org/en/projects/silly-eyes){:target="_blank"} Design project includes three different ways a creator could **choose** their sprite:
 
