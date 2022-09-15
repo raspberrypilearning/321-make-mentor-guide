@@ -76,8 +76,8 @@ What kind of character will the Player be in your world? Will you use a model or
 
 It is important that young people see that computing and digital making addresses topics that are meaningful to them. This step is an opportunity for creators to:
 
-+ **Make the project culturally or locally relevant**: You could make an example project to show them how the project can be made with a theme that you know will be relevant to your creators. 
-+ **Make the project personally relevant**: Explain that the knowledge they have from their hobbies and interests is really valuable when making computing projects. 
++ **Make the project culturally or locally relevant**: You could make an example project to show creators how the project can be made with a theme that you know will be relevant to them. 
++ **Make the project personally relevant**: Explain that the knowledge creators have from their hobbies and interests is really valuable when they make computing projects. 
 
 **Tip:** Some young people who are technically very capable struggle to think of their own ideas. They could try and recreate one of the examples without looking at the code. 
 
