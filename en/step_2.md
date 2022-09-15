@@ -36,7 +36,7 @@ The 3...2...1...Make! [framework](https://www.raspberrypi.org/blog/free-coding-r
 + Provides reflection time
 + Is designed for all 
 
-Click to expand the below 'Further reading' info card for a more detailed look at the key principles. 
+Click to expand the 'Further reading' info card for a more detailed look at the key principles. 
 
 --- collapse ---
 ---
@@ -45,7 +45,7 @@ title: Further reading
 
 + **Prioritises fun and engagement**
 
-Engagement provides better opportunities for self-motivated learning and gives young people the desire to return to continue to participate in educational activities themed around their interests. We look at what young people make and tailor our projects around our findings.
+Engagement provides better opportunities for self-motivated learning and gives young people the desire to continue to participate in educational activities themed around their interests. We look at what young people make and tailor our projects around our findings.
 
 + **Links to the modern world**
 
