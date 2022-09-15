@@ -13,7 +13,7 @@ Creators have a wide range of experiences and progress at different speeds. To s
 
 ### Introduction step
 
-The Introduction step gives creators several inspirational examples of what they could create. They are encouraged to have fun trying the example projects and exploring their code. 
+The introduction step gives creators several inspirational examples of what they could create. They are encouraged to have fun trying the example projects and exploring their code. 
 
 Prompts are provided to get creators to pay attention to what is **similar** across the projects and what is **different**. Creators use this knowledge as input into their designs. 
 
@@ -87,7 +87,7 @@ The main steps in a Design project have tasks that guide creators through the st
 
 Design projects model the decomposition of a project into manageable steps. At the end of each step, creators have a part or feature of their project working. 
 
-Design projects include **Choose** tasks where creators are offered a choice. These include content decisions such as graphics, colours, and text, and will influence the functionality of their project. For example, the selection of a character could influence the way they move. A leopard would move quickly while a snail would move slowly. 
+Design projects include **Choose:** tasks where creators are offered a choice. These include content decisions such as graphics, colours, and text, and will influence the functionality of their project. For example, the selection of a character could influence the way they move. A leopard would move quickly while a snail would move slowly. 
 
 This example from our [Silly eyes](https://projects.raspberrypi.org/en/projects/silly-eyes){:target="_blank"} Design project includes three different ways a creator could **choose** their sprite:
 
@@ -114,7 +114,7 @@ Not sure which sprite to choose? Go to the **Choose a Sprite** menu and choose t
 
 --- /task ---
 
-Design projects include all the code snippets that creators need. These are provided in **info cards**. The concepts in the provided code will be familiar from the preceding Explore projects. Creators need to modify the code snippets for their project. 
+Design projects include all the code snippets that creators need. These are provided in the info cards. The concepts in the provided code will be familiar from the preceding Explore projects. Creators need to modify the code snippets for their project. 
 
 Where possible we provide an example project with code that can be reused via the Scratch backpack or code that can be used through copy and paste. 
 
@@ -160,7 +160,7 @@ If you find a bug that is not listed here, can you work out how to fix it?
 We love hearing about your bugs and how you fixed them. Use the 'Send feedback' button at the bottom of this page and tell us if you found a different bug in your project.
 
 --- /task ---
-### Reflection atep
+### Reflection step
 
 Like Explore projects, Design projects have three multiple choice questions. These questions generally fall into two categories:
 
@@ -169,11 +169,11 @@ Like Explore projects, Design projects have three multiple choice questions. The
 
 As with Explore projects, the reflection questions are not intended as a formal assessment. Instead they provide an opportunity to revisit and embed important concepts to prepare creators for future projects. 
 
-### Upgrade your project step
+### Upgrade project step
 
 As with Explore projects, this step allows **differentiation by outcome** and allows creators who have additional time or want to continue at home to take their project further.
 
-This step often includes an inspirational example that we would not expect all creators to be able to achieve. 
+This **Upgrade** step often includes an inspirational example that we would not expect all creators to be able to achieve. 
 
 **Tip:** It's important to remind creators of how long it takes a big team to make a piece of software and that they are creating amazing projects in much less time, which makes these creators especially awesome.
 
@@ -226,11 +226,11 @@ To submit your project to our ['Intergalactic shopping market'](https://scratch.
 
 ### What next step
 
-Design projects end with a **what next** step that has links to the path overview and the next project in the path. 
+Design projects end with a **What next** step that has links to the path overview and the next project in the path. 
 
 It's a great idea to introduce your young people to the next project they will be doing so that they can start to think about what they want to make. 
 
-### Further reading:
+### Further reading
 
 --- collapse ---
 
