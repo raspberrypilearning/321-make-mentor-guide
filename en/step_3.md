@@ -7,8 +7,8 @@ A path is a collection of **six** projects that cover a set of skills needed for
 Currently, there are three path levels:
 
 + '**Introduction to...**' these paths are for the creators' first introduction to the hardware or software. 
-+ '**More...**' these paths follow on from the 'Introduction to' paths and build on those skills, while introducing new ones.
-+ '**Further...**' these paths are currently the most advanced. They build on all of the skills covered in 'Introduction to' and 'More' paths, while also introducing new skills. 
++ '**More...**' these paths follow on from the 'Introduction to...' paths and build on those skills, while introducing new ones.
++ '**Further...**' these paths are currently the most advanced. They build on all of the skills covered in 'Introduction to...' and 'More...' paths, while also introducing new skills. 
 
 ### Progression within a path
 
@@ -26,8 +26,8 @@ Each project in a path should take about an hour to complete. In every project, 
 
 Our programmes have age guidelines:
 
-+ Code Club - ages 9 to 13
-+ CoderDojo - ages 7 to 17
++ Code Club &mdash; ages 9 to 13
++ CoderDojo &mdash; ages 7 to 17
 
 ![The logos for Code Club and CoderDojo.](images/code-dojo-logos.png)
 
@@ -37,7 +37,7 @@ There are paths available for all creators in those age categories. Facilitators
 
 + 'More Python' and 'Introduction to Unity' are aimed at our older audience. 
 
-There is a lot of flexibility in path choice. Creators should explore the paths and choose the ones that interest them the most. However, it is important that they start at the 'Introduction' level if they are unfamiliar with the software or hardware being covered. 
+There is a lot of flexibility in path choice. Creators should explore the paths and choose the ones that interest them the most. However, it is important that they start at the 'Introduction to...' level if they are unfamiliar with the software or hardware being covered. 
 
 ### Guides
 
@@ -52,9 +52,9 @@ More guides are in development.
 
 ### Reflection time
 
-Reflection steps have been built into each project within the path. This could be time to complete a quiz or for creators to check that they have met the project brief.
+Reflection steps have been built into each project within the path. These steps could be time to complete a quiz or for creators to check that they have met the project brief.
 
-Reflection time is another opportunity for creators to revisit and remind themselves of the key skills covered in the project. The quizzes should be seen as another opportunity to learn and not an official assessment. 
+Reflection time is another opportunity for creators to revisit and remind themselves of the key skills covered in the project. The quizzes should be seen as another opportunity to learn and not as an official assessment. 
 
 ### Badges
 
