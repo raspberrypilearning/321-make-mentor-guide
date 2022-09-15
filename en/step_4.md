@@ -22,10 +22,10 @@ The checkmarks help creators to see which tasks they have completed and help fac
 --- /task ---
 
 There are several types of task including: 
-+ **Choose:** &mdash; creators are encouraged to add personalisation to their projects. We view choice as important even in step-by-step Explore projects and offer choice throughout these projects.  
-+ **Test:** &mdash; creators run their project to see the outcome. Creators are encouraged to test regularly as they develop their project a bit at a time.
-+ **Save:** &mdash; a reminder to creators to save their projects where applicable. These tasks include guidance on how to save as well as acting as a reminder to save.
-+ **Debug:** &mdash; contains hints, tips, and instructions to help creators solve common problems they find. Creators are also encouraged to celebrate bugs not listed by sharing them via the 'Send feedback' button. 
++ **Choose:** Creators are encouraged to add personalisation to their projects. We view choice as important even in step-by-step Explore projects and offer choice throughout these projects.  
++ **Test:** Creators run their project to see the outcome. Creators are encouraged to test regularly as they develop their project a bit at a time.
++ **Save:** A reminder to creators to save their projects where applicable. These tasks include guidance on how to save as well as acting as a reminder to save.
++ **Debug:** Contains hints, tips, and instructions to help creators solve common problems they find. Creators are also encouraged to celebrate bugs not listed by sharing them via the 'Send feedback' button. 
 
 ### Try it tasks
 
@@ -57,7 +57,7 @@ What happens if you click on one sprite and then quickly click on another sprite
 
 The projects are split into pages (steps), each step begins with a description and an image to show creators what they will have made by the end of the step. 
 
-This is the **step introduction** from the 'Exhaust effects' step in our [Rocket launch](https://projects.raspberrypi.org/en/projects/rocket-launch){:target="_blank"} Explore project: 
+This is the step introduction from the 'Exhaust effects' step in our [Rocket launch](https://projects.raspberrypi.org/en/projects/rocket-launch){:target="_blank"} Explore project: 
 
 --- task ---
 
@@ -82,7 +82,7 @@ You can create cool effects by using a `for` loop to draw lots of shapes in each
 
 ### Project boxouts
 
-**Project boxouts** are used to highlight talking points and extra information such as industry links, role models, and interesting facts. 
+Project boxouts are used to highlight talking points and extra information such as industry links, role models, and interesting facts. 
 
 **Tip:** Boxouts can be used as a group discussion point or read independently by creators.
 
@@ -98,13 +98,13 @@ Here is an example of a boxout from our [Catch the bus](https://projects.raspber
 
 ### Info cards
 
-**Info cards** in the Explore projects are used to give extra information. They could add more detail about a skill, provide an alternative choice, or help debug a common problem. 
+Info cards in the Explore projects are used to give extra information. They could add more detail about a skill, provide an alternative choice, or help debug a common problem. 
 
 In this example from our [Grow a dragonfly](https://projects.raspberrypi.org/en/projects/grow-a-dragonfly){:target="_blank"} Explore project, the info card is a guide explaining how to use the Scratch backpack feature and will only be expanded by those creators that want to know how to use it.
 
 --- task ---
 
-Click on the **info card** to expand it and again to close it:
+Click on the info card to expand it and again to close it:
 
 [[[scratch-backpack]]]
 
@@ -112,13 +112,13 @@ Click on the **info card** to expand it and again to close it:
 
 ### Steps to upgrade a project
 
-Each Explore project contains a step for creators to upgrade the project. This step includes ideas and aspirational projects for creators to develop their project further with the skills they have already. 
+Each Explore project contains a step for creators to upgrade their project. This step includes ideas and aspirational projects for creators to develop their project further with the skills they have already. 
 
 **Tip:** Upgrade steps are open ended so are great for a session where creators are working at different paces. They're also a chance to build localisation and personalise projects. 
 
-**Tip:** At the end of a session you could have 'show and tell' where creators share their projects and talk about their creation process. This would be a good time to look at the upgrade options to celebrate how far their new skills can take them.   
+**Tip:** At the end of a session you could have 'show and tell' where creators share their projects and talk about their creation process. This would be a good time to look at the options to upgrade a project and to celebrate how far their new skills can take them.   
 
-Here is an example of an upgrade step from our [Beating heart](https://projects.raspberrypi.org/en/projects/beating-heart){:target="_blank"} Explore project:
+Here is an example of an **Upgrade** step from our [Beating heart](https://projects.raspberrypi.org/en/projects/beating-heart){:target="_blank"} Explore project:
 
 --- task ---
 
@@ -149,7 +149,7 @@ There is also an embedded version of the next project in that path that creators
 
 **Tip:** You could end your session by looking at this step as a group and building excitement for the next project. 
 
-### Further reading:
+### Further reading
 
 --- collapse ---
 
