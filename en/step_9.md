@@ -16,7 +16,7 @@ If creators are interested in what they make, then they'll be more motivated. Th
 
 ### Develop independence
 
-Don't be too quick to rescue creators when there's a problem &mdash; show them how to problem solve and debug. Encourage the 'rubber duck' technique: explain the problem to a toy or other object and you might just spot the problem.
+Don't be too quick to rescue creators when there's a problem &mdash; show them how to solve problems and debug. Encourage the 'rubber duck' technique: explain the problem to a toy or other object and you might just spot the problem.
 
 ### Embrace bugs
 
