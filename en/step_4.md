@@ -110,7 +110,7 @@ Click on the info card to expand it and again to close it:
 
 --- /task ---
 
-### Upgrade a project
+### Upgrade your project
 
 Each Explore project contains a step for creators to upgrade their project. This step includes ideas and aspirational projects for creators to develop their project further with the skills they have already. 
 
@@ -141,7 +141,7 @@ You could:
 
 The upgrade step also contains an info card with a link to the completed solution. 
 
-## What next? step
+## What next? 
 
 Explore projects end with a **What next?** step that has links to the path overview and the next project in the path. 
 
