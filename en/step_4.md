@@ -141,9 +141,9 @@ You could:
 
 The upgrade step also contains an info card with a link to the completed solution. 
 
-## What next step
+## What next? step
 
-Explore projects end with a **What next** step that has links to the path overview and the next project in the path. 
+Explore projects end with a **What next?** step that has links to the path overview and the next project in the path. 
 
 There is also an embedded version of the next project in that path that creators can interact with.
 
