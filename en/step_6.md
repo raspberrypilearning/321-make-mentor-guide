@@ -11,9 +11,9 @@ Creators have a wide range of experiences and progress at different speeds. To s
 + Acknowledge that all steps don't need to be completed for creators to have something to be proud of.
 + Do not specify a time limit. If your group enjoys making a Design project and needs more time, then you could continue for another session.
 
-### Introduction step
+### Introduction 
 
-The introduction step gives creators several inspirational examples of what they could create. They are encouraged to have fun trying the example projects and exploring their code. 
+The introduction gives creators several inspirational examples of what they could create. They are encouraged to have fun trying the example projects and exploring their code. 
 
 Prompts are provided to get creators to pay attention to what is **similar** across the projects and what is **different**. Creators use this knowledge as input into their designs. 
 
@@ -53,7 +53,7 @@ Look at these examples and think about how they have both been made from shapes.
 
 **Tip:** For our Scratch paths, you can see the remixes other creators have made by visiting the starter project page for each project. This example from our ['Silly eyes' project page](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} contains many inspirational projects that you might want to share with your creators.  
 
-### Choose your theme step
+### Choose your theme 
 
 Design projects usually have a step where creators are encouraged to think about the theme for their project. 
 
@@ -160,7 +160,7 @@ If you find a bug that is not listed here, can you work out how to fix it?
 We love hearing about your bugs and how you fixed them. Use the 'Send feedback' button at the bottom of this page and tell us if you found a different bug in your project.
 
 --- /task ---
-### Reflection step
+### Reflection 
 
 Like Explore projects, Design projects have three multiple choice questions. These questions generally fall into two categories:
 
@@ -169,7 +169,7 @@ Like Explore projects, Design projects have three multiple choice questions. The
 
 As with Explore projects, the reflection questions are not intended as a formal assessment. Instead they provide an opportunity to revisit and embed important concepts to prepare creators for future projects. 
 
-### Upgrade project step
+### Upgrade your project 
 
 As with Explore projects, this step allows **differentiation by outcome** and allows creators who have additional time or want to continue at home to take their project further.
 
@@ -177,7 +177,7 @@ This upgrade step often includes an inspirational example that we would not expe
 
 **Tip:** It's important to remind creators of how long it takes a big team to make a piece of software and that they have created amazing projects in much less time, which makes them especially awesome.
 
-### Share step
+### Share
 
 In this step, creators are guided through how to share their projects. This could include in-person sharing as well as online sharing. 
 
@@ -224,7 +224,7 @@ To submit your project to our ['Intergalactic shopping market' Scratch studio](h
 --- /task ---
 
 
-### What next? step
+### What next?
 
 Design projects end with a **What next?** step that has links to the path overview and the next project in the path. 
 
