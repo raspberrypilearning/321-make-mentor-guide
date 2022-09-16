@@ -16,7 +16,7 @@ Independent making can be carried out over various time periods, depending on yo
 
 **Pair programming**
 
-A pair programming approach can support creators to develop programs and to problem-solve more successfully. Application of this approach is more than simply asking two creators to work together and involves them taking on two different roles: driver and navigator.
+A pair programming approach can support creators to develop programs and to problem-solve more successfully. Application of this approach is more than simply asking two creators to work together. Pair programming involves creators taking on two different roles: driver and navigator.
 
 A [Quick Read](https://blog.teachcomputing.org/quick-read-pair-programming-supports-learners/){:target="_blank"} is available if you would like more information on pair programming. 
 
@@ -24,15 +24,15 @@ A [Quick Read](https://blog.teachcomputing.org/quick-read-pair-programming-suppo
 
 Every creator is an individual who has different interests and skills. Some creators might really enjoy creating artwork for characters and backdrops, others might prefer to spend time on perfecting the accuracy of providing scores for a game. Having a wide range of skills in a group can be a real asset to a project. 
 
-When working on Make! projects, encourage your creators to work in teams with people that have different skill sets to them. They can then assign roles and learn how to work together to produce something really cool. 
+When working on Make! projects, encourage your creators to work in teams with people who have different skill sets to them. They can then assign roles and learn how to work together to produce something really cool. 
 
 ### Coolest Projects guidance
 
 Coolest Projects is the world’s leading technology showcase for young people. It's a unique opportunity to get creative, have fun, and celebrate ingenuity! Young people from all over the world submit their creations to a global showcase, which is then shortlisted and judged by a panel of technology and social action experts from around the globe. 
 
-If you're working with a group of young people who are making things with technology, there are several resources available from the [Coolest Projects guidance page](https://online.coolestprojects.org/guidance){:target="_blank"} to help you support them through the design process:
-+ A printable [Youth Workbook](http://rpf.io/cpworkbook){:target="_blank"} which can be scribbled in, worked on, and referred to during the making process. The workbook has questions and guidance to support creators to make something they care about.
-+ A printable [Mentor Guide](http://rpf.io/cpmentorplan){:target="_blank"} to help you when you lead your sessions.
+If you're working with a group of young people who make things with technology, there are several resources available from the [Coolest Projects guidance page](https://online.coolestprojects.org/guidance){:target="_blank"} to help you support them through the design process:
++ A printable [youth workbook](http://rpf.io/cpworkbook){:target="_blank"} which can be scribbled in, worked on, and referred to during the making process. The workbook has questions and guidance to support creators to make something they care about.
++ A printable [mentor guide](http://rpf.io/cpmentorplan){:target="_blank"} to help you when you lead your sessions.
 + Accompanying [slide decks](https://online.coolestprojects.org/guidance#:~:text=DOWNLOAD%20THE%20WORKBOOK-,SESSION%20PLANS,-These%20slides%20are){:target="_blank"} with prompts and discussion points for you to use when you lead a session. In the slides, the process is broken into four stages of design and prototyping.
 
 ![Coolest Projects guidance in a fan layout.](images/make-fan.png)
@@ -42,7 +42,7 @@ If you're working with a group of young people who are making things with techno
 
 Once your budding makers have created something they're proud of, why not enter it in the Coolest Projects Global showcase? 
 
-All levels of skill and experience are encouraged, even if you’ve never made anything before in your life! If you’re looking for some inspiration, take a look at the [showcase gallery for 2022](http://rpf.io/showcase22){:target="_blank"}, and go to the [Coolest Projects website](https://coolestprojects.org){:target="_blank"} for the latest information.
+All levels of skill and experience are encouraged, even if your young people have never made anything before in their lives! If you want some inspiration, take a look at the [showcase gallery for 2022](http://rpf.io/showcase22){:target="_blank"}, and go to the [Coolest Projects website](https://coolestprojects.org){:target="_blank"} for the latest information.
 
 
 ### Use the technology-specific guides
