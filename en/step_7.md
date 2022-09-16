@@ -4,7 +4,7 @@ In **Invent** projects, creators complete a project to meet a **project brief** 
 
 Creators are provided with reference material, but are free to decide which skills to use. They need to plan their project and decide on the order to carry out tasks.
 
-### Introduction
+### Introduction 
 
 The introduction gives creators **one** initial project to explore with some guided questions for them to think about. They are then introduced to the project brief which provides guidance on what the creators should be working towards. 
 
@@ -29,11 +29,11 @@ Your sensory gadget could:
 
 </div>
 
-Creators are then given **at least three** more examples of Invent project examples that provide a wide range of ideas to support them with their own designs. They are encouraged to explore them and look at the code to see how other creators have approached the same brief in different ways. 
+Creators are then given **at least three** more examples of Invent projects that provide a wide range of ideas to support them with their own designs. They are encouraged to explore them and look at the code to see how other creators have approached the same brief in different ways. 
 
 ### Your idea
 
-Most invent projects have a **Your idea** step where the creators think about the purpose and audience for their projects. They also begin to make the design decisions for their projects. 
+Most Invent projects have a **Your idea** step where the creators think about the purpose and audience for their projects. They also begin to make the design decisions for their projects. 
 
 Here is an example question that is asked in the [I made you a book](https://projects.raspberrypi.org/en/projects/i-made-you-a-book){:target="_blank"} Invent project from the 'Introduction to Scratch' path:
 
@@ -82,7 +82,7 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 ### Reflection
 
-The reflection step for **Invent** projects is a time for your creators to think about the skills that they have used and to check if they have met the project brief. 
+The reflection step for Invent projects is a time for your creators to think about the skills that they have used and to check if they have met the project brief. 
 
 They should go through each one and use the checklist provided to 'check off' what they have done. 
 
@@ -101,9 +101,9 @@ Take a moment to celebrate what you have made.
 --- /task ---
 
 
-### Upgrade 
+### Upgrade your project 
 
-If your creators have time and they want to take their project further, then they are encouraged to do this in the **Upgrade** step. They can revisit the projects on the introduction page to get more inspiration for expanding on what they have achieved. 
+If your creators have time and they want to take their project further, then they are encouraged to do this in the upgrade step. They can revisit the projects on the introduction page to get more inspiration and to expand on what they have achieved. 
 
 ### Share 
 
@@ -126,7 +126,7 @@ title: Research and software engineering
 + As with Design projects, the examples act as **worked examples**. 
 + Creating projects that are personally relevant increases engagement and helps young people to develop their [**computing identity**](https://www.raspberrypi.org/blog/digital-divide-socioeconomic-disadvantage-computing-education/){:target="_blank"}. 
 + A focus on **sharing** projects and getting **feedback** is an important aspect of **constructionism**. 
-+ The **reflection** step in an Invent project encourages creators to reflect on their successes and difficulties. Reflection is known to make an important contribution to learning. 
++ The **Reflection** step in an Invent project encourages creators to reflect on their successes and difficulties. Reflection is known to make an important contribution to learning. 
 + Invent projects provide an opportunity for [**culturally relevant pedagogy**](https://blog.teachcomputing.org/quick-read-culturally-relevant-pedagogy/){:target="_blank"} which values the knowledge and experiences that creators bring to their projects. 
 + Invent projects draw on the ideas of [**project-based learning**](https://blog.teachcomputing.org/project-based-learning/){:target="_blank"}.
 
