@@ -16,11 +16,11 @@ If creators are interested in what they make, then they'll be more motivated. Th
 
 ### Develop independence
 
-Don't be too quick to rescue creators when there's a problem &mdash; show them how to solve problems and debug. Encourage the 'rubber duck' technique: explain the problem to a toy or other object and you might just spot the problem.
+Don't be too quick to rescue creators when there's a problem &mdash; show them how to solve problems and debug. Encourage the 'rubber duck' technique: creators explain the problem to a toy or other object and it can help them to spot the problem.
 
 ### Embrace bugs
 
-Embrace bugs and mistakes as a normal part of the process. Explain that you learn more when something goes wrong and you have to fix it. You might also have a 'happy accident' where you like an unintentional result. 
+Embrace bugs and mistakes as a normal part of the process. Explain to creators that they can learn more when something goes wrong and they have to fix it. Creators might also have a 'happy accident' where they like an unintentional result. 
 
 ### Showcase projects
 
@@ -32,7 +32,7 @@ Celebrate the behaviours you want to reward: debugging a problem, helping a frie
 
 ### Empower the makers of the future
 
-Help creators understand how they can use computing to make a difference to themselves and the world around them. For example, creators could be inspired to make something to address climate change or create a relaxing animation.
+Help creators understand how they can use computing to make a difference to themselves and the world around them. For example, creators could be inspired to make something to address climate change or to create a relaxing animation.
 
 --- /collapse ---
 
