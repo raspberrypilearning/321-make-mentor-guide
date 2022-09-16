@@ -62,4 +62,4 @@ These technology-specific guides provide useful reference materials for a wide r
 
 ### When creators are ready to move on
 
-When your creators are ready to move on, they can go for the next path in the series or they can try a path from a different piece of hardware or software. 
+When your creators are ready to move on, they can go for the next path in the series or they can try a path for a different piece of hardware or software. 
