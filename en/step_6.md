@@ -199,7 +199,7 @@ title: Build a shopping market
 
 Save your project, then click on your username and select **My Stuff**.
 
-![the pop up menu under your account name in the top right.](images/my-stuff-menu.png)
+![The pop-up menu under your account name in the top right.](images/my-stuff-menu.png)
 
 From your **My Stuff** page, click on the **+ New Studio** button.
 
@@ -211,7 +211,7 @@ Give your new studio a name and description.
 
 Click on the **Add projects** button. You can add your own project by selecting it from the list at the bottom of the page.
 
-![The 'Add Projects' pop up at the bottom of the page with a gallery of project thumbnails.](images/add-your-projects.png)
+![The 'Add Projects' pop-up at the bottom of the page with a gallery of project thumbnails.](images/add-your-projects.png)
 
 You can also add projects your friends have created. Ask them to share their project and give you the link. Type or paste the link into the URL box, then click the **Add by URL** button. 
 
