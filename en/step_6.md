@@ -187,7 +187,7 @@ In this example from our [Next customer please](https://projects.raspberrypi.org
 
 --- task ---
 
-If you are logged in on Scratch, you can create a studio and add your **Next customer please** project. You can also add your friends' **Next customer please** projects to create a market of different shops and businesses.
+If you are logged in on Scratch, you can create a studio and add your 'Next customer please' project. You can also add your friends' 'Next customer please' projects to create a market of different shops and businesses.
 
 --- collapse ---
 
@@ -219,7 +219,7 @@ You can also add projects your friends have created. Ask them to share their pro
 
 Inspire the Raspberry Pi Foundation community with your project!
 
-To submit your project to our ['Intergalactic shopping market'](https://scratch.mit.edu/studios/29662180){:target="_blank"} Scratch studio, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+To submit your project to our ['Intergalactic shopping market' Scratch studio](https://scratch.mit.edu/studios/29662180){:target="_blank"}, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
 
 --- /task ---
 
