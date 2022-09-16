@@ -209,7 +209,7 @@ Give your new studio a name and description.
 
 ![The name box at the top of the studio and the description box on the left of the studio.](images/naming-studio.png)
 
-Click on the **Add projects** button. You can add yor own project by selecting it from the list at the bottom of the page.
+Click on the **Add projects** button. You can add your own project by selecting it from the list at the bottom of the page.
 
 ![The 'Add Projects' pop up at the bottom of the page with a gallery of project thumbnails.](images/add-your-projects.png)
 
