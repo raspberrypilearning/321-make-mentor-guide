@@ -16,7 +16,7 @@ Independent making can be carried out over various time periods, depending on yo
 
 **Pair programming**
 
-A pair programming approach can support creators to develop programs and to problem-solve more successfully. Application of this approach is more than simply asking two creators to work together. Pair programming involves creators taking on two different roles: driver and navigator.
+A pair programming approach can support creators to develop programs and to solve problems more successfully. Application of this approach is more than simply asking two creators to work together. Pair programming involves creators taking on two different roles: driver and navigator.
 
 A [Quick Read](https://blog.teachcomputing.org/quick-read-pair-programming-supports-learners/){:target="_blank"} is available if you would like more information on pair programming. 
 
