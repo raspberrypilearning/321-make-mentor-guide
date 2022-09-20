@@ -11,7 +11,7 @@ Each path begins with **3** Explore projects that between them contain the set o
 
 ### Tasks 
 
-Creators work through the project tasks. Each task has a green background and a grey checkbox in the top-right corner. Once a creator has completed the task, they can check the box. This turns the checkmark into a green-filled box and fades the content. 
+Creators work through the project tasks. Each task has a green background and a grey checkbox in the top-right corner. Once a creator has completed the task, they can check the box. This turns the checkbox green and fades the task content. 
 
 --- task ---
  
