@@ -118,7 +118,7 @@ Design projects include all the code snippets that creators need. These are prov
 
 Where possible, we provide an example project with code that can be reused via the Scratch Backpack or code that can be used through copy and paste. 
 
-This example from our ['Surprise!' animation](https://projects.raspberrypi.org/en/projects/suprise-animation){:target="_blank"} Design project includes an info card with an example of how to create a walking animation. 
+This example from our ['Surprise!' animation](https://projects.raspberrypi.org/en/projects/surprise-animation){:target="_blank"} Design project includes an info card with an example of how to create a walking animation. 
 
 --- task ---
 
