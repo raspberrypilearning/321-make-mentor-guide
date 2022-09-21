@@ -4,7 +4,7 @@
 legend: Question 2 of 3
 ---
 
-In which step would creators find ideas and aspirational projects to further develop the projects with their current skills.
+In which step would creators find ideas and aspirational projects to further develop their project with their current skills? 
 
 --- choices ---
 
@@ -12,7 +12,7 @@ In which step would creators find ideas and aspirational projects to further dev
 
  --- feedback ---
 
-Not quite, the **Reflection** step is a chance to celebrate the skills they have gained through the project. This is a reflection step. 
+Not quite. The **Reflection** step is a chance to celebrate the skills creators have gained through the project. This quiz is a **Reflection** step. 
 
  --- /feedback ---
 
@@ -20,7 +20,7 @@ Not quite, the **Reflection** step is a chance to celebrate the skills they have
 
  --- feedback ---
 
-That's right. The **Upgrade your project** step will contain multiple ideas and aspirational embedded project examples for creators to extend their project. 
+That's right. The **Upgrade your project** step contains multiple ideas and aspirational project examples for creators to extend their projects. 
 
  --- /feedback ---
 
@@ -28,7 +28,7 @@ That's right. The **Upgrade your project** step will contain multiple ideas and 
 
  --- feedback ---
 
-Note quite, the **What next** step shows creators what they will be making in the next project. It is a chance to motivate creators and get them thinking about the skills they will gain next.
+Note quite. The **What next** step shows creators what they will make in the next project. It is a chance to motivate creators and get them to think about the skills they will gain next.
 
  --- /feedback ---
 
@@ -36,7 +36,7 @@ Note quite, the **What next** step shows creators what they will be making in th
 
  --- feedback ---
 
-Not quite, explore projects don't usually have a specific **Share** step. Sharing via a club show and tell session is a fabulous way to celebrate creations though. 
+Not quite. Explore projects don't usually have a specific **Share** step. But sharing creators' projects via a club show-and-tell session is a fabulous way to celebrate their creations. 
 
  --- /feedback ---
 

@@ -1,22 +1,23 @@
-title: 321 Make! facilitator guide to using our paths
+title: Mentor guide to our 3...2...1...Make! project paths
 hero_image: images/banner.png
-description: A guide for facilitators using our 321 Make! paths of projects. 
+description: A guide for mentors to use our 3...2...1...Make! project paths.  
 version: 4
 listed: false
 copyedit: false
 last_tested: "2022-05-09"
 steps: 
   - title: Introduction
-  - title: Why 321 Make! ?
+  - title: Why 3...2...1...Make! ?
   - title: What is a path?
-  - title: 3 Explore projects
-  - title: Reflection
+  - title: Three Explore projects
+  - title: Quick quiz
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 3
       passing_score: 3
-  - title: 2 Design projects
-  - title: 1 Invent project
+  - title: Two Design projects
+  - title: One Invent project
   - title: Make! projects
-  - title: What next?
+  - title: Make it matter 
+  - title: What next for mentors?
