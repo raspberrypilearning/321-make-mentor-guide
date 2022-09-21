@@ -62,13 +62,21 @@ Quick quiz time is another opportunity for creators to revisit and remind themse
 
 At the end of each project, the creators are awarded with a project badge. If your creators have an account, then they can collect and view their badges there. 
 
-### Research links
+--- collapse ---
+---
+title: Research links
+---
 
 + As creators **progress** through a path, the activities allow for growth while reducing frustrations. 
 + Starting with **step-by-step** activities builds motivation. Moving on to **guided activities** where creators make **design choices** allows for increased independence.
 + Beginning with **direct instruction** and then moving on to **independent** projects can increase creators' engagement and motivation.
 + Invent projects allow creators to work on projects that **matter to them**. This means that they are more engaged with the activity, which makes them willing to expand their projects and learn more. 
 + Projects across a path are carefully considered to ensure that they appeal to a wide, global audience. 
+
+--- /collapse ---
+
+
+
 
 
 
