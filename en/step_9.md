@@ -1,11 +1,10 @@
 ## Make it matter
 
-### Culturally responsive computing
+Culturally responsive computing is embedded into the 321 Make! projects. 
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Culturally relevant pedagogy**</span> emphasises the importance of including and valuing creators’ knowledge, ways of learning and culture.</p>
+<span style="color: #0faeb0">**Culturally responsive computing**</span> values the knowledge, ways of learning and cultural capital of creators.</p>
 
-Culturally responsive pedagogy is embedded into the 321 Make! projects. 
 
 **321 Make!**
 
