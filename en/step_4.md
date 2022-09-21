@@ -7,7 +7,7 @@
 
 Each path begins with **3** Explore projects that between them contain the set of skills and concepts needed for the entire path.
 
-**Tip:** We recommend that facilitators complete the Explore projects themselves before they run a session with creators. This familiarity with the projects helps you to anticipate issues and you can make note of discussion points.  
+**Tip:** We recommend that mentors complete the Explore projects themselves before they run a session with creators. This familiarity with the projects helps you to anticipate issues and you can make note of discussion points.  
 
 ### Tasks 
 
@@ -17,7 +17,7 @@ Creators work through the project tasks. Each task has a green background and a 
  
 Click on the checkbox for this task to see what happens. 
 
-The checkboxes help creators to see which tasks they have completed and help facilitators when they support creators to debug their projects. 
+The checkboxes help creators to see which tasks they have completed and help mentors when they support creators to debug their projects. 
 
 --- /task ---
 
@@ -27,19 +27,19 @@ There are several types of task including:
 + **Save:** A reminder to creators to save their projects where applicable. These tasks include guidance on how to save as well as acting as a reminder to save.
 + **Debug:** Contains hints, tips, and instructions to help creators solve common problems they find. Creators are also encouraged to celebrate bugs not listed by sharing them via the 'Send feedback' button. 
 
-### Try it tasks
+### Play ▶️ tasks
 
-In Explore projects, the introduction step has a **Try it** task to be used at the beginning of your session. Investigation questions encourage creators to interact with the project. 
+In Explore projects, the 'You will make' step has a **Play** task to be used at the beginning of your session. Investigation questions encourage creators to interact with the project. 
 
 This sets the scene for creators as it encourages them to play with the finished example of the project they create. 
 
 **Tip:** This type of task can be completed independently by the creators or together as an introduction to your session. 
 
-Here is an example of a **Try it** task:
+Here is an example of a **Play** task:
 
 --- no-print ---
 --- task ---
-### Try it
+### Play ▶️
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
 Click on each sprite to see what they do. 

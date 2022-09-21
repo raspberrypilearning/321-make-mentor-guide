@@ -4,9 +4,9 @@ In **Invent** projects, creators complete a project to meet a **project brief** 
 
 Creators are provided with reference material, but are free to decide which skills to use. They need to plan their project and decide on the order to carry out tasks.
 
-### Introduction 
+### You will make 
 
-The introduction gives creators **one** initial project to explore with some guided questions for them to think about. They are then introduced to the project brief which provides guidance on what the creators should be working towards. 
+The 'You will make'' gives creators **one** initial project to explore with some guided questions for them to think about. They are then introduced to the project brief which provides guidance on what the creators should be working towards. 
 
 Here is the project brief that is given to creators in our [Sensory gadget](https://projects.raspberrypi.org/en/projects/sensory-gadget){:target="_blank"} Invent project from the 'Introduction to the Raspberry Pi Pico' path:
 
@@ -80,9 +80,9 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 --- /task ---
 
-### Reflection
+### Checklist
 
-The reflection step for Invent projects is a time for your creators to think about the skills that they have used and to check if they have met the project brief. 
+The checklist step for Invent projects is a time for your creators to think about the skills that they have used and to check if they have met the project brief. 
 
 They should go through each one and use the checklist provided to 'check off' what they have done. 
 

@@ -89,11 +89,11 @@ It's very important that young people see themselves represented in computing as
 
 + **Provides reflection time**
 
-Reflection is built into each project and is another opportunity to cover the key skills and knowledge that young people have discovered in their projects. It helps to embed the skills for when they need them later on.
+Quick quizzes and checklists are built into the projects and provide another opportunity to cover the key skills and knowledge that young people have discovered in their projects. It helps to embed the skills for when they need them later on.
 
 + **Is designed for all**
 
-Projects are written for an audience that is global and has a wide variety of contexts and needs.  
+Projects are written for an audience that is global and has a wide variety of contexts and needs. Projects can also be adapted to match the needs of your setting and make them more relevant.  
 
 --- /collapse ---
 

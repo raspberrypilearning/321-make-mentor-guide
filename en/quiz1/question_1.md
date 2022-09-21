@@ -1,8 +1,8 @@
-## Reflection
+## Quick quiz
 
-This is an example of a reflection quiz that you would find in an Explore project. It is a chance to celebrate new skills and creations. 
+This is an example of a quick quiz that you would find in an Explore project. It is a chance to celebrate new skills and creations. 
 
-Reflection comes at the end of the main project-making steps but before creators are encouraged to upgrade their projects. Reflection is an important part of learning, because it helps make new connections in your brain.
+The quick quiz comes at the end of the main project-making steps but before creators are encouraged to upgrade their projects. Quizzes are an important part of learning, because it helps make new connections in your brain.
 
 Creators answer three questions to reflect on what they've learned.
 

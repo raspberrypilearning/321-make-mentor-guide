@@ -1,4 +1,4 @@
-## What next for facilitators?
+## What next for mentors?
 
 + Try out a path that will be useful to the creators you support 
 + Submit your own projects to our studios and encourage your creators to do so too
@@ -7,7 +7,7 @@
 
 --- collapse ---
 ---
-title: Guidance for facilitators who support young people 
+title: Guidance for mentors who support young people 
 ---
 
 ### Make connections

@@ -31,7 +31,7 @@ Our programmes have age guidelines:
 
 ![The logos for Code Club and CoderDojo.](images/code-dojo-logos.png)
 
-There are paths available for all creators in those age categories. Facilitators and parents should guide creators to the paths that are most suited to them. 
+There are paths available for all creators in those age categories. Mentors and parents should guide creators to the paths that are most suited to them. 
 
 + 'Introduction to Scratch' has projects that are aimed at our younger audience
 
@@ -50,11 +50,11 @@ Guides are available for some of the areas covered in our new paths. These are r
 
 More guides are in development.
 
-### Reflection time
+### Quick quiz time
 
-Reflection steps have been built into each project within the path. These steps could be time to complete a quiz or for creators to check that they have met the project brief.
+Quick quiz steps have been built into each project within the path. These steps could be time to complete a quiz or for creators to check that they have met the project brief.
 
-Reflection time is another opportunity for creators to revisit and remind themselves of the key skills covered in the project. The quizzes should be seen as another opportunity to learn and not as an official assessment. 
+Quick quiz time is another opportunity for creators to revisit and remind themselves of the key skills covered in the project. The quizzes should be seen as another opportunity to learn and not as an official assessment. 
 
 ### Badges
 

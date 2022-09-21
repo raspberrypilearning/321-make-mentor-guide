@@ -11,9 +11,9 @@ Creators have a wide range of experiences and progress at different speeds. To s
 + Acknowledge that all steps don't need to be completed for creators to have something to be proud of.
 + Do not specify a time limit. If your group enjoys making a Design project and needs more time, then you could continue for another session.
 
-### Introduction 
+### You will make 
 
-The introduction gives creators several inspirational examples of what they could create. They are encouraged to have fun trying the example projects and exploring their code. 
+The 'You will make' step gives creators several inspirational examples of what they could create. They are encouraged to have fun trying the example projects and exploring their code. 
 
 Prompts are provided to get creators to pay attention to what is **similar** across the projects and what is **different**. Creators use this knowledge as input into their designs. 
 
@@ -21,7 +21,7 @@ This example from our [Make a face](https://projects.raspberrypi.org/en/projects
 
 --- task ---
 
-### Get inspiration 
+### Get ideas 
 
 You are going to make some design decisions about the kind of face you will make.
 
@@ -160,7 +160,7 @@ If you find a bug that is not listed here, can you work out how to fix it?
 We love hearing about your bugs and how you fixed them. Use the 'Send feedback' button at the bottom of this page and tell us if you found a different bug in your project.
 
 --- /task ---
-### Reflection 
+### Quick quiz 
 
 Like Explore projects, Design projects have three multiple choice questions. These questions generally fall into two categories:
 

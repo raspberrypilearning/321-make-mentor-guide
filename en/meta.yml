@@ -1,6 +1,6 @@
-title: Facilitator guide to our 3...2...1...Make! project paths
+title: Mentor guide to our 3...2...1...Make! project paths
 hero_image: images/banner.png
-description: A guide for facilitators to use our 3...2...1...Make! project paths.  
+description: A guide for mentors to use our 3...2...1...Make! project paths.  
 version: 4
 listed: false
 copyedit: false
@@ -10,7 +10,7 @@ steps:
   - title: Why 3...2...1...Make! ?
   - title: What is a path?
   - title: Three Explore projects
-  - title: Reflection
+  - title: Quick quiz
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -19,4 +19,4 @@ steps:
   - title: Two Design projects
   - title: One Invent project
   - title: Make! projects
-  - title: What next for facilitators?
+  - title: What next for mentors?
