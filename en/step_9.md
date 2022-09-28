@@ -50,7 +50,9 @@ These examples from the 'I made you a book' project show a range of books from c
 
 + **Multiple native languages** 
 
-Our projects are available in <mark>Sabina to provide text.</mark>
+Many of our projects are translated into a variety of languages, including Dutch, Welsh, Hindi, Japanese, Latin American Spanish and Greek. In total, we have projects in 30 languages. Use the language filter at the top of the [projects page](https://projects.raspberrypi.org/en/projects) to see which projects are available in a specific language.
+
+If a project is not available in the language you prefer, could you consider joining our [community of volunteer translators](https://projects.raspberrypi.org/en/projects/getting-started-with-translation) please.
 
 --- task ---
 
