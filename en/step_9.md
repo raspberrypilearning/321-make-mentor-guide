@@ -113,6 +113,6 @@ The upgrade step of [Flip treat webcards](https://projects.raspberrypi.org/en/pr
 title: Research links
 ---
 
-+ The Raspberry Pi Foundation has produced a [guide](https://www.raspberrypi.org/blog/culturally-relevant-computing-curriculum-guidelines-for-teachers/){:target="_blank"} on culturally relevant computing which contains more information and examples on how to make computing culturally relevant. 
++ The Raspberry Pi Foundation has produced a [guide on culturally relevant computing](https://www.raspberrypi.org/blog/culturally-relevant-computing-curriculum-guidelines-for-teachers/){:target="_blank"} which contains more information and examples on how to make computing culturally relevant. 
 
 --- /collapse ---
