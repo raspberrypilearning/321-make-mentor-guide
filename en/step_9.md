@@ -30,7 +30,7 @@ As creators progress through 3...2...1...Make! there are increasing opportunitie
 
 --- task ---
 
-**Tip:** Talk to creators about their hobbies, their culture, and the issues that matter to them as well as topics of local and topical interest. Explain that their knowledge is really valuable when creating technology projects &mdash; a project always needs to be about something. Be aware that creators from minority groups may not feel comfortable being seen as a representative of their community &mdash; it can be better to have individual conversations than group discussions. 
+**Tip:** Talk to creators about their hobbies, their culture, and the issues that matter to them as well as subjects of local and topical interest. Explain that young people's knowledge is really valuable when they create technology projects &mdash; a project always needs to be about something. Be aware that creators from minority groups may not feel comfortable being seen as a representative of their community &mdash; it can be better to have individual conversations than group discussions. 
 
 --- /task ---
 
