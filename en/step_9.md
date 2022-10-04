@@ -6,9 +6,9 @@ Culturally responsive computing is embedded into the 3...2...1...Make! projects.
 <span style="color: #0faeb0">**Culturally responsive computing**</span> values the knowledge, ways of learning, and cultural capital of creators.</p>
 
 
-**3...2...1...Make!**
+**3...2...1...Make! projects:**
 
-+ **Is designed for all**
++ **Are designed for all**
 
 Projects are written for an audience that is global and has a wide variety of contexts and needs. Projects can also be adapted to match the needs of your setting and to make them more relevant.   
 
@@ -18,7 +18,7 @@ Projects are written for an audience that is global and has a wide variety of co
 
 --- /task ---
 
-+ **Values creators' interests** 
++ **Value creators' interests** 
 
 As creators progress through 3...2...1...Make! there are increasing opportunities to bring in their own interests and make projects that matter to them. This example from the 'Powerful patterns' project uses the lapis Sarawak Malaysian cake:
 
@@ -34,7 +34,7 @@ As creators progress through 3...2...1...Make! there are increasing opportunitie
 
 --- /task ---
 
-+ **Values creativity** 
++ **Value creativity** 
 
 Design and Invent projects develop creative problem-solving skills that allow creators to make projects that are entertaining, usable, and visually appealing. Each creator brings their own thinking and unique style which enables them to make projects that only they could have created.
 
@@ -48,7 +48,7 @@ These examples from the 'I made you a book' project show a range of books from c
 
 --- /task ---
 
-+ **Is available in multiple native languages** 
++ **Are available in multiple native languages** 
 
 Many of our projects are translated into a variety of languages, including Dutch, Welsh, Hindi, Japanese, Latin American Spanish, and Greek. In total, we have projects in 30 languages. Use the language filter at the top of the [projects page](https://projects.raspberrypi.org/en/projects){:target="_blank"} to see which projects are available in a specific language.
 
@@ -60,7 +60,7 @@ If a project is not available in the language you prefer, could you consider joi
 
 --- /task ---
 
-+ **Empowers creators** 
++ **Empower creators** 
 
 Our projects include boxouts and project topics related to ethics, social justice, wellness, and environmental issues. Here are examples from our 'Party popper' and 'Hello world' projects:
 
@@ -78,7 +78,7 @@ The <span style="color: #0faeb0">**yellow heart emoji**</span> is often used to 
 --- /task ---
 
 
-+ **Introduces real role models**
++ **Introduce real role models**
 
 Projects include boxouts with quotes and facts about role models relevant to that topic. Here are examples from our 'Hello world' and '3D adventure' projects:
 
@@ -95,7 +95,7 @@ Japanese computer scientist <span style="color: #0faeb0">**Emma Haruka Iwao**</s
 --- /task ---
 
 
-+ **Provides additional assets**
++ **Provide additional assets**
 
 The upgrade step of [Flip treat webcards](https://projects.raspberrypi.org/en/projects/flip-treat-webcards/6){:target="_blank"} includes assets created in response to suggestions from our global club community.
 
