@@ -14,7 +14,7 @@ Projects are written for an audience that is global and has a wide variety of co
 
 --- task ---
 
-**Tip:** When you work through the Design and Invent projects before your club session, why not use your knowledge of your learners to create an example that is meaningful to them? You can showcase this as one of the examples for generating ideas at the start of the session. 
+**Tip:** When you work through the Design and Invent projects before your club session, why not use your knowledge of your learners to create an example that is meaningful to them? You can showcase this example at the start of the session to help learners generate ideas. 
 
 --- /task ---
 
