@@ -103,7 +103,7 @@ The upgrade step of [Flip treat webcards](https://projects.raspberrypi.org/en/pr
 
 --- task ---
 
-**Tip:** If a creator enjoys using a particular asset, you could encourage them to save it for quick use in future projects. Local storage or tools like the [Scratch backpack](https://projects.raspberrypi.org/en/projects/scratch-backpack){:target="_blank"} can be used to provide quick access for favourite assets.
+**Tip:** If a creator enjoys using a particular asset, you could encourage them to save it for quick use in future projects. Local storage or tools like the [Scratch Backpack](https://projects.raspberrypi.org/en/projects/scratch-backpack){:target="_blank"} can be used to provide quick access for creators' favourite assets.
 
 --- /task ---
 
