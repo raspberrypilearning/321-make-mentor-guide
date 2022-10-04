@@ -56,7 +56,7 @@ If a project is not available in the language you prefer, could you consider joi
 
 --- task ---
 
-**Tip:** Offer creators the opportunity to use the projects in their choice of language. Show creators how to change the language on the projects site. This is a good way to engage parents or encourage creators to continue at home.
+**Tip:** Offer creators the opportunity to use the projects in their choice of language. Show creators how to change the language on the projects site. This is a good way to engage parents or encourage creators to continue to use the projects outside of the sessions.
 
 --- /task ---
 
