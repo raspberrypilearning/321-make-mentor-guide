@@ -14,7 +14,7 @@ Projects are written for an audience that is global and has a wide variety of co
 
 --- task ---
 
-**Tip:** When you work through the Design and Invent projects before your club session, why not use your knowledge of your learners to create an example that is meaningful to them? You can showcase this example at the start of the session to help learners generate ideas. 
+**Tip:** When you work through the Design and Invent projects before your club session, why not use your knowledge of your creators to make an example that is meaningful to them? You can showcase this example at the start of the session to help creators generate ideas. 
 
 --- /task ---
 
@@ -90,7 +90,7 @@ Japanese computer scientist <span style="color: #0faeb0">**Emma Haruka Iwao**</s
 
 --- task ---
 
-**Tip:** Boxouts can be used as discussion points within sessions. They have been designed to showcase a diverse range of role models but are also a good opportunity to discuss examples and achievements of real role models that are local or share culture with your creators. 
+**Tip:** Boxouts can be used as discussion points within sessions. They have been designed to showcase a diverse range of role models but are also a good opportunity to discuss examples and achievements of real role models that are local or share the culture of your creators. 
 
 --- /task ---
 
@@ -113,6 +113,6 @@ The upgrade step of [Flip treat webcards](https://projects.raspberrypi.org/en/pr
 title: Research links
 ---
 
-+ The Raspberry Pi Foundation has produced a [guide on culturally relevant computing](https://www.raspberrypi.org/blog/culturally-relevant-computing-curriculum-guidelines-for-teachers/){:target="_blank"} which contains more information and examples on how to make computing culturally relevant. 
++ The Raspberry Pi Foundation has produced a [guide on culturally relevant computing](https://www.raspberrypi.org/blog/culturally-relevant-computing-curriculum-guidelines-for-teachers/){:target="_blank"} which contains more information and examples on how to make computing culturally relevant for creators. 
 
 --- /collapse ---
