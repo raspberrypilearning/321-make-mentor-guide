@@ -40,11 +40,11 @@ Design and Invent projects develop creative problem-solving skills that allow cr
 
 These examples from the 'I made you a book' project show a range of books from creators:
 
-![A collection of thumbnails showing different projects made by creators for I made you a book.](images/book.png)
+![A collection of thumbnails showing different projects made by creators for the 'I made you a book' project.](images/book.png)
 
 --- task ---
 
-**Tip:** Discuss how computing projects can be inspired by heritage including traditional stories, music, and art as well as modern culture, fashion, and computer games. Celebrate personal and unique thinking and style that creators put in to their projects. 
+**Tip:** Discuss how computing projects can be inspired by heritage &mdash; including traditional stories, music, and art &mdash; as well as modern culture, fashion, and computer games. Celebrate the personal and unique thinking and style that creators put in to their projects. 
 
 --- /task ---
 
