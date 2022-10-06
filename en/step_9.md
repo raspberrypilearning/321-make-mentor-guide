@@ -1,26 +1,26 @@
 ## Make it matter
 
-Culturally responsive computing is embedded into the 321 Make! projects. 
+Culturally responsive computing is embedded into the 3...2...1...Make! projects. 
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Culturally responsive computing**</span> values the knowledge, ways of learning and cultural capital of creators.</p>
+<span style="color: #0faeb0">**Culturally responsive computing**</span> values the knowledge, ways of learning, and cultural capital of creators.</p>
 
 
-**321 Make!**
+**3...2...1...Make! projects:**
 
-+ **Is designed for all**
++ **Are designed for all**
 
-Projects are written for an audience that is global and has a wide variety of contexts and needs. Projects can also be adapted to match the needs of your setting and make them more relevant.   
+Projects are written for an audience that is global and has a wide variety of contexts and needs. Projects can also be adapted to match the needs of your setting and to make them more relevant.   
 
 --- task ---
 
-**Tip:** When you work through the design and invent projects before your club session why not use your knowledge of your creators to create an example that means more to them. You can showcase this as one of the examples for generating ideas at the start of the session. 
+**Tip:** When you work through the Design and Invent projects before your club session, why not use your knowledge of your creators to make an example that is meaningful to them? You can showcase this example at the start of the session to help creators generate ideas. 
 
 --- /task ---
 
-+ **Values creators' interests** 
++ **Value creators' interests** 
 
-As creators progress through 321 Make! there are increasing opportunities to bring in their own interests and make projects that matter to them. This example from the 'Powerful patterns' project uses the Lapis Sarawak Malaysian cake:
+As creators progress through 3...2...1...Make! there are increasing opportunities to bring in their own interests and make projects that matter to them. This example from the 'Powerful patterns' project uses the lapis Sarawak Malaysian cake:
 
 **Kek lapis Sarawak**: [See inside](https://trinket.io/python/81be7eb895){:target="_blank"}
 <div class="trinket">
@@ -30,39 +30,39 @@ As creators progress through 321 Make! there are increasing opportunities to bri
 
 --- task ---
 
-**Tip:** Talk to creators about their hobbies, culture and issues that matter to them as well as topics of local and topical interest. Explain that their knowledge is really valuable when creating technology projects - a project always needs to be about something. Be aware that creators from minority groups may not feel comfortable being seen as a representative of their community, it can be better to have individual conversations than group discussions. 
+**Tip:** Talk to creators about their hobbies, their culture, and the issues that matter to them, as well as subjects of local and topical interest. Explain that creators' knowledge is really valuable when they make technology projects &mdash; a project always needs to be about something. Be aware that creators from minority groups may not feel comfortable being seen as a representative of their community &mdash; it can be better to have individual conversations than group discussions. 
 
 --- /task ---
 
-+ **Values creativity** 
++ **Value creativity** 
 
-Design and invent projects develop creative problem solving skills that allow creators to make projects that are entertaining, usable and visually appealling. Each creator brings their own thinking and unique style which enables them to make projects that only they could have created.
+Design and Invent projects develop creative problem-solving skills that allow creators to make projects that are entertaining, usable, and visually appealing. Each creator brings their own thinking and unique style which enables them to make projects that only they could have created.
 
 These examples from the 'I made you a book' project show a range of books from creators:
 
-![A collection of thumbnails showing different projects made by creators for I made you a book.](images/book.png)
+![A collection of thumbnails showing different projects made by creators for the 'I made you a book' project.](images/book.png)
 
 --- task ---
 
-**Tip:** Discuss how computing projects can be inspired by heritage including traditional stories, music and art as well as modern culture, fashion and computer games. Celebrate personal and unique thinking and style that creators put in to their projects. 
+**Tip:** Discuss how computing projects can be inspired by heritage &mdash; including traditional stories, music, and art &mdash; as well as modern culture, fashion, and computer games. Celebrate the personal and unique thinking and style that creators put into their projects. 
 
 --- /task ---
 
-+ **Multiple native languages** 
++ **Are available in multiple native languages** 
 
-Many of our projects are translated into a variety of languages, including Dutch, Welsh, Hindi, Japanese, Latin American Spanish and Greek. In total, we have projects in 30 languages. Use the language filter at the top of the [projects page](https://projects.raspberrypi.org/en/projects){:target="_blank"} to see which projects are available in a specific language.
+Many of our projects are translated into a variety of languages, including Dutch, Welsh, Hindi, Japanese, Latin American Spanish, and Greek. In total, we have projects in 30 languages. Use the language filter at the top of the [projects page](https://projects.raspberrypi.org/en/projects){:target="_blank"} to see which projects are available in a specific language.
 
-If a project is not available in the language you prefer, could you consider joining our [community of volunteer translators](https://projects.raspberrypi.org/en/projects/getting-started-with-translation){:target="_blank"} please.
+If a project is not available in the language you prefer, could you consider joining our [community of volunteer translators](https://projects.raspberrypi.org/en/projects/getting-started-with-translation){:target="_blank"}.
 
 --- task ---
 
-**Tip:** Offer creators the opportunity to use the projects in their choice of language. Show creators how to switch language on the project site. This is a good way to engage parents or encourage creators to continue at home.
+**Tip:** Offer creators the opportunity to use the projects in their choice of language. Show creators how to change the language on the projects site. This is a good way to engage parents or encourage creators to continue to use the projects outside of the sessions.
 
 --- /task ---
 
-+ **Empowers creators** 
++ **Empower creators** 
 
-Our projects include boxouts and project topics related to ethics, social justice, wellness and environmental issues. Here are examples from our 'Party popper' and 'Hello world' projects:
+Our projects include boxouts and project topics related to ethics, social justice, wellness, and environmental issues. Here are examples from our 'Party popper' and 'Hello world' projects:
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">**Light and sound shows**</span> using technology are being used in celebrations worldwide. These **sustainable** and **reusable** options create fun displays and interactive entertainments. Now, instead of disposable items like plastic party poppers or chemical fireworks, people are celebrating with drones, lasers, and projection shows!</p>
@@ -78,7 +78,7 @@ The <span style="color: #0faeb0">**yellow heart emoji**</span> is often used to 
 --- /task ---
 
 
-+ **Introduces real role models**
++ **Introduce real role models**
 
 Projects include boxouts with quotes and facts about role models relevant to that topic. Here are examples from our 'Hello world' and '3D adventure' projects:
 
@@ -90,12 +90,12 @@ Japanese computer scientist <span style="color: #0faeb0">**Emma Haruka Iwao**</s
 
 --- task ---
 
-**Tip:** Boxouts can be used as discussion points within sessions. They have been designed to showcase a diverse range of role models but are also a good opportunity to discuss examples and achievements of real role models that are local or share culture with your creators. 
+**Tip:** Boxouts can be used as discussion points within sessions. They have been designed to showcase a diverse range of role models but are also a good opportunity to discuss examples and achievements of real role models that are local or share the culture of your creators. 
 
 --- /task ---
 
 
-+ **Provides additional assets**
++ **Provide additional assets**
 
 The upgrade step of [Flip treat webcards](https://projects.raspberrypi.org/en/projects/flip-treat-webcards/6){:target="_blank"} includes assets created in response to suggestions from our global club community.
 
@@ -103,7 +103,7 @@ The upgrade step of [Flip treat webcards](https://projects.raspberrypi.org/en/pr
 
 --- task ---
 
-**Tip:** If a creator enjoys using a particular asset you could encourage them to save it for quick use in future projects. Local storage or tools like the [Scratch backpack](https://projects.raspberrypi.org/en/projects/scratch-backpack){:target="_blank"} can be used to provide quick access for favourite assets.
+**Tip:** If a creator enjoys using a particular asset, you could encourage them to save it for quick use in future projects. Local storage or tools like the [Scratch Backpack](https://projects.raspberrypi.org/en/projects/scratch-backpack){:target="_blank"} can be used to provide quick access for creators' favourite assets.
 
 --- /task ---
 
@@ -113,6 +113,6 @@ The upgrade step of [Flip treat webcards](https://projects.raspberrypi.org/en/pr
 title: Research links
 ---
 
-+ The Raspberry Pi Foundation has produced a [guide](https://www.raspberrypi.org/blog/culturally-relevant-computing-curriculum-guidelines-for-teachers/){:target="_blank"} on culturally relevant computing which contains more information and examples on making computing culturally relevant. 
++ The Raspberry Pi Foundation has produced a [guide on culturally relevant computing](https://www.raspberrypi.org/blog/culturally-relevant-computing-curriculum-guidelines-for-teachers/){:target="_blank"} which contains more information and examples on how to make computing culturally relevant for creators. 
 
 --- /collapse ---

@@ -14,7 +14,7 @@ When creators work through the projects in a 3...2...1...Make! path, we want the
 
 + I can make things that matter to me
 + I can find things out that I need to know
-+ I believe that computing and digital making is important to be
++ I believe that computing and digital making is important to me
 + I belong to a maker community
 + I am a maker
 

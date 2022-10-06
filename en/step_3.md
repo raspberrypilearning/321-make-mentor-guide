@@ -33,9 +33,9 @@ Our programmes have age guidelines:
 
 There are paths available for all creators in those age categories. Mentors and parents should guide creators to the paths that are most suited to them. 
 
-+ 'Introduction to Scratch' has projects that are aimed at our younger audience
++ [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} has projects that are aimed at our younger audience
 
-+ 'More Python' and 'Introduction to Unity' are aimed at our older audience 
++ [More Python](https://projects.raspberrypi.org/en/pathways/more-python){:target="_blank"} and [Introduction to Unity](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} are aimed at our older audience 
 
 There is a lot of flexibility in path choice. Creators should explore the paths and choose the ones that interest them the most. However, it is important that they start at the 'Introduction to...' level if they are unfamiliar with the software or hardware being covered. 
 
