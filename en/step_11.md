@@ -12,7 +12,7 @@ We have three paths of 🐱 Scratch projects plus a 🐱 Scratch physical comput
 
 **Start point** 
 
-+ Start with 🐱 [Intro to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"}. No prior experience of Scratch is needed.
++ Start with 🥉🥈🥇🐱 [Intro to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"}. No prior experience of Scratch is needed.
 
 Don't forget to [Share](https://projects.raspberrypi.org/en/projects/share-scratch){:target="_blank"} the projects that creators make. 
 
@@ -29,7 +29,7 @@ Projects and paths
 + 🐱 [Interactive animation](https://projects.raspberrypi.org/en/projects/interactive-animation){:target="_blank"}
 + 🐱 [Shaun the Sheep: Mission to Space](https://projects.raspberrypi.org/en/projects/shauns-space-mission){:target="_blank"}
 
-**Independent making:**
+** 🏅Independent making:**
 
 Use the 🐱 [I made you a book](https://projects.raspberrypi.org/en/projects/i-made-you-a-book){:target="_blank"} Invent project as a reference guide for reminders of the blocks and concepts that have been learned. 
 
