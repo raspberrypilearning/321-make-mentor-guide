@@ -1,6 +1,6 @@
 ## Which paths are available?
 
-This is a rough guide to the 🥉🥈🥇321 Make! paths and the order in which they can be completed along with suggestions for additional content for practice and breadth. This should be adapted to your creators based on their prior experience of computing which will vary significantly around the world. 
+This is a rough guide to the 🥉🥈🥇321 🏅Make! paths and the order in which they can be completed along with suggestions for additional content for practice and breadth. This should be adapted to your creators based on their prior experience of computing which will vary significantly around the world. 
 
 ### Code Club World
 
@@ -73,9 +73,6 @@ Either:
 
 **Additional practice:**
 
-
-
-
 Code Club Python 1 & 2 (new Python paths for this age group coming soon!)
 
 Independent making with the Pico -> Coolest Projects
@@ -96,7 +93,7 @@ Independent making with the Pico -> Coolest Projects
 + 🎶 [Code a carol](https://projects.raspberrypi.org/en/projects/code-a-carol){:target="_blank"}
 + ⛄ [Blender path](https://projects.raspberrypi.org/en/pathways/blender-basics){:target="_blank"}
 + 🐍 [Sense HAT path](https://projects.raspberrypi.org/en/codeclub/sense-hat){:target="_blank"} You can complete these projects with a Raspberry Pi Sense HAT or by using the Sense HAT emulator
-+ [Astro Pi Mission Zero](https://astro-pi.org/mission-zero/){:target="_blank"} - The competition runs each year, check the dates and entry requirements. No hardware required. Run your code in space!
++ 🚀 [Astro Pi Mission Zero](https://astro-pi.org/mission-zero/){:target="_blank"} - The competition runs each year, check the dates and entry requirements. No hardware required. Run your code in space!
 
 **🏅Independent Making:**
 
@@ -108,5 +105,5 @@ Create a project that can be entered into the ✨ Coolest Project Showcase: [Pyt
 + 🥉🥈🥇🐍 [Intro to Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}
 + 🥉🥈🥇🐍 [More Python](https://projects.raspberrypi.org/en/pathways/more-python){:target="_blank"}
 + 🥉🥈🥇[Intro to Unity](https://projects.raspberrypi.org/en/pathways/unit-intro){:target="_blank"}
-+ [Machine Vision](https://projects.raspberrypi.org/en/pathways/machine-vision){:target="_blank"}
++ 👁️ [Machine Vision](https://projects.raspberrypi.org/en/pathways/machine-vision){:target="_blank"}
 
