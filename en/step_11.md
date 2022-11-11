@@ -1,6 +1,6 @@
 ## Which paths are available?
 
-This is a rough guide to the 321 Make! paths and the order in which they can be completed. This should be adapted to your creators based on their prior experience of computing which will vary significantly around the world. 
+This is a rough guide to the 🥉🥈🥇321 Make! paths and the order in which they can be completed along with suggestions for additional content for practice and breadth. This should be adapted to your creators based on their prior experience of computing which will vary significantly around the world. 
 
 ### Code Club World
 
@@ -20,7 +20,7 @@ Don't forget to [Share](https://projects.raspberrypi.org/en/projects/share-scrat
 
 These existing projects and paths use similar skills to those introduced in Intro to Scratch and provide an opportunity for additional practice either before or after the Design and Invent projects. 
 
-Projects and paths
+Projects and paths:
 + 🐱 [Look after yourself path](https://projects.raspberrypi.org/en/pathways/look-after-yourself){:target="_blank"}
 + 🐱 [Rock Band](https://projects.raspberrypi.org/en/projects/rock-band){:target="_blank"} 
 + 🐱 [Lost in Space](https://projects.raspberrypi.org/en/projects/lost-in-space){:target="_blank"} 
@@ -38,8 +38,8 @@ Create a project that can be entered into the ✨ [Coolest Projects Showcase](ht
 **Next steps with blocks**
 
 When your creators are ready to learn new skills choose a next path: 
-+ 🐱 [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch){:target="_blank"} 
-+ If you have access to Raspberry Pi computers: 🐱 🚨[Intro to Scratch Physical Computing](https://projects.raspberrypi.org/en/pathways/physical-computing-with-scratch-and-the-raspberry-pi){:target="_blank"}.
++ 🥉🥈🥇🐱 [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch){:target="_blank"} 
++ If you have access to Raspberry Pi computers: 🥉🥈🥇🐱 🚨[Intro to Scratch Physical Computing](https://projects.raspberrypi.org/en/pathways/physical-computing-with-scratch-and-the-raspberry-pi){:target="_blank"}.
 + You can complete these projects even you don't have a 3D printer, but they are even better if you do:[BlocksCAD 3D](https://projects.raspberrypi.org/en/pathways/blockscad-3d){:target="_blank"}.
 + If you have BBC micro:bits: [BBC micro:bit](https://projects.raspberrypi.org/en/codeclub/microbit){:target="_blank"}.
 
@@ -59,7 +59,7 @@ When your creators are ready to learn new skills choose a next path:
 + 🐱 [Grow a tree](https://projects.raspberrypi.org/en/projects/grow-a-tree){:target="_blank"}
 + 🐱 [Jazzy jumpers](https://projects.raspberrypi.org/en/projects/jazzy-jumpers){:target="_blank"}
 
-**Independent Making:**
+**🏅Independent Making:**
 
 Create a project that can be entered into the ✨ [Coolest Projects Showcase](https://projects.raspberrypi.org/en/projects/scratch-coolest-projects){:target="_blank"}. 
 
@@ -67,9 +67,9 @@ Create a project that can be entered into the ✨ [Coolest Projects Showcase](ht
 
 Either:
 
-+ 🐱 [Further Scratch](https://projects.raspberrypi.org/en/pathways/further-scratch){:target="_blank"}
-+ 🕸️ [Intro to Web](https://projects.raspberrypi.org/en/pathways/web-intro){:target="_blank"} - create web pages with HTML and CSS. 
-+ 🐍🚨 [Intro to Pico](https://projects.raspberrypi.org/en/pathways/pico-intro){:target="_blank"}. You will need inexpensive Raspberry Pi Pico microcontrollers and electronics components. See the path page for more details.
++ 🥉🥈🥇🐱 [Further Scratch](https://projects.raspberrypi.org/en/pathways/further-scratch){:target="_blank"}
++ 🥉🥈🥇🕸️ [Intro to Web](https://projects.raspberrypi.org/en/pathways/web-intro){:target="_blank"} - create web pages with HTML and CSS. 
++ 🥉🥈🥇🐍🚨 [Intro to Pico](https://projects.raspberrypi.org/en/pathways/pico-intro){:target="_blank"}. You will need inexpensive Raspberry Pi Pico microcontrollers and electronics components. See the path page for more details.
 
 **Additional practice:**
 
@@ -98,15 +98,15 @@ Independent making with the Pico -> Coolest Projects
 + 🐍 [Sense HAT path](https://projects.raspberrypi.org/en/codeclub/sense-hat){:target="_blank"} You can complete these projects with a Raspberry Pi Sense HAT or by using the Sense HAT emulator
 + [Astro Pi Mission Zero](https://astro-pi.org/mission-zero/){:target="_blank"} - The competition runs each year, check the dates and entry requirements. No hardware required. Run your code in space!
 
-**Independent Making:**
+**🏅Independent Making:**
 
 Create a project that can be entered into the ✨ Coolest Project Showcase: [Python](https://projects.raspberrypi.org/en/projects/python-coolest-projects) [Web](https://projects.raspberrypi.org/en/projects/web-coolest-projects). There are categories for Games, Mobile, Hardware and Apps. 
 
 
 ### Age 13+
 
-+ 🐍 [Intro to Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}
-+ 🐍 [More Python](https://projects.raspberrypi.org/en/pathways/more-python){:target="_blank"}
-+ [Intro to Unity](https://projects.raspberrypi.org/en/pathways/unit-intro){:target="_blank"}
-+ [Machine Vision path](https://projects.raspberrypi.org/en/pathways/machine-vision){:target="_blank"}
++ 🥉🥈🥇🐍 [Intro to Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}
++ 🥉🥈🥇🐍 [More Python](https://projects.raspberrypi.org/en/pathways/more-python){:target="_blank"}
++ 🥉🥈🥇[Intro to Unity](https://projects.raspberrypi.org/en/pathways/unit-intro){:target="_blank"}
++ [Machine Vision](https://projects.raspberrypi.org/en/pathways/machine-vision){:target="_blank"}
 
