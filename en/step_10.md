@@ -6,14 +6,14 @@ This is a rough guide to the 🥉🥈🥇321 🏅Make! paths and the order in wh
 <strong>Code Club World</strong>
 </p>
 
-### 🌟 Code Club World 🌟
-
-<img style="float:right" src="images/code-club-world.png" alt="The Code Club world home island with user avatar and four activities to choose from."> If your creators don’t have previous experience with computers and do have a good internet connection and are English-speaking then we’d recommend that they create an Avatar (a character) on [Code Club World](https://codeclubworld.org/){:target="_blank"} to experience dragging and dropping blocks on a computer or mobile device. When they are ready, they can move on to Scratch. 
+<img style="float:right; width: 300px;" src="images/code-club-world.png" alt="The Code Club world home island with user avatar and four activities to choose from."> If your creators don’t have previous experience with computers and do have a good internet connection and are English-speaking then we’d recommend that they create an Avatar (a character) on [Code Club World](https://codeclubworld.org/){:target="_blank"} to experience dragging and dropping blocks on a computer or mobile device. When they are ready, they can move on to Scratch. 
+<br clear="both">
 
 ![The Code Club world home island with user avatar and four activities to choose from.](images/code-club-world.png){:width="300px"}
 
-<span id="age7"></span>
-### 🌟 Age 7+ 🌟
+<p id="age7" style="background-color: #41a6c4; padding: 10px; color: white; border-radius: 10px;">
+<strong>Age 7</strong>
+</p>
 
 We have three paths of 🐱 Scratch projects plus a 🐱 Scratch physical computing path for the [Raspberry Pi computer](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started){:target="_blank"}. 
 
@@ -91,8 +91,9 @@ title: Additional practice
 
 Create a project that can be entered into the ✨ [Coolest Projects Showcase](https://projects.raspberrypi.org/en/projects/scratch-coolest-projects){:target="_blank"}. 
 
-<span id="age11"></span>
-### 🌟 Age 11+ 🌟
+<p id="age11" style="background-color: #41a6c4; padding: 10px; color: white; border-radius: 10px;">
+<strong>Age 11</strong>
+</p>
 
 Either:
 
@@ -139,8 +140,9 @@ title: Additional practice
 
 Create a project that can be entered into the ✨ Coolest Project Showcase: [Python](https://projects.raspberrypi.org/en/projects/python-coolest-projects) [Web](https://projects.raspberrypi.org/en/projects/web-coolest-projects). There are categories for Scratch, Web, Games, Mobile apps and Hardware. 
 
-<span id="age13"></span>
-### 🌟 Age 13+ 🌟
+<p id="age13" style="background-color: #41a6c4; padding: 10px; color: white; border-radius: 10px;">
+<strong>Age 13</strong>
+</p>
 
 + 🥉🥈🥇🐍 [Intro to Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}
 <p style="display: flex; flex-wrap: wrap">
