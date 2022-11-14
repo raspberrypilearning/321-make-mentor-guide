@@ -43,7 +43,7 @@ Create a project that can be entered into the ✨ [Coolest Projects Showcase](ht
 When your creators are ready to learn new skills choose a next path: 
 + 🥉🥈🥇🐱 [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch){:target="_blank"} 
 <p style="display: flex; flex-wrap: wrap">
-<img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/broadcasting-spells.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/grow-a-dragonfly.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/drum-star.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/next-customer-please.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/dont-fall-in.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/this-sprite-needs-you.png" alt=""></p>
+<img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/broadcasting-spells.png" alt="A fairy stands in a park with a large wand. A baseball player stands next to her."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/grow-a-dragonfly.png" alt="A prehistoric cartoon background with a volcano in the distance. A dragonfly is flying around the scene."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/drum-star.png" alt="A young person's bedroom with a stereo next to their bedside and a rock music poster above the bed."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/next-customer-please.png" alt="A shopping assitant stands at a counter. T-shirts are pinned to the wall for a customer to purchase."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/dont-fall-in.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/this-sprite-needs-you.png" alt=""></p>
 
 + If you have access to Raspberry Pi computers: 🥉🥈🥇🐱 🚨[Intro to Scratch Physical Computing](https://projects.raspberrypi.org/en/pathways/physical-computing-with-scratch-and-the-raspberry-pi){:target="_blank"}.
 
@@ -66,7 +66,7 @@ When your creators are ready to learn new skills choose a next path:
 + 🐱 [Grow a tree](https://projects.raspberrypi.org/en/projects/grow-a-tree){:target="_blank"}
 + 🐱 [Jazzy jumpers](https://projects.raspberrypi.org/en/projects/jazzy-jumpers){:target="_blank"}
 
-**🏅Independent Making:**
+🏅**Independent Making:**
 
 Create a project that can be entered into the ✨ [Coolest Projects Showcase](https://projects.raspberrypi.org/en/projects/scratch-coolest-projects){:target="_blank"}. 
 
@@ -76,11 +76,11 @@ Either:
 
 + 🥉🥈🥇🐱 [Further Scratch](https://projects.raspberrypi.org/en/pathways/further-scratch){:target="_blank"}
 <p style="display: flex; flex-wrap: wrap">
-<img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/nature-rover.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/puzzle-room.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/mandala.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/swarms-schools-flocks.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/music-maker.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/welcome-to-my-world.png" alt=""></p>
+<img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/nature-rover.png" alt="A rover robot with on screen controls."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/puzzle-room.png" alt="A character inside a spaceship with lots of contols."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/mandala.png" alt="A colourful mandala drawing."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/swarms-schools-flocks.png" alt="A lion walking across a scene with flying dinosaurs."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/music-maker.png" alt="A path made from colourful blocks."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/welcome-to-my-world.png" alt="A view of a road from inside a car."></p>
 
 + 🥉🥈🥇🕸️ [Intro to Web](https://projects.raspberrypi.org/en/pathways/web-intro){:target="_blank"} - create web pages with HTML and CSS. 
 <p style="display: flex; flex-wrap: wrap">
-<img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/space-talk.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/catch-the-bus.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/find-the-bug.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/silly-eyes.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/surprise-animation.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/i-made-you-a-book.png" alt=""></p>
+<img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/anime-expressions.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/top-5-emoji-ist.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/flip-treat-webcards.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/mood-board.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/sell-me-something.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/build-a-webpage.png" alt=""></p>
 
 + 🥉🥈🥇🐍🚨 [Intro to Pico](https://projects.raspberrypi.org/en/pathways/pico-intro){:target="_blank"}. You will need inexpensive Raspberry Pi Pico microcontrollers and electronics components. See the path page for more details.
 <p style="display: flex; flex-wrap: wrap">
@@ -110,7 +110,7 @@ Independent making with the Pico -> Coolest Projects
 + 🐍 [Sense HAT path](https://projects.raspberrypi.org/en/codeclub/sense-hat){:target="_blank"} You can complete these projects with a Raspberry Pi Sense HAT or by using the Sense HAT emulator
 + 🚀 [Astro Pi Mission Zero](https://astro-pi.org/mission-zero/){:target="_blank"} - The competition runs each year, check the dates and entry requirements. No hardware required. Run your code in space!
 
-**🏅Independent Making:**
+🏅**Independent Making:**
 
 Create a project that can be entered into the ✨ Coolest Project Showcase: [Python](https://projects.raspberrypi.org/en/projects/python-coolest-projects) [Web](https://projects.raspberrypi.org/en/projects/web-coolest-projects). There are categories for Games, Mobile, Hardware and Apps. 
 
