@@ -2,7 +2,7 @@
 
 This is a rough guide to the 🥉🥈🥇321 🏅Make! paths and the order in which they can be completed along with suggestions for additional content for practice and breadth. There are sections for starting ages of <a href="#age7">7+</a>, <a href="#age11">11+</a> and <a href="#age13">13+</a>. This should be adapted to your creators based on their prior experience of computing which will vary significantly around the world. 
 
-<p style="background-color: #41a6c4; padding: 10px; color: white;">
+<p style="background-color: #41a6c4; padding: 10px; color: white; border-radius: 25;">
 <strong>Code Club World</strong>
 </p>
 
