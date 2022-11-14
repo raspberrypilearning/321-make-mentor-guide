@@ -1,12 +1,15 @@
 ## Choose a path
 
-This is a rough guide to the 🥉🥈🥇321 🏅Make! paths and the order in which they can be completed along with suggestions for additional content for practice and breadth. This should be adapted to your creators based on their prior experience of computing which will vary significantly around the world. 
+This is a rough guide to the 🥉🥈🥇321 🏅Make! paths and the order in which they can be completed along with suggestions for additional content for practice and breadth. There are sections for starting ages of <a href="#age7">7+</a>. This should be adapted to your creators based on their prior experience of computing which will vary significantly around the world. 
 
-### Code Club World
+### 🌟 Code Club World 🌟
 
 If your creators don’t have previous experience with computers and do have a good internet connection and are English-speaking then we’d recommend that they create an Avatar (a character) on [Code Club World](https://codeclubworld.org/){:target="_blank"} to experience dragging and dropping blocks on a computer or mobile device. When they are ready, they can move on to Scratch. 
 
-### Age 7+ 
+![The Code Club world home island with user avatar and four activities to choose from.](images/code-club-world.png){:width="300px"}
+
+<span id="age7"></span>
+### 🌟 Age 7+ 🌟
 
 We have three paths of 🐱 Scratch projects plus a 🐱 Scratch physical computing path for the [Raspberry Pi computer](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started){:target="_blank"}. 
 
@@ -39,7 +42,7 @@ Projects and paths:
 
 --- /collapse ---
 
-** 🏅Independent making:**
+🏅**Independent making:**
 
 Use the 🐱 [I made you a book](https://projects.raspberrypi.org/en/projects/i-made-you-a-book){:target="_blank"} Invent project as a reference guide for reminders of the blocks and concepts that have been learned. 
 
@@ -84,7 +87,7 @@ title: Additional practice
 
 Create a project that can be entered into the ✨ [Coolest Projects Showcase](https://projects.raspberrypi.org/en/projects/scratch-coolest-projects){:target="_blank"}. 
 
-### Age 11+
+### 🌟 Age 11+ 🌟
 
 Either:
 
@@ -94,11 +97,11 @@ Either:
 
 + 🥉🥈🥇🕸️ [Intro to Web](https://projects.raspberrypi.org/en/pathways/web-intro){:target="_blank"} - create web pages with HTML and CSS. 
 <p style="display: flex; flex-wrap: wrap">
-<img style="flex-basis: 100px; flex-grow: 1; width: 100px; height: 80px;" src="images/anime-expressions.png" alt="A screenshot of a webpage that describes how to draw an anime character."><img style="flex-basis: 100px; flex-grow: 1; width: 100px; height: 80px;" src="images/top-5-emoji-list.png" alt="A screenshot of a webpage that lists the top five emojis."><img style="flex-basis: 100px; flex-grow: 1; width: 100px; height: 80px;" src="images/flip-treat-webcards.png" alt="A screenshot of a webpage that shows some flippable cards that reveal the names of sweet treats from around the world."><img style="flex-basis: 100px; flex-grow: 1; width: 100px; height: 80px;" src="images/mood-board.png" alt="A screenshot of a webpage that uses the word Happiness and shows images and colours that connect to that word. Bright yellows and blue are used as the feature colour."><img style="flex-basis: 100px; flex-grow: 1; width: 100px; height: 80px;" src="images/sell-me-something.png" alt="A screenshot of a webpage that shows users five key skateboarding tricks."><img style="flex-basis: 100px; flex-grow: 1; width: 100px; height: 80px;" src="images/build-a-webpage.png" alt="A screenshot of a webpage that talks about being an LGBTQ+ Ally in the UK."></p>
+<img style="flex-basis: 100px; flex-grow: 1; width: 100px; height: 100px;" src="images/anime-expressions.png" alt="A screenshot of a webpage that describes how to draw an anime character."><img style="flex-basis: 100px; flex-grow: 1; width: 100px; height: 100px;" src="images/top-5-emoji-list.png" alt="A screenshot of a webpage that lists the top five emojis."><img style="flex-basis: 100px; flex-grow: 1; width: 100px; height: 100px;" src="images/flip-treat-webcards.png" alt="A screenshot of a webpage that shows some flippable cards that reveal the names of sweet treats from around the world."><img style="flex-basis: 100px; flex-grow: 1; width: 100px; height: 100px;" src="images/mood-board.png" alt="A screenshot of a webpage that uses the word Happiness and shows images and colours that connect to that word. Bright yellows and blue are used as the feature colour."><img style="flex-basis: 100px; flex-grow: 1; width: 100px; height: 100px;" src="images/sell-me-something.png" alt="A screenshot of a webpage that shows users five key skateboarding tricks."><img style="flex-basis: 100px; flex-grow: 1; width: 100px; height: 100px;" src="images/build-a-webpage.png" alt="A screenshot of a webpage that talks about being an LGBTQ+ Ally in the UK."></p>
 
 + 🥉🥈🥇🐍🚨 [Intro to Pico](https://projects.raspberrypi.org/en/pathways/pico-intro){:target="_blank"}. You will need inexpensive Raspberry Pi Pico microcontrollers and electronics components. See the path page for more details.
 <p style="display: flex; flex-wrap: wrap">
-<img style="flex-basis: 100px; flex-grow: 1; width: 100px; height: 60px;" src="images/led-firefly.png" alt="An LED with sticky tape wings and two jumper leads attached."><img style="flex-basis: 100px; flex-grow: 1; width: 100px; height: 60px;" src="images/party-popper.jpeg" alt="A piece of cardboard is wrapped in kitchen foil and used as a pull switch. The pull switch has a rainbow coloured ribbon attached."><img style="flex-basis: 100px; flex-grow: 1; width: 100px; height: 60px;" src="images/beating-heart.png" alt="A red origami heart that is back lit by an LED."><img style="flex-basis: 100px; flex-grow: 1; width: 100px; height: 60px;" src="images/mood-indicator.png" alt="A mood lamp that has been created using a paper cup and a tube of tracing paper. The lamp is lit up in green."><img style="flex-basis: 100px; flex-grow: 1; width: 100px; height: 60px;" src="images/sound-machine.png" alt="Blue card has been used with some conductive tape to create buttons that are used like piano keys. "><img style="flex-basis: 100px; flex-grow: 1; width: 100px; height: 60px;" src="images/sensory-gadget.png" alt="A nightlight made using black paper with holes pocked through. Lights dance across the walls to create an atmosphere."></p>
+<img style="flex-basis: 100px; flex-grow: 1; width: 100px; height: 100px;" src="images/led-firefly.png" alt="An LED with sticky tape wings and two jumper leads attached."><img style="flex-basis: 100px; flex-grow: 1; width: 100px; height: 100px;" src="images/party-popper.jpeg" alt="A piece of cardboard is wrapped in kitchen foil and used as a pull switch. The pull switch has a rainbow coloured ribbon attached."><img style="flex-basis: 100px; flex-grow: 1; width: 100px; height: 100px;" src="images/beating-heart.png" alt="A red origami heart that is back lit by an LED."><img style="flex-basis: 100px; flex-grow: 1; width: 100px; height: 100px;" src="images/mood-indicator.png" alt="A mood lamp that has been created using a paper cup and a tube of tracing paper. The lamp is lit up in green."><img style="flex-basis: 100px; flex-grow: 1; width: 100px; height: 100px;" src="images/sound-machine.png" alt="Blue card has been used with some conductive tape to create buttons that are used like piano keys. "><img style="flex-basis: 100px; flex-grow: 1; width: 100px; height: 100px;" src="images/sensory-gadget.png" alt="A nightlight made using black paper with holes pocked through. Lights dance across the walls to create an atmosphere."></p>
 
 [Code Club Python Module 1](https://projects.raspberrypi.org/en/codeclub/python-module-1){:target="_blank"} and [Code Club Python Module 2](https://projects.raspberrypi.org/en/codeclub/python-module-2){:target="_blank"}. New Python paths for this age group coming soon!
 
@@ -131,7 +134,7 @@ title: Additional practice
 
 Create a project that can be entered into the ✨ Coolest Project Showcase: [Python](https://projects.raspberrypi.org/en/projects/python-coolest-projects) [Web](https://projects.raspberrypi.org/en/projects/web-coolest-projects). There are categories for Scratch, Web, Games, Mobile apps and Hardware. 
 
-### Age 13+
+### 🌟 Age 13+ 🌟
 
 + 🥉🥈🥇🐍 [Intro to Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}
 <p style="display: flex; flex-wrap: wrap">
