@@ -14,8 +14,8 @@ We have three paths of 🐱 Scratch projects plus a 🐱 Scratch physical comput
 
 + Start with 🥉🥈🥇🐱 [Intro to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"}. No prior experience of Scratch is needed.
 
-<img style="float:left" src="images/space-talk.png" alt=""><img style="float:left" src="images/catch-the-bus.png" alt=""><img style="float:left" src="images/find-the-bug.png" alt=""><img style="float:left" src="images/silly-eyes.png" alt=""><img style="float:left" src="images/surprise-animation.png" alt=""><img style="float:left" src="images/i-made-you-a-book.png" alt="">
-<br clear="all">
+<p style="display: flex; flex-wrap: wrap">
+<img style="flex-basis: 100px; flex-grow: 1;" src="images/space-talk.png" alt=""><img style="flex-basis: 100px; flex-grow: 1" src="images/catch-the-bus.png" alt=""><img style="flex-basis: 100px; flex-grow: 1" src="images/find-the-bug.png" alt=""><img style="flex-basis: 100px; flex-grow: 1;" src="images/silly-eyes.png" alt=""><img style="flex-basis: 100px; flex-grow: 1;" src="images/surprise-animation.png" alt=""><img style="flex-basis: 100px; flex-grow: 1;" src="images/i-made-you-a-book.png" alt=""></p>
 
 
 Don't forget to [Share](https://projects.raspberrypi.org/en/projects/share-scratch){:target="_blank"} the projects that creators make. 
