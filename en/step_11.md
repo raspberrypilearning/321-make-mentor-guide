@@ -43,7 +43,7 @@ Create a project that can be entered into the ✨ [Coolest Projects Showcase](ht
 When your creators are ready to learn new skills choose a next path: 
 + 🥉🥈🥇🐱 [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch){:target="_blank"} 
 <p style="display: flex; flex-wrap: wrap">
-<img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/broadcasting-spells.png" alt="A fairy stands in a park with a large wand. A baseball player stands next to her."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/grow-a-dragonfly.png" alt="A prehistoric cartoon background with a volcano in the distance. A dragonfly is flying around the scene."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/drum-star.png" alt="A young person's bedroom with a stereo next to their bedside and a rock music poster above the bed."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/next-customer-please.png" alt="A shopping assitant stands at a counter. T-shirts are pinned to the wall for a customer to purchase."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/dont-fall-in.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/this-sprite-needs-you.png" alt=""></p>
+<img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/broadcasting-spells.png" alt="A fairy stands in a park with a large wand. A baseball player stands next to her."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/grow-a-dragonfly.png" alt="A prehistoric cartoon background with a volcano in the distance. A dragonfly is flying around the scene."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/drum-star.png" alt="A young person's bedroom with a stereo next to their bedside and a rock music poster above the bed."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/next-customer-please.png" alt="A shopping assitant stands at a counter. T-shirts are pinned to the wall for a customer to purchase."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/dont-fall-in.png" alt="Green stepping stones are spread across the scene with a character trying to avoid falling in."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/this-sprite-needs-you.png" alt="A dark forest scene with a bat flying around."></p>
 
 + If you have access to Raspberry Pi computers: 🥉🥈🥇🐱 🚨[Intro to Scratch Physical Computing](https://projects.raspberrypi.org/en/pathways/physical-computing-with-scratch-and-the-raspberry-pi){:target="_blank"}.
 
@@ -80,19 +80,16 @@ Either:
 
 + 🥉🥈🥇🕸️ [Intro to Web](https://projects.raspberrypi.org/en/pathways/web-intro){:target="_blank"} - create web pages with HTML and CSS. 
 <p style="display: flex; flex-wrap: wrap">
-<img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/anime-expressions.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/top-5-emoji-ist.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/flip-treat-webcards.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/mood-board.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/sell-me-something.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/build-a-webpage.png" alt=""></p>
+<img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/anime-expressions.png" alt="A screenshot of a webpage that describes how to draw an anime character."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/top-5-emoji-list.png" alt="A screenshot of a webpage that lists the top five emojis."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/flip-treat-webcards.png" alt="A screenshot of a webpage that shows some flippable cards that reveal the names of sweet treats from around the world."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/mood-board.png" alt="A screenshot of a webpage that uses the word Happiness and shows images and colours that connect to that word. Bright yellows, blues and "><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/sell-me-something.png" alt="A screenshot of a webpage that "><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/build-a-webpage.png" alt=""></p>
 
 + 🥉🥈🥇🐍🚨 [Intro to Pico](https://projects.raspberrypi.org/en/pathways/pico-intro){:target="_blank"}. You will need inexpensive Raspberry Pi Pico microcontrollers and electronics components. See the path page for more details.
 <p style="display: flex; flex-wrap: wrap">
 <img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/space-talk.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/catch-the-bus.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/find-the-bug.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/silly-eyes.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/surprise-animation.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/i-made-you-a-book.png" alt=""></p>
 
-**Additional practice:**
 
 Code Club Python 1 & 2 (new Python paths for this age group coming soon!)
 
-Independent making with the Pico -> Coolest Projects
-
-✨ Coolest Projects
+**Additional practice:**
 
 + 🐱 [Synchronised Swimming](https://projects.raspberrypi.org/en/projects/synchronised-swimming){:target="_blank"}
 + 🐱 [Protect our planet](https://projects.raspberrypi.org/en/pathways/protect-our-planet){:target="_blank"}
@@ -112,14 +109,14 @@ Independent making with the Pico -> Coolest Projects
 
 🏅**Independent Making:**
 
-Create a project that can be entered into the ✨ Coolest Project Showcase: [Python](https://projects.raspberrypi.org/en/projects/python-coolest-projects) [Web](https://projects.raspberrypi.org/en/projects/web-coolest-projects). There are categories for Games, Mobile, Hardware and Apps. 
+Create a project that can be entered into the ✨ Coolest Project Showcase: [Python](https://projects.raspberrypi.org/en/projects/python-coolest-projects) [Web](https://projects.raspberrypi.org/en/projects/web-coolest-projects). There are categories for Scratch, Games, Mobile apps and Hardware. 
 
 
 ### Age 13+
 
 + 🥉🥈🥇🐍 [Intro to Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}
 <p style="display: flex; flex-wrap: wrap">
-<img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/space-talk.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/catch-the-bus.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/find-the-bug.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/silly-eyes.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/surprise-animation.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/i-made-you-a-book.png" alt=""></p>
+<img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/hello-world.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/target-practice.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/rocket-launch.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/make-a-face.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/dont-collide.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/powerful-patterns.png" alt=""></p>
 
 + 🥉🥈🥇🐍 [More Python](https://projects.raspberrypi.org/en/pathways/more-python){:target="_blank"}
 <p style="display: flex; flex-wrap: wrap">
@@ -130,4 +127,8 @@ Create a project that can be entered into the ✨ Coolest Project Showcase: [Pyt
 <img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/space-talk.png" alt="A Racoon in a 3D scene."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/catch-the-bus.png" alt="A racoon in a 3D scene with a glowing star collectible."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/find-the-bug.png" alt="Cat and dog non-player characters in a 3D scene."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/silly-eyes.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/surprise-animation.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/i-made-you-a-book.png" alt=""></p>
 
 + 👁️ [Machine Vision](https://projects.raspberrypi.org/en/pathways/machine-vision){:target="_blank"}
+
+🏅**Independent Making:**
+
+Create a project that can be entered into the ✨ Coolest Project Showcase: [Python](https://projects.raspberrypi.org/en/projects/python-coolest-projects) [Web](https://projects.raspberrypi.org/en/projects/web-coolest-projects). There are categories for Games, Mobile apps and Hardware as well as an Advanced programming category. 
 
