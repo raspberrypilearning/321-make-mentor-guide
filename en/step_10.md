@@ -2,13 +2,13 @@
 
 This is a rough guide to the 🥉🥈🥇321 🏅Make! paths and the order in which they can be completed along with suggestions for additional content for practice and breadth. There are sections for starting ages of <a href="#age7">7+</a>, <a href="#age11">11+</a> and <a href="#age13">13+</a>. This should be adapted to your creators based on their prior experience of computing which will vary significantly around the world. 
 
-<p style="background-color: #41a6c4; padding: 10px; color: white; border-radius: 25px;">
+<p style="background-color: #41a6c4; padding: 10px; color: white; border-radius: 10px;">
 <strong>Code Club World</strong>
 </p>
 
 ### 🌟 Code Club World 🌟
 
-If your creators don’t have previous experience with computers and do have a good internet connection and are English-speaking then we’d recommend that they create an Avatar (a character) on [Code Club World](https://codeclubworld.org/){:target="_blank"} to experience dragging and dropping blocks on a computer or mobile device. When they are ready, they can move on to Scratch. 
+<img style="float:right" src="images/code-club-world.png" alt="The Code Club world home island with user avatar and four activities to choose from."> If your creators don’t have previous experience with computers and do have a good internet connection and are English-speaking then we’d recommend that they create an Avatar (a character) on [Code Club World](https://codeclubworld.org/){:target="_blank"} to experience dragging and dropping blocks on a computer or mobile device. When they are ready, they can move on to Scratch. 
 
 ![The Code Club world home island with user avatar and four activities to choose from.](images/code-club-world.png){:width="300px"}
 
