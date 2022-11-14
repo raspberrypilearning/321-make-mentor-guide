@@ -13,10 +13,6 @@ This is a rough guide to the 🥉🥈🥇321 🏅Make! paths and the order in wh
 <strong>Age 7</strong>
 </p>
 
-We have three paths of 🐱 Scratch projects plus a 🐱 Scratch physical computing path for the [Raspberry Pi computer](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started){:target="_blank"}. 
-
-**Start point** 
-
 + Start with 🥉🥈🥇🐱 [Intro to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"}. No prior experience of Scratch is needed.
 
 <p style="display: flex; flex-wrap: wrap">
@@ -92,8 +88,6 @@ Create a project that can be entered into the ✨ [Coolest Projects Showcase](ht
 <p id="age11" style="background-color: #41a6c4; padding: 10px; color: white; border-radius: 10px;">
 <strong>Age 11</strong>
 </p>
-
-Either:
 
 + 🥉🥈🥇🐱 [Further Scratch](https://projects.raspberrypi.org/en/pathways/further-scratch){:target="_blank"}
 <p style="display: flex; flex-wrap: wrap">
