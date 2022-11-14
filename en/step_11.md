@@ -19,6 +19,11 @@ We have three paths of 🐱 Scratch projects plus a 🐱 Scratch physical comput
 
 Don't forget to [Share](https://projects.raspberrypi.org/en/projects/share-scratch){:target="_blank"} the projects that creators make. 
 
+--- collapse ---
+---
+title: Additional practice
+---
+
 **Additional practice:**
 
 These existing projects and paths use similar skills to those introduced in Intro to Scratch and provide an opportunity for additional practice either before or after the Design and Invent projects. 
@@ -38,6 +43,8 @@ Use the 🐱 [I made you a book](https://projects.raspberrypi.org/en/projects/i-
 
 Create a project that can be entered into the ✨ [Coolest Projects Showcase](https://projects.raspberrypi.org/en/projects/scratch-coolest-projects){:target="_blank"}. 
 
+--- /collapse ---
+
 **Next steps with blocks**
 
 When your creators are ready to learn new skills choose a next path: 
@@ -49,6 +56,11 @@ When your creators are ready to learn new skills choose a next path:
 
 + You can complete these projects even you don't have a 3D printer, but they are even better if you do:[BlocksCAD 3D](https://projects.raspberrypi.org/en/pathways/blockscad-3d){:target="_blank"}.
 + If you have BBC micro:bits: [BBC micro:bit](https://projects.raspberrypi.org/en/codeclub/microbit){:target="_blank"}.
+
+--- collapse ---
+---
+title: Additional practice
+---
 
 **Additional practice:** 
 
@@ -70,6 +82,8 @@ When your creators are ready to learn new skills choose a next path:
 
 Create a project that can be entered into the ✨ [Coolest Projects Showcase](https://projects.raspberrypi.org/en/projects/scratch-coolest-projects){:target="_blank"}. 
 
+--- /collapse ---
+
 ### Age 11+
 
 Either:
@@ -84,9 +98,14 @@ Either:
 
 + 🥉🥈🥇🐍🚨 [Intro to Pico](https://projects.raspberrypi.org/en/pathways/pico-intro){:target="_blank"}. You will need inexpensive Raspberry Pi Pico microcontrollers and electronics components. See the path page for more details.
 <p style="display: flex; flex-wrap: wrap">
-<img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/led-firefly.png" alt="An LED with sticky tape wings and two jumper leads attached."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/party-popper.jpeg" alt="A piece of cardboard is wrapped in kitchen foil and used as a pull switch. The pull switch has a rainbow coloured ribbon attached."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/beating-heart.png" alt="A red origami heart that is back lit by an LED."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/mood-indicator.png" alt="A mood lamp that has been created using a paper cup and a tube of tracing paper. The lamp is lit up in green."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/sound-machine.png" alt="Blue card has been used with some conductive tape to create buttons that are used like piano keys. "><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/sensory-gadget.png" alt=""></p>
+<img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/led-firefly.png" alt="An LED with sticky tape wings and two jumper leads attached."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/party-popper.jpeg" alt="A piece of cardboard is wrapped in kitchen foil and used as a pull switch. The pull switch has a rainbow coloured ribbon attached."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/beating-heart.png" alt="A red origami heart that is back lit by an LED."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/mood-indicator.png" alt="A mood lamp that has been created using a paper cup and a tube of tracing paper. The lamp is lit up in green."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/sound-machine.png" alt="Blue card has been used with some conductive tape to create buttons that are used like piano keys. "><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/sensory-gadget.png" alt="A nightlight made using black paper with holes pocked through. Lights dance across the walls to create an atmosphere."></p>
 
 [Code Club Python Module 1](https://projects.raspberrypi.org/en/codeclub/python-module-1){:target="_blank"} and [Code Club Python Module 2](https://projects.raspberrypi.org/en/codeclub/python-module-2){:target="_blank"}. New Python paths for this age group coming soon!
+
+--- collapse ---
+---
+title: Additional practice
+---
 
 **Additional practice:**
 
@@ -110,6 +129,7 @@ Either:
 
 Create a project that can be entered into the ✨ Coolest Project Showcase: [Python](https://projects.raspberrypi.org/en/projects/python-coolest-projects) [Web](https://projects.raspberrypi.org/en/projects/web-coolest-projects). There are categories for Scratch, Web, Games, Mobile apps and Hardware. 
 
+--- /collapse ---
 
 ### Age 13+
 
@@ -123,9 +143,15 @@ Create a project that can be entered into the ✨ Coolest Project Showcase: [Pyt
 
 + 🥉🥈🥇[Intro to Unity](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"}
 <p style="display: flex; flex-wrap: wrap">
-<img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/explore-a-3d-world.png" alt="A Racoon in a 3D scene."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/star-collector.png" alt="A racoon in a 3D scene with a glowing star collectible."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/non-player-characters.png" alt="Cat and dog non-player characters in a 3D scene."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/world-builder.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/quest-seeker.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/3d-adventure.png" alt=""></p>
+<img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/explore-a-3d-world.png" alt="A Racoon in a 3D scene."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/star-collector.png" alt="A racoon in a 3D scene with a glowing star collectible."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/non-player-characters.png" alt="Cat and dog non-player characters in a 3D scene."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/world-builder.png" alt="A racoon in a 3D forest scene."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/quest-seeker.png" alt="A character in a 3D maze."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/3d-adventure.png" alt="A car driving through a 3D mountain scene."></p>
 
 + 👁️ [Machine Vision](https://projects.raspberrypi.org/en/pathways/machine-vision){:target="_blank"}
+
+**Additional practice:**
+
++ 🐍[Documenting your code](https://projects.raspberrypi.org/en/projects/documenting-your-code/){:target="_blank"}
++ 🕸️[Web development guide](https://projects.raspberrypi.org/en/projects/getting-started-web-dev){:target="_blank"}
++ 🐍🚨[Raspberry Pi Pico guide](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico){:target="_blank"}
 
 🏅**Independent Making:**
 
