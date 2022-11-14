@@ -1,6 +1,10 @@
 ## Choose a path
 
-This is a rough guide to the 🥉🥈🥇321 🏅Make! paths and the order in which they can be completed along with suggestions for additional content for practice and breadth. There are sections for starting ages of <a href="#age7">7+</a>. This should be adapted to your creators based on their prior experience of computing which will vary significantly around the world. 
+This is a rough guide to the 🥉🥈🥇321 🏅Make! paths and the order in which they can be completed along with suggestions for additional content for practice and breadth. There are sections for starting ages of <a href="#age7">7+</a>, <a href="#age11">11+</a> and <a href="#age13">13+</a>. This should be adapted to your creators based on their prior experience of computing which will vary significantly around the world. 
+
+<p style="background-color: pink; padding: 10px;">
+Code Club World
+</p>
 
 ### 🌟 Code Club World 🌟
 
@@ -87,6 +91,7 @@ title: Additional practice
 
 Create a project that can be entered into the ✨ [Coolest Projects Showcase](https://projects.raspberrypi.org/en/projects/scratch-coolest-projects){:target="_blank"}. 
 
+<span id="age11"></span>
 ### 🌟 Age 11+ 🌟
 
 Either:
@@ -134,6 +139,7 @@ title: Additional practice
 
 Create a project that can be entered into the ✨ Coolest Project Showcase: [Python](https://projects.raspberrypi.org/en/projects/python-coolest-projects) [Web](https://projects.raspberrypi.org/en/projects/web-coolest-projects). There are categories for Scratch, Web, Games, Mobile apps and Hardware. 
 
+<span id="age13"></span>
 ### 🌟 Age 13+ 🌟
 
 + 🥉🥈🥇🐍 [Intro to Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}
