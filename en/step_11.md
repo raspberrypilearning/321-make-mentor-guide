@@ -80,7 +80,7 @@ Either:
 
 + 🥉🥈🥇🕸️ [Intro to Web](https://projects.raspberrypi.org/en/pathways/web-intro){:target="_blank"} - create web pages with HTML and CSS. 
 <p style="display: flex; flex-wrap: wrap">
-<img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/anime-expressions.png" alt="A screenshot of a webpage that describes how to draw an anime character."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/top-5-emoji-list.png" alt="A screenshot of a webpage that lists the top five emojis."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/flip-treat-webcards.png" alt="A screenshot of a webpage that shows some flippable cards that reveal the names of sweet treats from around the world."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/mood-board.png" alt="A screenshot of a webpage that uses the word Happiness and shows images and colours that connect to that word. Bright yellows, blues and "><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/sell-me-something.png" alt="A screenshot of a webpage that "><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/build-a-webpage.png" alt=""></p>
+<img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/anime-expressions.png" alt="A screenshot of a webpage that describes how to draw an anime character."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/top-5-emoji-list.png" alt="A screenshot of a webpage that lists the top five emojis."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/flip-treat-webcards.png" alt="A screenshot of a webpage that shows some flippable cards that reveal the names of sweet treats from around the world."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/mood-board.png" alt="A screenshot of a webpage that uses the word Happiness and shows images and colours that connect to that word. Bright yellows and blue are used as the feature colour."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/sell-me-something.png" alt="A screenshot of a webpage that shows users five key skateboarding tricks."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/build-a-webpage.png" alt="A screenshot of a webpage that talks about being an LGBTQ+ Ally in the UK."></p>
 
 + 🥉🥈🥇🐍🚨 [Intro to Pico](https://projects.raspberrypi.org/en/pathways/pico-intro){:target="_blank"}. You will need inexpensive Raspberry Pi Pico microcontrollers and electronics components. See the path page for more details.
 <p style="display: flex; flex-wrap: wrap">
@@ -109,7 +109,7 @@ Code Club Python 1 & 2 (new Python paths for this age group coming soon!)
 
 🏅**Independent Making:**
 
-Create a project that can be entered into the ✨ Coolest Project Showcase: [Python](https://projects.raspberrypi.org/en/projects/python-coolest-projects) [Web](https://projects.raspberrypi.org/en/projects/web-coolest-projects). There are categories for Scratch, Games, Mobile apps and Hardware. 
+Create a project that can be entered into the ✨ Coolest Project Showcase: [Python](https://projects.raspberrypi.org/en/projects/python-coolest-projects) [Web](https://projects.raspberrypi.org/en/projects/web-coolest-projects). There are categories for Scratch, Web, Games, Mobile apps and Hardware. 
 
 
 ### Age 13+
@@ -130,5 +130,5 @@ Create a project that can be entered into the ✨ Coolest Project Showcase: [Pyt
 
 🏅**Independent Making:**
 
-Create a project that can be entered into the ✨ Coolest Project Showcase: [Python](https://projects.raspberrypi.org/en/projects/python-coolest-projects) [Web](https://projects.raspberrypi.org/en/projects/web-coolest-projects). There are categories for Games, Mobile apps and Hardware as well as an Advanced programming category. 
+Create a project that can be entered into the ✨ Coolest Project Showcase: [Python](https://projects.raspberrypi.org/en/projects/python-coolest-projects) [Web](https://projects.raspberrypi.org/en/projects/web-coolest-projects). There are categories for Scratch, Web, Games, Mobile apps and Hardware as well as an Advanced programming category. 
 
