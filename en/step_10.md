@@ -53,7 +53,7 @@ Create a project that can be entered into the ✨ [Coolest Projects Showcase](ht
 **Next steps with blocks**
 
 When your creators are ready to learn new skills choose a next path: 
-+ [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch){:target="_blank"} 🥉🥈🥇🐱 
++ 🥉🥈🥇🐱 [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch){:target="_blank"}  
 <p style="display: flex; flex-wrap: wrap">
 <img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/broadcasting-spells.png" alt="A fairy stands in a park with a large wand. A baseball player stands next to her."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/grow-a-dragonfly.png" alt="A prehistoric cartoon background with a volcano in the distance. A dragonfly is flying around the scene."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/drum-star.png" alt="A young person's bedroom with a stereo next to their bedside and a rock music poster above the bed."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/next-customer-please.png" alt="A shopping assitant stands at a counter. T-shirts are pinned to the wall for a customer to purchase."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/dont-fall-in.png" alt="Green stepping stones are spread across the scene with a character trying to avoid falling in."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/this-sprite-needs-you.png" alt="A dark forest scene with a bat flying around."></p>
 
@@ -136,7 +136,7 @@ title: Additional practice
 
 🏅**Independent Making:**
 
-Create a project that can be entered into the ✨ Coolest Project Showcase: [Python](https://projects.raspberrypi.org/en/projects/python-coolest-projects) [Web](https://projects.raspberrypi.org/en/projects/web-coolest-projects). There are categories for Scratch, Web, Games, Mobile apps and Hardware. 
+Create a project that can be entered into the ✨ Coolest Projects Showcase: [Python](https://projects.raspberrypi.org/en/projects/python-coolest-projects) [Web](https://projects.raspberrypi.org/en/projects/web-coolest-projects). There are categories for Scratch, Web, Games, Mobile apps and Hardware. 
 
 <p id="age13" style="background-color: #41a6c4; padding: 10px; color: white; border-radius: 10px;">
 <strong>Age 13</strong>
@@ -175,5 +175,5 @@ title: Additional practice
 
 🏅**Independent Making:**
 
-Create a project that can be entered into the ✨ Coolest Project Showcase: [Python](https://projects.raspberrypi.org/en/projects/python-coolest-projects) [Web](https://projects.raspberrypi.org/en/projects/web-coolest-projects). There are categories for Scratch, Web, Games, Mobile apps and Hardware as well as an Advanced programming category. 
+Create a project that can be entered into the ✨ Coolest Projects Showcase: [Python](https://projects.raspberrypi.org/en/projects/python-coolest-projects){:target="_blank"} [Web](https://projects.raspberrypi.org/en/projects/web-coolest-projects){:target="_blank"} [Unity](https://projects.raspberrypi.org/en/projects/unity-coolest-projects){:target="_blank"}. There are categories for Scratch, Web, Games, Mobile apps and Hardware as well as an Advanced programming category. 
 
