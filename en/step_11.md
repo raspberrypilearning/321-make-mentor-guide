@@ -84,10 +84,9 @@ Either:
 
 + 🥉🥈🥇🐍🚨 [Intro to Pico](https://projects.raspberrypi.org/en/pathways/pico-intro){:target="_blank"}. You will need inexpensive Raspberry Pi Pico microcontrollers and electronics components. See the path page for more details.
 <p style="display: flex; flex-wrap: wrap">
-<img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/space-talk.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/catch-the-bus.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/find-the-bug.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/silly-eyes.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/surprise-animation.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/i-made-you-a-book.png" alt=""></p>
+<img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/led-firefly.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/party-popper.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/beating-heart.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/mood-indicator.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/sound-machine.png" alt=""><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/sensory-gadget" alt=""></p>
 
-
-Code Club Python 1 & 2 (new Python paths for this age group coming soon!)
+[Code Club Python Module 1](https://projects.raspberrypi.org/en/codeclub/python-module-1){:target="_blank"} and [Code Club Python Module 2](https://projects.raspberrypi.org/en/codeclub/python-module-2){:target="_blank"}. New Python paths for this age group coming soon!
 
 **Additional practice:**
 
