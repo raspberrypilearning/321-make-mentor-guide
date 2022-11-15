@@ -2,8 +2,8 @@ title: Mentor guide to our 3...2...1...Make! project paths
 hero_image: images/banner.png
 description: A guide for mentors to use our 3...2...1...Make! project paths.  
 version: 4
-listed: false
-copyedit: false
+listed: true
+copyedit: true
 last_tested: "2022-05-09"
 steps: 
   - title: Introduction
