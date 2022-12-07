@@ -89,7 +89,7 @@ Create a project that can be entered into the ✨ [Coolest Projects Showcase](ht
 <strong>Age 11</strong>
 </p>
 
-+ 🏅[Further Scratch](https://projects.raspberrypi.org/en/pathways/further-scratch){:target="_blank"}
++ 🏅[Further Scratch](https://projects.raspberrypi.org/en/pathways/further-scratch){:target="_blank"} - If this is your first time using 321 Make! It would be useful to first complete 🏅[More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch){:target="_blank"}  
 <p style="display: flex; flex-wrap: wrap">
 <img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/nature-rover.png" alt="A rover robot with on screen controls."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/puzzle-room.png" alt="A character inside a spaceship with lots of contols."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/mandala.png" alt="A colourful mandala drawing."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/swarms-schools-flocks.png" alt="A lion walking across a scene with flying dinosaurs."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/music-maker.png" alt="A path made from colourful blocks."><img style="flex-basis: 100px; flex-grow: 1; width: 100px;" src="images/welcome-to-my-world.png" alt="A view of a road from inside a car."></p>
 
