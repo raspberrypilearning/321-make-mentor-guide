@@ -30,17 +30,13 @@ You are going to make some design decisions about the kind of face you will make
 
 Look at these examples and think about how they have both been made from shapes. How have circles, ellipses, squares, rectangles, and triangles been used to create different faces?
 
-**Kawaii fruit**: [See inside](https://trinket.io/python/6bad88800b){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/6bad88800b?outputOnly=true&start=result" width="450" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**Kawaii fruit**:[See inside](https://editor.raspberrypi.org/en/projects/fruit-face-example){:target="_blank"}
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/fruit-face-example" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe>
 
-**Tribal mask**: [See inside](https://trinket.io/python/b876d500ab){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/b876d500ab?outputOnly=true&start=result" width="450" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**Tribal mask**:[See inside](https://editor.raspberrypi.org/en/projects/tribal-mask-example){:target="_blank"}
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/tribal-mask-example" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe>
 
 </div>
 </div>
