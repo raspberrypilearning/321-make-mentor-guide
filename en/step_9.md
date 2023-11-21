@@ -22,11 +22,9 @@ Projects are written for an audience that is global and has a wide variety of co
 
 As creators progress through 3...2...1...Make! there are increasing opportunities to bring in their own interests and make projects that matter to them. This example from the 'Powerful patterns' project uses the lapis Sarawak Malaysian cake:
 
-**Kek lapis Sarawak**: [See inside](https://trinket.io/python/81be7eb895){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/81be7eb895?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**Kek lapis Sarawak**: [See inside](https://editor.raspberrypi.org/en/projects/repeated-patterns-example){:target="_blank"}
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/repeated-patterns-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe>
 
 --- task ---
 
