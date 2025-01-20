@@ -8,6 +8,8 @@ last_tested: "2022-05-09"
 steps: 
   - title: Introduction
   - title: Why 3...2...1...Make! ?
+  completion:
+  - engaged
   - title: What is a path?
   - title: Three Explore projects
   - title: Quick quiz
@@ -21,5 +23,9 @@ steps:
   - title: Make! projects
   - title: Make it matter 
   - title: Choose a path
+  completion:
+  - internal
   - title: What next for mentors?
+  completion:
+  - external
 
